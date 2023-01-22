@@ -50,7 +50,7 @@ The stages of the project with the list of technologies to be used are as follow
 ## Results
 
 In the first stage of the project, the train dataset was cleaned and filtered for useful criteria,
-and saved as csv and xlsx files. Based on the updated data, ERD diagram and the a script to create
+and saved as csv and xlsx files. Then, based on the updated data, an ERD diagram and a script to create
 tables were created in PostgreSQL, and committed to GitHub.  
 
 ## Summary 

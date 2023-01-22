@@ -1,5 +1,5 @@
 --NOTE: You should create a database (ie. HouseSalePrice) before running this script. 
---This script is to create all tables and insert data into 5 reference tables.
+--This script is to create all seven tables and insert data into five reference tables (HEATING, LOTSHAPE, NEIGHBORHOOD, GARATETYPE, HOUSETYPE)
 
 --1. CREATE TABLES
 

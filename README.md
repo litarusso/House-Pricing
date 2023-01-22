@@ -10,7 +10,7 @@ the same time by using all or some of the variables below as input:
 
 - Lot Area (in square feet)
 - Lot Shape
-- Neighborhood
+- Neighbourhood
 - Building Type
 - Year Built
 - Year Remodeled
@@ -50,7 +50,6 @@ The stages of the project with the list of technologies to be used are as follow
 ## Results
 
 In the first stage of the project, the train dataset was cleaned and filtered for useful criteria,
-and saved as csv and xlsx files. Then, based on the updated data, an ERD diagram and a script to create
-tables were created in PostgreSQL, and committed to GitHub.  
+and saved as csv and xlsx files. Then, based on the updated data, an ERD (Entity Relationship Diagram) and a SQL script were created in PostgreSQL, and committed to GitHub.  
 
 ## Summary 

@@ -19,11 +19,11 @@ the same time by using all or some of the variables below as input:
 - Number of Full Bathrooms
 - Number of Half Bathrooms
 - Number of Bedrooms above ground floor
-- Fireplaces
+- Fireplaces (Yes/No)
 - Garage Type
 - Garage Car Numbers
 - Paved Drive
-- Pool Area
+- Pool (Yes/No)
 - Year Sold
 - Sale Price
 

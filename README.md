@@ -16,7 +16,7 @@ Another reason to choose this topic is that this model can be adapted to any cou
 The original train.csv Dataset was retrieved from Kaggle website 
 [https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/data?select=train.csv], and was composed 
 of 81 columns and 1460 rows. In the first segment of the project, the Dataset was filtered for only useful fields and updated 
-as 18 columns and 1236 rows as stated with their descriptions below:
+as 18 columns and 1150 rows as stated with their descriptions below:
 
 - Lot Area (Lot size in square feet)
 - Lot Shape (General shape of property)

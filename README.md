@@ -2,19 +2,14 @@
 
 ## Overview of the Project
 
-The aim of the project is to create a machine learning model that can predict the prices of the houses
-in Ames City, Iowa, USA for the sellers, and create an interactive website for the users, where they can filter 
-for multiple search criteria at the same time by entering all or some of the variables in the Dataset as an input.
+The aim of the project is to create a machine learning model that can predict the prices of houses in Ames City, Iowa, USA. 
+An interactive website for the sellers will be created, where they can simultaneously filter for multiple search criteria by entering all, 
+or some of the variables in the Dataset as an input.
 
-## The Reasons of Choosing That Topic 
+## Why Was This Topic Choosen?
 
-As many home owners look to sell their homes, they may wonder what factors determine 
-what their home is worth. Using machine learning, and a determined set of variables, the algorithm will be able to pinpoint 
-what key factors need to be taken into consideration to maximize the sale cost of their home.
-
-Another reason to choose this topic is that this model can be adapted to any country and city in the 
-world. Therefore, it is possible to realign and improve the model for future projects.
-
+As many homeowners look to sell their homes, they may wonder what factors determine what their home is worth. Using machine learning, and a determined set of variables, the algorithm will be able to pinpoint what key factors need to be taken into consideration to maximize the sale of their home.
+Another reason to choose this topic is that this model can be adapted to any country and city in the world. Therefore, it is possible to realign and improve the model for future projects.
 
 ## Data Description
 

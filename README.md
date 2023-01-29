@@ -130,16 +130,16 @@ The ‘enumerate’ function was used to determine the importance “value” of
 ![top_ten_features](https://user-images.githubusercontent.com/111096246/215362764-3832c90e-2344-4cae-96b5-7c99a4246a90.PNG)
 
 Where the rank goes as follows:
-	1. Total House Square Feet
-	2. Year Built
-	3. Year Remodelled 
-	4. Number of Cars That Fit In Garage
-	5. Lot Area
-	6. Month Sold
-	7. Number of Full Bathrooms
-	8. Number of Bedrooms Above Ground Level
-	9. year Sold
-	10. Whether the house has a Fireplace
+1. Total House Square Feet
+2. Year Built
+3. Year Remodelled 
+4. Number of Cars That Fit In Garage
+5. Lot Area
+6. Month Sold
+7. Number of Full Bathrooms
+8. Number of Bedrooms Above Ground Level
+9. year Sold
+10. Whether the house has a Fireplace
 	
 ### Visualization of Predicted Values Vs. Actual Values
 

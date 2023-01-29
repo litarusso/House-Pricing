@@ -129,6 +129,18 @@ The ‘enumerate’ function was used to determine the importance “value” of
 
 ![top_ten_features](https://user-images.githubusercontent.com/111096246/215362764-3832c90e-2344-4cae-96b5-7c99a4246a90.PNG)
 
+Where the rank goes as follows:
+	1. Total House Square Feet
+	2. Year Built
+	3. Year Remodelled 
+	4. Number of Cars That Fit In Garage
+	5. Lot Area
+	6. Month Sold
+	7. Number of Full Bathrooms
+	8. Number of Bedrooms Above Ground Level
+	9. year Sold
+	10. Whether the house has a Fireplace
+	
 ### Visualization of Predicted Values Vs. Actual Values
 
 In the image below, the graph on the left visualizes the predicted results from the MLR model, and the graph on the right indicates the Random Forest model. Actual values are symbolized by red circles, and predicted values by blue circles. As noted in the model results, the predicted values do not match the actual values all that well, but one thing that can be noted is how the MLR predictions are slightly closer than the RF predictions. Here one can also notice the presence of two potential outliers.

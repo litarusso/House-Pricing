@@ -75,6 +75,7 @@ The script to create all 7 tables and insert data to all 5 reference tables has 
 - Calling a Model
 	* Flask
 
+## Analysis on the Machine Learning Model and Visualization
 
 ## Description of Data Exploration
 The original dataset, as mentioned in the ‘Data Description’ consisted of 81 columns and 1460 rows. By the end of the data wrangling only 18 columns and 1150 rows remained. This section aims to provide the reasoning that led to various categories of data being removed, or transformed.
@@ -95,17 +96,34 @@ Another case of data transformation was the ‘MoSold’ and ‘YrSold’, as th
  
 ### Merging Information
 
-Initially, the ‘Neighborhood’ names were shortened to facilitate reading, such as ‘BrkSide’ being ‘Brookside’. Using the ‘data_description.txt’ a table was created with the purpose of merging it with the dataset in order to drop the abbreviated neighborhood column and replacing it with a new column that has the full names. 
+Initially, the ‘Neighborhood’ names were shortened to facilitate reading, such as ‘BrkSide’ being ‘Brookside’. Using the ‘data_description.txt’ a table was created with the purpose of merging it with the dataset in order to drop the abbreviated neighborhood column and replacing it with a new column that has the full names.
 
 
 ## Project Status
 
-The team is working on the 2nd deliverable which is to clean dataset, visualize data, and build the model. 
-Details of the project schedule can be found below:
+### Segment One, ‘Sketch It Out’
+
+Up to now the team has divided and conquered various elements of the project to get it going. Segment One, ‘Sketch It Out’, consisted of the following tasks:
+- Creating the GitHub repository and all the necessary branches
+- Creating an ERD (Entity Relationship Diagram)
+- Creating a mock-up of the database in pgAdmin4 using an SQL script.
+- Listed the list of technologies to be used and required at first, and continuously update as the project evolves.
+- Updating the README.md with updates from work completed and breakdowns of the overview, purpose of the project, data description, database, and the list of technologies, as mentioned above.
+- Creating the presentation that will summarize the project.
 
 <img width="639" alt="Screen Shot 2023-01-22 at 2 02 22 PM" src="https://user-images.githubusercontent.com/104400293/213945060-a1704d85-1a00-4f00-9f3b-68b6b00fb3dc.png">
+All the required deliverables were completed and submitted on time.
 
-The train dataset was cleaned and filtered for useful criteria,
-and saved as csv and xlsx files. Then, based on the updated data, an ERD (Entity Relationship Diagram) and a script 
-were created in PostgreSQL, and committed to GitHub. Then, the Readme file and PowerPoint presentation 
-were created accordingly.
+### Segment Two, ‘Build and Assemble’
+
+For the second deliverable the requirements change from the administrative side of the project to the data wrangling, programming, and visualization side of things. Segment Two, ‘Build and Assemble’ consists of the following tasks:
+- Cleaning the data and uploading to GitHub.
+- Creating an ERD (Entity Relationship Diagram)
+- Creating the database using the SQL script from Segment One.
+- Visualize the data – Tell a story. This is done within Tableau in order to generate data visualizations that may reveal trends that may not be apparent until seen in graph form. These visualizations will be used in the presentation in order to complement points and ideas.
+- Build two or three models, and refine the analysis. Two models have been created thus far, one being a Random Forest model and the other is a Multiple Linear Regression. Further information can be found in the ‘Analysis on the Machine Learning Model and Visualization’ section.
+- Updating the README.md with updates from work completed and breakdowns of the data exploration and analysis on model & visualization.
+- Generate a draft version of the HTML page.
+
+![segment_two](https://user-images.githubusercontent.com/111096246/215358724-13aaa75e-1bc8-4fec-979f-cde5aada12dd.PNG)
+Work is still underway to meet the requirements for Segment Two. This page will be updated once the second set of deliverables have been submitted.

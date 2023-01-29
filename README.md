@@ -70,6 +70,7 @@ The script to create all 7 tables and insert data to all 5 reference tables has 
 	* PostgreSQL
 - Training and Executing Machine Learning Model
 	* AWS, Machine Learning
+	* OneHotEncoder, RareLabelEncoder, RandomForestRegressor, joblib
 - Presentation of Data Visualization
 	* HTML, Javascript, CSS
 - Calling a Model

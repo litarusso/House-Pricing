@@ -78,6 +78,67 @@ The script to create all 7 tables and insert data to all 5 reference tables has 
 
 ## Analysis on the Machine Learning Model and Visualization
 
+### Definitions:
+
+Mean Absolute Error (MEA): Measures the difference between the predicted and true value. It is a useful metric, as it provides a sense of magnitude of errors in the predictions. A lower MAE value indicates a better fit between the predicted and true values, whereas a higher MAE value indicates a worse fit. It should be noted that the MAE is sensitive to outliers, so the distribution of data and presence of outliers should be taken into consideration when interpreting the MAE value.
+
+Mean Squared Error (MSE): A measure of the average of the squared differences between the predicted and true values. Commonly used to evaluate the performance of a model. Just like the MEA, a low MSE indicates a better fit between the predicted and true values, and vice versa for a high MSE.
+Root Mean Squared Error (RMSE): A measure of the differences between values (sample and population values) predicted by a model and the true values. RMSE follows the same rules as the MAE and MSE where a low RMSE value indicates a better fit between predicted and true values, and a higher RMSE indicates a worse fit.
+
+R-Squared: Represents the proportion of the variance in the dependent variable that is predictable from the independent variables. Ranges from 0 to 1, where 0 means the model cannot explain any of the variability of the response data, and 1 means the model can explain the variability. A higher R-Squared value indicates a better fit between the predicted and true values, whereas a lower R-Squared indicates a worse fit.
+
+The model starts off with loading the dependencies and model libraries. Then, it imports the ‘clean_data.csv’ and verifies the null value count is zero across all the columns. Afterwards, the dataset is split into training and testing sets and converts categorical values into numerical ones using the ‘OneHotEncoder’ library. When the dataset is split into training and testing, the count of elements is added to ensure they add up to the same number of elements in the clean dataset. The selected features for conversion from categorical to numeric are those with non-integer data types, such as “LotShape’, or ‘Neighborhood’. Subsequently, the RareLabelEncoder is then used to group features in a new category called “Rare”, so that it may prevent over-fitting. Over-fitting is when the model doesn’t generalize well from the training data to unseen data. This is why the dataset is split into the training and testing datasets. If the model does much better on the training set than on the test set, then the model is likely over-fitting. 
+
+### Model 1: Random Forest
+The Random Forest algorithm was used for the first model. The Random Forest algorithm combines ensemble methods and the decision tree framework to deliver randomly drawn decision trees to output a final result that provides strong predictions/classifications. In this case, two parameters were provided:
+- n_estimators – The number of decision trees the model will be running
+- random_state – Sets a seed to the random generator, so that the train-test splits are always prearranged.
+
+![MRF_model_results](https://user-images.githubusercontent.com/111096246/215362724-5a7afa00-41af-408b-b33b-00a8d07d1124.PNG)
+
+From the image above we can note the following outputs:
+- MEA: 21,241.974
+- MSE (Mean Squared Error): 1,715,333,569.928
+- RMSE (Root Mean Squared Error): 41,416.586
+- R-Squared: 0.737
+
+In this case, the results from this model were not terrible, but nor were they great. This can be determined the RMSE value of 41,416.586 falling in between the provided data range of 37,900 to 755,000. Furthermore, the R-Squared measured 0.737 which is a good starting point for the model to be able to explain the variability.
+
+### Model 2: Multiple Linear regression (MLR)
+The Linear Regression algorithm models a target prediction value based on independent variables. It is used for determining the relationship between variables and forecasting.
+
+![MLR_model_results](https://user-images.githubusercontent.com/111096246/215362738-8b1d6368-42dd-44c5-a1fa-d2cf5340a2dc.PNG)
+
+From the image above we can note the following outputs:
+- MEA: 24,223.338
+- MSE: 1,454,333,984.589
+- RMSE: 38,135.731
+- R-Squared: 0.777
+The results from the Linear Regression model are similar, but not the same, as the Random Forest model. 
+
+![model_comparison_bar_chart](https://user-images.githubusercontent.com/111096246/215362743-9fe2f79e-63ca-46bf-803e-0341ed7be644.PNG)
+
+After comparing both models the following can be observed: 
+- Both the MSE and RMSE were lower in the Linear Regression model than the Random Forest model. Making the Linear Regression model more suitable for predicting the house sale values.
+- The MAE was lower in the Random Forest model than the Linear Regression hence making the Random Forest model more suitable for predicting the house sale values.
+- The R-Squared was higher in the Linear Regression model than the Random Forest model. Therefore, the Linear Regression model is more suitable for predicting the house sale values.
+- In conclusion, out of the four different scores, three sided with the Linear Regression model being the most apt model to use for further work.
+
+### Determine and Suggest Top 10 Most Important Features
+The ‘enumerate’ function was used to determine the importance “value” of all the categories, where the results were placed into a dataframe and ordered by level of importance. The top 10 most important features can be found in the image below:
+
+![top_ten_features](https://user-images.githubusercontent.com/111096246/215362764-3832c90e-2344-4cae-96b5-7c99a4246a90.PNG)
+
+### Visualization of Predicted Values Vs. Actual Values
+
+In the image below, the graph on the left visualizes the predicted results from the MLR model, and the graph on the right indicates the Random Forest model. Actual values are symbolized by red circles, and predicted values by blue circles. As noted in the model results, the predicted values do not match the actual values all that well, but one thing that can be noted is how the MLR predictions are slightly closer than the RF predictions. Here one can also notice the presence of two potential outliers.
+
+![model_comparison](https://user-images.githubusercontent.com/111096246/215362778-e14b992d-eaa7-40f3-a9f0-3884d4cfdbdb.PNG)
+
+Furthermore, with the results of each model stacked on top of the actual values in this line graph, one has to keep an eye out for where the orange line (Predicted_MLR) comes close to matching the blue line (Actual price), in order to verify that the MLR model is, indeed, the more appropriate model to predict house sale values.
+
+![model_accuracy](https://user-images.githubusercontent.com/111096246/215362780-8321c2b5-1b68-487c-8598-639c6c4057db.PNG)
+
 ## Description of Data Exploration
 The original dataset, as mentioned in the ‘Data Description’ consisted of 81 columns and 1460 rows. By the end of the data wrangling only 18 columns and 1150 rows remained. This section aims to provide the reasoning that led to various categories of data being removed, or transformed.
 

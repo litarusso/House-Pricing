@@ -140,7 +140,7 @@ Where the rank goes as follows:
 6. Month Sold
 7. Number of Full Bathrooms
 8. Number of Bedrooms Above Ground Level
-9. year Sold
+9. Year Sold
 10. Whether the house has a Fireplace
 	
 ### Visualization of Predicted Values Vs. Actual Values

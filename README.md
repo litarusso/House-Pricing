@@ -177,7 +177,7 @@ Initially, the ‘Neighborhood’ names were shortened to facilitate reading, su
 
 ## Project Status
 
-### Segment One, ‘Sketch It Out’
+### Segment One - ‘Sketch It Out’
 
 Up to now the team has divided and conquered various elements of the project to get it going. Segment One, ‘Sketch It Out’, consisted of the following tasks:
 - Creating the GitHub repository and all the necessary branches
@@ -190,7 +190,7 @@ Up to now the team has divided and conquered various elements of the project to 
 <img width="639" alt="Screen Shot 2023-01-22 at 2 02 22 PM" src="https://user-images.githubusercontent.com/104400293/213945060-a1704d85-1a00-4f00-9f3b-68b6b00fb3dc.png">
 All the required deliverables were completed and submitted on time.
 
-### Segment Two, ‘Build and Assemble’
+### Segment Two - ‘Build and Assemble’
 
 For the second deliverable the requirements change from the administrative side of the project to the data wrangling, programming, and visualization side of things. Segment Two, ‘Build and Assemble’ consists of the following tasks:
 - Cleaning the data and uploading to GitHub.

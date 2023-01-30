@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>HOUSE PRICING</title>
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/css/bootstrap.min.css">    
+    </head>
+    <body class="bg-dark">
+        <div class="container">
+            <div class="row">
+                <div class='card' style="width: 100%; height:100%; margin-top:50px">
+                    <div class="card-header" style="text-align: center;">
+                        <h1>HOUSE PRICE PREDICTION</h1>
+                        <h1>Ames City, Iowa, USA</h1>
+                    </div>
+                    <div class="card-body" style='text-align: center'>
+                        <form action="{{ url_for('predict') }}" method="POST">
+                            <div class="row">
+                                <div class="col-md-6 form-group" style="text-align: center">
+                                    <label>Year Sold</label>
+                                    <select class="form-control" name="sLocation" id="uiLocation" required=1>
+                                        {% for location in yearsold%}
+                                        <option value="{{location}}">{{location}}</option>
+                                        {% endfor %}
+                                    </select>
+                                </div>
+                                <div class="col-md-6 form-group" style="text-align: center">
+                                    <label>Total Square Footage</label>
+                                    <input type="number" class='form-control'id="uiBHK" name="uiBHK" placeholder="Total Square Footage">
+                                </div>
+                                <div class="col-md-6 form-group" style="text-align: center">
+                                    <label>Neighborhood</label>
+                                    <select class="form-control" name="sLocation" id="uiLocation" required=1>
+                                        {% for location in neighborhood%}
+                                        <option value="{{location}}">{{location}}</option>
+                                        {% endfor %}
+                                    </select>
+                                </div>
+                                <div class="col-md-6 form-group" style="text-align: center">
+                                    <label>Fireplaces</label>
+                                    <select class="form-control" name="sLocation" id="uiLocation" required=1>
+                                        {% for location in fireplaces%}
+                                        <option value="{{location}}">{{location}}</option>
+                                        {% endfor %}
+                                    </select>
+                                </div>
+                                <div class="col-md-12 form-group" style="text-align: center">
+                                    <label>Year Remodeled</label>
+                                    <select class="form-control" name="sLocation" id="uiLocation" required=1>
+                                        {% for location in yearremodadd%}
+                                        <option value="{{location}}">{{location}}</option>
+                                        {% endfor %}
+                                    </select>
+                                </div>
+                                <br><br><br>
+
+                                <div class="col-md-12 form-group">
+                                    <button class="btn btn-primary form-control">ESTIMATE PRICE</button>
+                                </div>
+                            </div>
+                        </form>
+                        <br>
+
+                        <div class="col-md-12" style="text-align: center;">
+                            <h3><span>{{result}}</span></h3>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div> 
+    </body>
+</html>
+

@@ -87,6 +87,8 @@ Root Mean Squared Error (RMSE): A measure of the differences between values (sam
 
 R-Squared: Represents the proportion of the variance in the dependent variable that is predictable from the independent variables. Ranges from 0 to 1, where 0 means the model cannot explain any of the variability of the response data, and 1 means the model can explain the variability. A higher R-Squared value indicates a better fit between the predicted and true values, whereas a lower R-Squared indicates a worse fit.
 
+### Introduction
+
 The model starts off with loading the dependencies and model libraries. Then, it imports the ‘clean_data.csv’ and verifies the null value count is zero across all the columns. Afterwards, the dataset is split into training and testing sets and converts categorical values into numerical ones using the ‘OneHotEncoder’ library. When the dataset is split into training and testing, the count of elements is added to ensure they add up to the same number of elements in the clean dataset. The selected features for conversion from categorical to numeric are those with non-integer data types, such as “LotShape’, or ‘Neighborhood’. Subsequently, the RareLabelEncoder is then used to group features in a new category called “Rare”, so that it may prevent over-fitting. Over-fitting is when the model doesn’t generalize well from the training data to unseen data. This is why the dataset is split into the training and testing datasets. If the model does much better on the training set than on the test set, then the model is likely over-fitting. 
 
 ### Model 1: Random Forest

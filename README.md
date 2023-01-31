@@ -70,11 +70,32 @@ The script to create all 7 tables and insert data to all 5 reference tables has 
 	* PostgreSQL
 - Training and Executing Machine Learning Model
 	* AWS, Machine Learning
-	* OneHotEncoder, RareLabelEncoder, RandomForestRegressor, joblib
+	* OneHotEncoder, RareLabelEncoder, RandomForestRegressor, joblib, MultipleLinearRegression
 - Presentation of Data Visualization
 	* HTML, Javascript, CSS
 - Calling a Model
 	* Flask
+	
+## Description of Data Exploration
+The original dataset, as mentioned in the ‘Data Description’ consisted of 81 columns and 1460 rows. By the end of the data wrangling only 18 columns and 1150 rows remained. This section aims to provide the reasoning that led to various categories of data being removed, or transformed.
+
+### Subjective
+
+Various columns were given ratings for the state of a certain property of the house, either as a 1-10, or an ordinal rating from poor to excellent. As methodical the rating system may be, the actual category itself can be put up to debate depending on who one asks. An example from the original dataset is a column named ‘HeatingQC’ (Heating quality and condition) where it rates the quality of heating, and its condition, from poor to excellent. What was noted that people react differently to heat. For some what could be considered average, or typical, could be someone else’s excellent. For this reason, various other columns that were categorized as subjective were dropped from the dataset.
+
+### Null Values
+
+An inherent part of any dataset, whether large or small, is the eventuality of missing data - a null value, or a blank cell. This dataset was no different. Using the ‘df.isnull()’ function, columns with null values were identified and further looked into. Depending on the row, the purpose of the null value was inspected. For example, in the case of column ‘GarageType”, where 72 null values were found, it was noted that the null values did not mean that the dataset was missing information, but rather the null values represented the lack of a garage. Therefore, these values were converted to ‘NoGar’ to show that there is no garage. Another example would be column ‘FullBath’ where, for some reason, there are houses without full bathrooms. Rows with ‘0’, as their ‘FullBath’ value, were removed from the dataset.
+
+### Data Transformation
+
+Some of the columns had integer types of data to represent the corresponding part of the house, such as the square footage of the pool (PoolArea), or the number of fireplaces (Fireplaces). When the decision came to whether drop, or not, these columns. Ultimately, the team decided that it would be nice for one to look for these features, should they be available. Once it was determined the columns would stay in the dataset, it begged the question: How would they be represented? The answer came down to converting the numeric values to Booleans. If the ‘PoolArea’ was greater than zero, then the house has a pool. Otherwise, if the value was zero then the house has no pool. The same approach was taken with the ‘Fireplaces’ where if the count of fireplaces was 0, then there were no fireplaces, and if the value was greater than zero, the house does have at least one fireplace.
+
+Another case of data transformation was the ‘MoSold’ and ‘YrSold’, as they were represented by two integer values. It became apparent that a data transformation was required when attempting to import the dataset when the DATE data format in PostreSQL required the ‘DateSold’ to be in YYYY-MM-DD, rather than YY. Two new columns were created: ‘DaySold’, which was given an arbitrary value of ‘01’, rather than ‘30’ or ‘31’, as not all months share these days. Secondly, ‘DateSold’, that utilized the RIGHT, MID, and LEFT functions in Microsoft Excel, and referenced the respective year, month and day, sold columns. Lastly, the ‘DateSold’ column was categorized as a ‘Date’ column within excel with a custom format that would meet the expectations of PostreSQL.
+ 
+### Merging Information
+
+Initially, the ‘Neighborhood’ names were shortened to facilitate reading, such as ‘BrkSide’ being ‘Brookside’. Using the ‘data_description.txt’ a table was created with the purpose of merging it with the dataset in order to drop the abbreviated neighborhood column and replacing it with a new column that has the full names.
 
 ## Analysis on the Machine Learning Model and Visualization
 
@@ -152,27 +173,6 @@ In the image below, the graph on the left visualizes the predicted results from 
 Furthermore, with the results of each model stacked on top of the actual values in this line graph, one has to keep an eye out for where the orange line (Predicted_MLR) comes close to matching the blue line (Actual price), in order to verify that the MLR model is, indeed, the more appropriate model to predict house sale values.
 
 ![model_accuracy](https://user-images.githubusercontent.com/111096246/215362780-8321c2b5-1b68-487c-8598-639c6c4057db.PNG)
-
-## Description of Data Exploration
-The original dataset, as mentioned in the ‘Data Description’ consisted of 81 columns and 1460 rows. By the end of the data wrangling only 18 columns and 1150 rows remained. This section aims to provide the reasoning that led to various categories of data being removed, or transformed.
-
-### Subjective
-
-Various columns were given ratings for the state of a certain property of the house, either as a 1-10, or an ordinal rating from poor to excellent. As methodical the rating system may be, the actual category itself can be put up to debate depending on who one asks. An example from the original dataset is a column named ‘HeatingQC’ (Heating quality and condition) where it rates the quality of heating, and its condition, from poor to excellent. What was noted that people react differently to heat. For some what could be considered average, or typical, could be someone else’s excellent. For this reason, various other columns that were categorized as subjective were dropped from the dataset.
-
-### Null Values
-
-An inherent part of any dataset, whether large or small, is the eventuality of missing data - a null value, or a blank cell. This dataset was no different. Using the ‘df.isnull()’ function, columns with null values were identified and further looked into. Depending on the row, the purpose of the null value was inspected. For example, in the case of column ‘GarageType”, where 72 null values were found, it was noted that the null values did not mean that the dataset was missing information, but rather the null values represented the lack of a garage. Therefore, these values were converted to ‘NoGar’ to show that there is no garage. Another example would be column ‘FullBath’ where, for some reason, there are houses without full bathrooms. Rows with ‘0’, as their ‘FullBath’ value, were removed from the dataset.
-
-### Data Transformation
-
-Some of the columns had integer types of data to represent the corresponding part of the house, such as the square footage of the pool (PoolArea), or the number of fireplaces (Fireplaces). When the decision came to whether drop, or not, these columns. Ultimately, the team decided that it would be nice for one to look for these features, should they be available. Once it was determined the columns would stay in the dataset, it begged the question: How would they be represented? The answer came down to converting the numeric values to Booleans. If the ‘PoolArea’ was greater than zero, then the house has a pool. Otherwise, if the value was zero then the house has no pool. The same approach was taken with the ‘Fireplaces’ where if the count of fireplaces was 0, then there were no fireplaces, and if the value was greater than zero, the house does have at least one fireplace.
-
-Another case of data transformation was the ‘MoSold’ and ‘YrSold’, as they were represented by two integer values. It became apparent that a data transformation was required when attempting to import the dataset when the DATE data format in PostreSQL required the ‘DateSold’ to be in YYYY-MM-DD, rather than YY. Two new columns were created: ‘DaySold’, which was given an arbitrary value of ‘01’, rather than ‘30’ or ‘31’, as not all months share these days. Secondly, ‘DateSold’, that utilized the RIGHT, MID, and LEFT functions in Microsoft Excel, and referenced the respective year, month and day, sold columns. Lastly, the ‘DateSold’ column was categorized as a ‘Date’ column within excel with a custom format that would meet the expectations of PostreSQL.
- 
-### Merging Information
-
-Initially, the ‘Neighborhood’ names were shortened to facilitate reading, such as ‘BrkSide’ being ‘Brookside’. Using the ‘data_description.txt’ a table was created with the purpose of merging it with the dataset in order to drop the abbreviated neighborhood column and replacing it with a new column that has the full names.
 
 
 ## Project Status

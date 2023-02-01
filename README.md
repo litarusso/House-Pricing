@@ -139,7 +139,7 @@ From the image above we can note the following outputs:
 - R-Squared: 0.777
 The results from the Linear Regression model are similar, but not the same, as the Random Forest model. 
 
-![model_comparison_bar_chart](https://user-images.githubusercontent.com/111096246/215362743-9fe2f79e-63ca-46bf-803e-0341ed7be644.PNG)
+<img width="583" alt="Screen Shot 2023-02-01 at 11 07 58 AM" src="https://user-images.githubusercontent.com/111788394/216098085-c1c2e7b7-5b48-40dc-9a1c-90cd246f8602.png">
 
 After comparing both models the following can be observed: 
 - Both the MSE and RMSE were lower in the Linear Regression model than the Random Forest model. Making the Linear Regression model more suitable for predicting the house sale values.

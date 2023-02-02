@@ -101,9 +101,10 @@ Initially, the ‘Neighborhood’ names were shortened to facilitate reading, su
 
 ### Definitions:
 
-Mean Absolute Error (MEA): Measures the difference between the predicted and true value. It is a useful metric, as it provides a sense of magnitude of errors in the predictions. A lower MAE value indicates a better fit between the predicted and true values, whereas a higher MAE value indicates a worse fit. It should be noted that the MAE is sensitive to outliers, so the distribution of data and presence of outliers should be taken into consideration when interpreting the MAE value.
+Mean Absolute Error (MAE): Measures the difference between the predicted and true value. It is a useful metric, as it provides a sense of magnitude of errors in the predictions. A lower MAE value indicates a better fit between the predicted and true values, whereas a higher MAE value indicates a worse fit. It should be noted that the MAE is sensitive to outliers, so the distribution of data and presence of outliers should be taken into consideration when interpreting the MAE value.
 
 Mean Squared Error (MSE): A measure of the average of the squared differences between the predicted and true values. Commonly used to evaluate the performance of a model. Just like the MEA, a low MSE indicates a better fit between the predicted and true values, and vice versa for a high MSE.
+
 Root Mean Squared Error (RMSE): A measure of the differences between values (sample and population values) predicted by a model and the true values. RMSE follows the same rules as the MAE and MSE where a low RMSE value indicates a better fit between predicted and true values, and a higher RMSE indicates a worse fit.
 
 R-Squared: Represents the proportion of the variance in the dependent variable that is predictable from the independent variables. Ranges from 0 to 1, where 0 means the model cannot explain any of the variability of the response data, and 1 means the model can explain the variability. A higher R-Squared value indicates a better fit between the predicted and true values, whereas a lower R-Squared indicates a worse fit.
@@ -163,7 +164,22 @@ Where the rank goes as follows:
 8. Number of Bedrooms Above Ground Level
 9. Year Sold
 10. Whether the house has a Fireplace
-	
+
+![model_comparison_bar_chart4](https://user-images.githubusercontent.com/111096246/216210513-79e9e6c7-55a8-4fc1-9bf8-786539ec81ee.PNG)
+
+From the bar chart above, which visualizes the results from both models being applied to both the 18 variables, and the top ten variables. The following can be concluded based on what is known regarding the relationships that MEA, MSE, RMSE, and R-Squared have with the results.
+
+- The lower MAE means a better fit for the model, so between the models running the 18 variables, the linear regression model is the one with the best fit. Furthermore, between the models working with the top ten features, the random forest model has a better fit.
+
+- The relationship with the MSE is the same as the MAE. The lower the score the better. In the case of the 18 variable models, the linear regression has a better fit. For the models running the top ten variables the random forest model has a better fit.
+
+- Based on the results for the RMSE, the model which has a better fit, for 18 variables, is the linear regression model, and the model most appropriate for running the top ten features is the random forest.
+- Last, but not least, based on the results of the R-Squared test, where a higher score determines the better fit, it can be noted that the random forest model works best for the 18 variables. However, for the models running the top ten features the linear regression model is more appropriate.
+
+- In conclusion: For running the model with the original 18 variables submitted, it is recommended to use the linear regression model, as it outperformed the random forest model in three out of four tests, with an accuracy score of 77%. On the other hand, for the model running the top ten variables, it is recommended to use the linear regression model, as it outperformed the random forest model in three out of four tests. 
+
+To summarize, the linear regression model is the most appropriate model to utilize, regardless of the number of variables provided.
+
 ### Visualization of Predicted Values Vs. Actual Values
 
 In the image below, the graph on the left visualizes the predicted results from the MLR model, and the graph on the right indicates the Random Forest model. Actual values are symbolized by red circles, and predicted values by blue circles. As noted in the model results, the predicted values do not match the actual values all that well, but one thing that can be noted is how the MLR predictions are slightly closer than the RF predictions. Here one can also notice the presence of two potential outliers.

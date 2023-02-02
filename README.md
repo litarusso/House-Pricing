@@ -69,7 +69,7 @@ The script to create all 7 tables and insert data to all 5 reference tables has 
 - Database
 	* PostgreSQL
 - Training and Executing Machine Learning Model
-	* AWS, Machine Learning
+	* Machine Learning
 	* OneHotEncoder, RareLabelEncoder, RandomForestRegressor, joblib, MultipleLinearRegression
 - Presentation of Data Visualization
 	* HTML, Javascript, CSS
@@ -165,7 +165,9 @@ Where the rank goes as follows:
 9. Year Sold
 10. Whether the house has a Fireplace
 
-![model_comparison_bar_chart4](https://user-images.githubusercontent.com/111096246/216210513-79e9e6c7-55a8-4fc1-9bf8-786539ec81ee.PNG)
+### Refine Models:
+The 2 other Random Forest and Multiple Linear Regression models were built and trained using only the top 10 most important features instead of 18 features of the model 1 and model 2 mentioned above. And below is the performance comparison of these 4 models:
+![image](https://user-images.githubusercontent.com/110554264/216366651-5f8baaf6-069c-481c-a8a5-21c6d8875ad8.png)
 
 From the bar chart above, which visualizes the results from both models being applied to both the 18 variables, and the top ten variables. The following can be concluded based on what is known regarding the relationships that MEA, MSE, RMSE, and R-Squared have with the results.
 

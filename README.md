@@ -165,7 +165,7 @@ Where the rank goes as follows:
 9. Year Sold
 10. Whether the house has a Fireplace
 
-### Refine Models using suggested top 10 most important features:
+### Refine Models using the suggested top 10 most important features:
 The 2 other Random Forest and Multiple Linear Regression models were built and trained using only the top 10 most important features instead of 18 features from the model 1 and model 2 above. And below is the performance comparison of these 4 models:
 ![image](https://user-images.githubusercontent.com/110554264/216366651-5f8baaf6-069c-481c-a8a5-21c6d8875ad8.png)
 

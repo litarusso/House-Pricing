@@ -118,7 +118,7 @@ The Random Forest algorithm was used for the first model. The Random Forest algo
 - n_estimators – The number of decision trees the model will be running
 - random_state – Sets a seed to the random generator, so that the train-test splits are always prearranged.
 
-![MRF_model_results](https://user-images.githubusercontent.com/111096246/215362724-5a7afa00-41af-408b-b33b-00a8d07d1124.PNG)
+![image](https://user-images.githubusercontent.com/110554264/216368044-4a7db683-c359-474c-9dc9-00ae2767983f.png)
 
 From the image above we can note the following outputs:
 - MEA: 21,241.974

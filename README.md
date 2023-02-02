@@ -187,7 +187,7 @@ Up to now the team has divided and conquered various elements of the project to 
 - Updating the README.md with updates from work completed and breakdowns of the overview, purpose of the project, data description, database, and the list of technologies, as mentioned above.
 - Creating the presentation that will summarize the project.
 
-<img width="900" alt="Screen Shot 2023-01-22 at 2 02 22 PM" src="https://user-images.githubusercontent.com/104400293/213945060-a1704d85-1a00-4f00-9f3b-68b6b00fb3dc.png">
+![model_comparison_bar_chart](https://user-images.githubusercontent.com/111096246/216203014-82d5e7b6-b626-4f5f-ac4c-10d3ec78d34b.PNG)
 
 All the required deliverables were completed and submitted on time.
 

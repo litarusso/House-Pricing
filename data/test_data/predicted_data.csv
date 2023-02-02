@@ -1,1080 +1,1145 @@
-LotArea,LotShape,BldgType,YearBuilt,Neighborhood,YearRemodAdd,Heating,TtlHouseSF,FullBath,HalfBath,BedroomAbvGr,Fireplaces,GarageType,GarageCars,PavedDrive,PoolArea,YrSold,SalePrice,Predicted_Price,Actual_Price
-8400,Reg,1Fam,1950,Sawyer West,1950,GasA,1562,1,0,2,False,CarPort,1,N,False,2009,82000,,
-9000,Reg,1Fam,1928,Sawyer West,1950,GasA,1568,1,0,2,False,Detchd,2,N,False,2009,76000,,
-8400,Reg,Duplex,1977,Sawyer West,1977,GasA,2020,2,0,4,True,Detchd,2,Y,False,2007,144000,137308.13644991722,144000.0
-7800,Reg,1Fam,1965,Sawyer West,1965,GasA,1793,1,0,3,False,Detchd,1,Y,False,2006,119900,103001.86502198176,119900.0
-8900,Reg,1Fam,1966,Sawyer West,1966,GasA,2112,1,0,2,False,Detchd,1,Y,False,2006,107000,,
-13695,Reg,1Fam,2004,Sawyer West,2004,GasA,2228,1,1,3,False,Detchd,2,Y,False,2008,159000,,
-9180,IR1,1Fam,1983,Sawyer West,1983,GasA,1724,1,0,2,False,Attchd,2,Y,False,2007,144000,,
-13072,Reg,1Fam,2004,Sawyer West,2004,GasA,2316,1,1,3,False,Detchd,2,Y,False,2006,158000,,
-9206,Reg,1Fam,1985,Sawyer West,1985,GasA,2473,2,1,3,True,Attchd,2,Y,False,2010,178000,,
-7018,Reg,Duplex,1979,Sawyer West,1979,GasA,1535,2,0,4,False,Attchd,2,Y,False,2009,118964,,
-12376,Reg,1Fam,1990,Sawyer West,1990,GasA,4895,3,0,5,True,Attchd,3,Y,False,2010,320000,356923.3137388998,320000.0
-7892,Reg,TwnhsE,1993,Sawyer West,1993,GasA,2398,2,0,2,False,Attchd,2,Y,False,2008,153900,,
-14364,IR1,1Fam,1988,Sawyer West,1989,GasA,3219,2,1,3,True,Attchd,2,Y,False,2007,277000,,
-9453,IR1,1Fam,1993,Sawyer West,2003,GasA,2740,2,1,3,False,Attchd,2,Y,False,2010,194500,240029.34906006744,277000.0
-10762,Reg,TwnhsE,1980,Sawyer West,1980,GasA,1843,1,1,3,True,Attchd,1,Y,False,2009,120000,,
-8880,IR1,1Fam,1994,Sawyer West,2002,GasA,3058,2,1,3,True,Attchd,2,Y,False,2010,205000,,
-8366,IR1,1Fam,2004,Sawyer West,2004,GasA,2438,2,1,3,False,Attchd,2,Y,False,2008,173000,,
-11287,Reg,1Fam,1989,Sawyer West,1989,GasA,2789,2,1,3,True,Attchd,2,Y,False,2007,228500,,
-8012,Reg,TwnhsE,1992,Sawyer West,1992,GasA,3150,2,0,2,False,Attchd,2,Y,False,2007,179200,,
-13474,Reg,1Fam,1990,Sawyer West,1991,GasA,2943,2,1,4,True,Attchd,3,Y,False,2007,225000,,
-10380,IR1,1Fam,1986,Sawyer West,1987,GasA,4232,2,1,4,True,Attchd,2,Y,False,2007,301000,,
-7175,Reg,TwnhsE,1984,Sawyer West,1984,GasA,1496,1,0,2,False,Attchd,1,Y,False,2010,125000,,
-11228,IR2,1Fam,1993,Sawyer West,1993,GasA,3177,2,1,3,True,Attchd,3,Y,False,2008,228000,,
-12800,Reg,1Fam,1989,Sawyer West,1989,GasA,3162,2,0,2,True,Attchd,2,Y,False,2009,275000,,
-9291,IR1,1Fam,1993,Sawyer West,1993,GasA,2542,2,1,3,False,Attchd,2,Y,False,2008,187000,231484.44660729123,275000.0
-9554,IR1,1Fam,1993,Sawyer West,1994,GasA,2688,2,1,3,True,Attchd,2,Y,False,2006,215000,,
-12327,IR1,1Fam,1983,Sawyer West,2009,GasA,3628,1,1,1,True,BuiltIn,2,Y,False,2009,316600,,
-10041,IR1,1Fam,1992,Sawyer West,1992,GasA,2823,2,1,3,True,Attchd,2,Y,False,2006,220000,,
-8125,Reg,1Fam,1994,Sawyer West,1998,GasA,3087,2,0,3,True,Attchd,2,Y,False,2008,193500,,
-8012,Reg,TwnhsE,1980,Sawyer West,1980,GasA,1846,2,0,2,True,Attchd,1,Y,False,2010,143000,,
-8450,Reg,1Fam,2000,Sawyer West,2001,GasA,2698,2,0,3,False,Attchd,2,Y,False,2007,179000,,
-7153,Reg,1Fam,1992,Sawyer West,1992,GasA,2364,2,1,3,False,Attchd,2,Y,False,2006,175900,191418.1111783157,179000.0
-10142,IR1,1Fam,2004,Sawyer West,2004,GasA,3040,2,1,4,False,BuiltIn,2,Y,False,2010,233000,189061.2290338152,175900.0
-8400,Reg,1Fam,1980,Sawyer West,1981,GasA,2214,2,1,3,True,Attchd,2,Y,False,2010,171000,,
-8529,IR1,1Fam,2001,Sawyer West,2001,GasA,2888,2,0,3,True,Attchd,2,Y,False,2009,189000,,
-9317,Reg,1Fam,1993,Sawyer West,1993,GasA,2515,2,1,3,True,Attchd,2,Y,False,2009,213000,,
-9672,Reg,1Fam,1984,Sawyer West,1985,GasA,2137,2,0,3,False,Attchd,2,Y,False,2010,152000,,
-9938,Reg,1Fam,1993,Sawyer West,1994,GasA,2999,2,1,3,True,Attchd,2,Y,False,2010,236000,,
-7018,Reg,Duplex,1979,Sawyer West,1979,GasA,1535,2,0,4,False,Attchd,2,Y,False,2009,118858,,
-7018,Reg,Duplex,1979,Sawyer West,1979,GasA,2240,2,0,6,False,Detchd,2,Y,False,2009,142953,,
-13125,IR1,1Fam,1991,Sawyer West,1991,GasA,3231,2,1,4,True,Attchd,3,Y,False,2007,238000,142465.10912690964,142953.0
-8462,IR1,1Fam,1994,Sawyer West,1994,GasA,2649,2,1,3,False,Attchd,2,Y,False,2007,201000,,
-8012,Reg,TwnhsE,1993,Sawyer West,1994,GasA,3221,2,0,2,True,Attchd,2,Y,False,2008,193000,,
-10083,Reg,1Fam,2003,Sawyer West,2003,GasA,2376,2,0,2,False,Attchd,2,Y,False,2009,184900,,
-7892,Reg,TwnhsE,1979,Sawyer West,1979,GasA,1836,2,0,2,True,Attchd,1,Y,False,2010,99500,,
-11839,Reg,1Fam,1990,Sawyer West,1990,GasA,3804,2,1,4,True,Attchd,2,Y,False,2008,262280,,
-9069,Reg,1Fam,1992,Sawyer West,1992,GasA,1932,1,0,2,False,Attchd,2,Y,False,2010,147000,,
-10357,IR1,1Fam,1990,Sawyer West,1991,GasA,2352,2,0,3,True,Attchd,2,Y,False,2007,179900,,
-9828,IR1,1Fam,1995,Sawyer West,1995,GasA,3148,2,1,3,True,Attchd,2,Y,False,2009,239500,,
-11200,Reg,1Fam,1985,Sawyer West,1985,GasA,2596,2,0,3,True,Attchd,2,Y,False,2006,180000,,
-14684,IR1,1Fam,1990,Sawyer West,1991,GasA,4354,2,0,3,True,Attchd,3,Y,False,2009,271900,192612.49131022068,180000.0
-11218,Reg,1Fam,1992,Sawyer West,1992,GasA,2900,2,1,3,True,Attchd,2,Y,False,2010,189000,,
-13072,Reg,1Fam,2005,Sawyer West,2005,GasA,2282,1,1,3,False,Detchd,2,Y,False,2006,142500,217889.82305056462,189000.0
-7153,Reg,1Fam,1991,Sawyer West,1991,GasA,2572,2,0,3,False,Attchd,2,Y,False,2008,179200,,
-13695,Reg,1Fam,2003,Sawyer West,2004,GasA,2228,1,0,3,False,Detchd,2,Y,False,2008,155000,,
-16196,IR3,1Fam,1998,Sawyer West,1998,GasA,2976,2,0,3,True,Attchd,2,Y,False,2007,215000,175644.00149450032,155000.0
-10994,IR1,1Fam,2005,Sawyer West,2006,GasA,3688,2,0,2,True,Attchd,2,Y,False,2009,257000,,
-6629,Reg,1Fam,1925,Edwards,1950,GasA,2041,2,0,3,False,Detchd,1,Y,False,2009,103600,262301.15785680106,257000.0
-10921,Reg,1Fam,1965,Edwards,1965,GasA,1920,1,0,3,False,Attchd,1,P,False,2007,94750,,
-10625,Reg,1Fam,1920,Edwards,1950,GasA,1293,1,0,2,False,Basment,1,Y,False,2010,83000,,
-9525,Reg,1Fam,1954,Edwards,1972,GasA,2849,2,0,4,False,Attchd,1,Y,False,2006,136900,,
-8536,Reg,1Fam,2006,Edwards,2007,GasA,2250,1,1,2,False,Attchd,2,Y,False,2007,155000,113866.20714753633,94750.0
-12615,Reg,1Fam,1950,Edwards,2001,GasA,3360,2,0,4,True,Attchd,2,Y,False,2007,243000,62434.88412921177,83000.0
-9060,Reg,1Fam,1957,Edwards,2006,GasA,1340,1,0,3,True,Attchd,1,Y,False,2007,120000,,
-10420,Reg,1Fam,2009,Edwards,2009,GasA,2424,2,0,3,False,Attchd,2,Y,False,2010,186000,,
-8741,Reg,1Fam,1945,Edwards,1950,GasA,2222,1,1,3,True,Detchd,1,Y,False,2010,113000,,
-7917,IR1,1Fam,1976,Edwards,1976,GasA,2256,1,1,3,True,Attchd,1,Y,False,2007,148000,,
-11409,Reg,1Fam,1949,Edwards,2008,GasA,2484,1,1,3,True,Attchd,1,Y,False,2009,131000,,
-12342,IR1,1Fam,1940,Edwards,1950,GasA,1722,1,0,1,False,Detchd,2,Y,False,2009,82500,100260.35858556814,120000.0
-9084,Reg,1Fam,1941,Edwards,1950,GasA,1727,1,0,3,False,Detchd,1,Y,False,2008,95000,,
-7301,Reg,1Fam,2003,Edwards,2003,GasA,1922,3,0,4,True,BuiltIn,2,Y,False,2009,198500,,
-7200,Reg,1Fam,1976,Edwards,1976,GasA,2166,1,0,3,True,Detchd,1,Y,False,2009,125000,,
-8405,Reg,1Fam,1900,Edwards,1950,GasA,2228,1,0,4,False,Detchd,1,Y,False,2008,119000,136956.8318731431,148000.0
-9571,Reg,1Fam,1956,Edwards,1956,GasA,2288,1,0,3,False,Attchd,1,Y,False,2010,129000,166469.79247653903,131000.0
-9571,Reg,1Fam,1958,Edwards,1958,GasA,2552,1,0,3,False,Attchd,1,Y,False,2009,60000,,
-8160,Reg,1Fam,1940,Edwards,1950,GasA,1890,1,1,3,False,Detchd,1,P,False,2007,126000,,
-12354,Reg,1Fam,1920,Edwards,2000,GasA,1880,1,0,3,False,Detchd,2,Y,False,2009,110000,139506.27330367267,198500.0
-9855,Reg,1Fam,1956,Edwards,1956,GasA,3125,1,0,3,True,Attchd,2,Y,False,2009,127500,,
-9170,Reg,1Fam,1965,Edwards,1965,GasA,2428,1,0,2,False,Detchd,2,Y,False,2007,140000,,
-40094,IR1,1Fam,2007,Edwards,2008,GasA,7814,3,1,3,True,BuiltIn,3,Y,False,2007,184750,,
-8777,Reg,1Fam,1949,Edwards,2003,GasA,1126,2,0,2,False,Detchd,2,N,False,2009,108000,,
-21780,Reg,1Fam,1918,Edwards,1950,GasA,2837,2,0,4,True,Detchd,2,N,False,2008,185000,,
-7800,Reg,1Fam,1948,Edwards,2002,GasA,2904,3,0,3,False,Attchd,1,Y,False,2006,225000,,
-10452,IR1,1Fam,1953,Edwards,1953,GasA,2188,1,0,3,True,Attchd,2,Y,False,2008,155000,173125.0456288266,110000.0
-9084,Reg,1Fam,1940,Edwards,1950,GasA,2265,1,0,4,True,Detchd,1,P,False,2009,108000,,
-9937,Reg,1Fam,1964,Edwards,1999,GasA,2972,1,0,3,False,Detchd,2,Y,False,2009,167000,,
-10012,Reg,1Fam,1972,Edwards,1972,GasA,2319,2,0,3,False,Detchd,2,Y,False,2008,137500,181859.4364315546,140000.0
-6420,IR1,1Fam,1952,Edwards,1952,GasA,2128,1,0,2,False,Detchd,1,Y,False,2006,123500,,
-8172,Reg,1Fam,1954,Edwards,1972,GasA,2411,2,0,4,False,Detchd,1,Y,False,2008,135000,,
-13286,IR1,1Fam,2007,Edwards,2008,GasA,3396,2,0,3,True,Attchd,3,Y,False,2009,320000,,
-8405,Reg,1Fam,1945,Edwards,1950,Wall,1529,2,0,4,False,Detchd,1,N,False,2009,98000,,
-8877,Reg,1Fam,1951,Edwards,1951,GasA,2056,1,0,2,False,Detchd,2,Y,False,2006,102000,,
-7819,Reg,1Fam,1976,Edwards,1976,GasA,2146,1,0,3,True,Detchd,2,Y,False,2010,107000,,
-8248,Reg,1Fam,1918,Edwards,1950,GasW,1936,1,1,3,False,Detchd,1,P,False,2006,116000,,
-11767,Reg,1Fam,1946,Edwards,1995,GasA,1968,1,0,3,False,Detchd,1,Y,False,2008,130500,,
-7024,Reg,1Fam,2005,Edwards,2006,GasA,2180,1,1,2,False,Attchd,2,Y,False,2007,157000,,
-16466,IR1,1Fam,1955,Edwards,1955,GasA,2209,1,1,3,False,Attchd,1,Y,False,2008,135500,,
-17140,Reg,1Fam,1956,Edwards,1956,GasA,2363,1,0,3,False,Attchd,1,Y,False,2009,135000,134173.86124240234,155000.0
-9450,Reg,1Fam,1954,Edwards,1954,GasA,1788,1,0,3,False,Detchd,2,Y,False,2007,110000,,
-10880,Reg,2fmCon,1950,Edwards,1950,GasW,2328,1,0,3,False,Detchd,1,Y,False,2008,125000,,
-10206,Reg,1Fam,1952,Edwards,1952,GasW,944,1,0,2,False,Detchd,2,Y,False,2009,82000,181711.59032910177,137500.0
-7024,Reg,1Fam,2005,Edwards,2005,GasA,2264,1,1,2,False,Attchd,2,Y,False,2008,176000,,
-11500,IR1,1Fam,1957,Edwards,1957,GasA,845,1,0,3,False,Detchd,1,N,False,2009,84000,128796.37114595901,135000.0
-13680,IR1,1Fam,1955,Edwards,1955,GasA,1733,2,0,4,True,Attchd,2,Y,False,2009,139600,,
-11100,Reg,1Fam,1946,Edwards,2006,GasA,930,1,0,2,False,Detchd,1,Y,False,2010,84900,,
-8562,Reg,1Fam,1957,Edwards,2002,GasA,2742,1,0,4,True,Basment,1,Y,False,2010,144500,,
-7585,Reg,1Fam,1948,Edwards,1950,GasA,2266,1,0,4,True,Detchd,1,P,False,2006,91500,,
-7950,IR1,1Fam,1977,Edwards,1977,GasA,2116,1,1,3,False,Attchd,2,Y,False,2009,159500,,
-8926,IR1,1Fam,1956,Edwards,1956,GasA,1632,1,0,3,False,Basment,1,Y,False,2009,112000,,
-12180,Reg,2fmCon,1941,Edwards,1950,Grav,1596,1,0,2,False,Detchd,1,Y,False,2010,80000,,
-17755,Reg,1Fam,1959,Edwards,1959,GasA,2932,1,1,3,True,Attchd,2,Y,False,2006,149900,,
-13728,Reg,1Fam,1935,Edwards,1986,GasA,3235,2,0,4,True,Basment,2,Y,False,2008,235000,118912.17068746686,135500.0
-9738,Reg,1Fam,1924,Edwards,1950,GasA,2005,1,0,4,False,Attchd,1,Y,False,2006,104900,,
-9340,Reg,1Fam,1941,Edwards,1950,GasA,1344,1,0,2,False,Attchd,1,N,False,2009,113000,,
-6931,Reg,1Fam,2003,Edwards,2004,GasA,2402,2,1,3,True,BuiltIn,2,Y,False,2008,165400,,
-11512,IR1,1Fam,1959,Edwards,2006,GasA,2376,1,0,2,True,Basment,1,Y,False,2008,177000,,
-8172,Reg,1Fam,1955,Edwards,1990,GasA,1728,1,0,2,False,Detchd,2,N,False,2006,115000,,
-63887,IR3,1Fam,2008,Edwards,2008,GasA,11752,2,1,3,True,Attchd,2,Y,True,2008,160000,,
-8190,Reg,1Fam,1954,Edwards,1954,GasA,1896,1,0,3,True,Detchd,1,Y,False,2007,119000,90625.26737237442,82000.0
-10215,Reg,1Fam,1954,Edwards,1954,GasA,1812,1,0,3,False,Attchd,1,Y,False,2007,111000,,
-8877,Reg,1Fam,1938,Edwards,1958,GasA,1632,1,0,2,True,Detchd,1,Y,False,2009,100000,227519.09633033862,176000.0
-10998,Reg,1Fam,1941,Edwards,1960,GasA,2588,2,0,3,False,Detchd,2,Y,False,2009,117000,,
-8212,Reg,1Fam,1914,Edwards,1950,GasA,1728,1,0,2,False,Detchd,1,Y,False,2010,58500,,
-9060,Reg,1Fam,1939,Edwards,1950,GasA,1818,1,0,2,False,Detchd,1,P,False,2009,105000,,
-19690,IR1,1Fam,1966,Edwards,1966,GasA,2898,2,0,4,True,Attchd,2,Y,True,2006,274970,,
-11767,Reg,1Fam,1910,Edwards,2000,GasA,1906,1,1,2,False,Detchd,1,Y,False,2007,112000,,
-9937,Reg,1Fam,1965,Edwards,1965,GasA,2512,1,1,3,False,Attchd,1,Y,False,2008,147500,180500.36351904133,159500.0
-2522,Reg,Twnhs,2004,Edwards,2006,GasA,2679,2,0,3,False,Detchd,2,Y,False,2006,130000,,
-2522,Reg,Twnhs,2004,Edwards,2004,GasA,2679,2,0,3,False,Detchd,2,Y,False,2006,130000,,
-8546,Reg,1Fam,2003,Edwards,2004,GasA,2242,2,0,2,False,Attchd,2,Y,False,2010,140000,101504.47456302261,80000.0
-3675,Reg,TwnhsE,2005,Edwards,2005,GasA,1619,1,0,2,False,Basment,2,Y,False,2008,148000,,
-2522,Reg,Twnhs,2004,Edwards,2004,GasA,2679,2,0,3,False,Detchd,2,Y,False,2006,137500,,
-3675,Reg,TwnhsE,2005,Edwards,2006,GasA,1619,2,0,2,False,Basment,2,Y,False,2006,140000,,
-3363,Reg,TwnhsE,2004,Edwards,2004,GasA,2684,2,0,3,False,Detchd,2,Y,False,2006,130000,,
-3675,Reg,TwnhsE,2005,Edwards,2005,GasA,1619,1,0,2,False,Basment,2,Y,False,2006,145000,85575.66353176255,113000.0
-4500,IR2,1Fam,1932,South & West of Iowa State University,2000,GasA,2313,1,0,3,False,Detchd,1,Y,False,2009,159434,,
-12155,IR1,1Fam,1925,South & West of Iowa State University,1950,GasA,2154,2,0,4,False,Detchd,1,P,False,2008,140000,,
-8400,Reg,1Fam,1939,South & West of Iowa State University,1997,GasA,2912,2,1,4,True,Detchd,1,Y,False,2008,179500,,
-8400,Reg,1Fam,1940,South & West of Iowa State University,2000,GasA,2535,1,0,2,True,Attchd,1,Y,False,2006,140000,,
-5000,Reg,1Fam,1924,South & West of Iowa State University,1950,GasA,2717,2,0,3,True,Detchd,1,Y,False,2010,127000,,
-10480,Reg,1Fam,1936,South & West of Iowa State University,1950,GasA,2703,1,0,3,False,Detchd,1,Y,False,2008,115000,,
-7200,Reg,1Fam,1936,South & West of Iowa State University,2007,GasA,1695,1,0,3,False,Detchd,2,Y,False,2009,155000,,
-6858,Reg,1Fam,1915,South & West of Iowa State University,1950,GasA,2453,1,1,4,False,Detchd,1,Y,False,2010,128000,,
-6292,Reg,1Fam,1928,South & West of Iowa State University,1950,GasA,2338,2,0,3,True,Detchd,1,Y,False,2009,145000,,
-7200,Reg,1Fam,1937,South & West of Iowa State University,1950,GasA,2499,1,1,3,True,Detchd,1,Y,False,2007,175000,,
-9900,Reg,1Fam,1940,South & West of Iowa State University,1950,GasA,2267,2,0,3,True,Detchd,1,Y,False,2009,139500,,
-6204,Reg,1Fam,1912,South & West of Iowa State University,1950,GasA,3025,1,0,5,False,Detchd,1,Y,False,2006,118500,,
-15863,Reg,1Fam,1920,South & West of Iowa State University,1970,GasA,3906,2,1,5,True,Basment,2,Y,False,2009,197000,,
-8400,Reg,1Fam,1925,South & West of Iowa State University,1950,GasA,2875,2,0,4,True,Detchd,2,Y,False,2008,136500,,
-8400,Reg,1Fam,1920,South & West of Iowa State University,1950,GasA,728,1,0,1,False,Detchd,1,N,False,2009,60000,,
-7804,Reg,1Fam,1928,South & West of Iowa State University,1950,GasA,3103,2,0,4,True,Detchd,2,Y,False,2009,135000,,
-9638,Reg,1Fam,1919,South & West of Iowa State University,1990,GasA,3251,2,0,4,True,Detchd,1,Y,False,2010,169000,,
-9842,Reg,1Fam,1921,South & West of Iowa State University,1998,GasA,3213,3,1,4,False,BuiltIn,2,Y,False,2008,189000,,
-6292,Reg,1Fam,1930,South & West of Iowa State University,1950,GasA,1558,1,0,2,False,Detchd,1,Y,False,2008,91000,,
-6171,Reg,1Fam,1925,South & West of Iowa State University,1990,GasA,2584,2,1,3,True,Detchd,1,Y,False,2009,137450,,
-6270,Reg,Duplex,1949,Crawford,1950,GasA,3003,2,0,4,False,2Types,3,Y,False,2007,145000,,
-7136,IR1,Duplex,1946,Crawford,1950,GasA,2937,2,0,4,False,Attchd,2,Y,False,2007,145000,,
-9550,IR1,1Fam,1915,Crawford,1970,GasA,2473,1,0,3,True,Detchd,3,Y,False,2006,140000,,
-13360,IR1,1Fam,1921,Crawford,2006,GasA,1840,1,0,2,False,Detchd,2,Y,False,2009,163500,94492.12098316802,140000.0
-21000,Reg,1Fam,1953,Crawford,1953,GasA,4068,2,0,3,True,Basment,2,Y,False,2007,217000,,
-7259,IR1,1Fam,1945,Crawford,2002,GasA,3348,2,1,3,True,Detchd,1,Y,False,2007,259500,,
-7588,Reg,1Fam,1920,Crawford,1950,GasA,2595,1,1,4,True,Detchd,1,Y,False,2006,200100,,
-10570,Reg,1Fam,1932,Crawford,1994,GasA,3580,2,1,3,True,Detchd,2,Y,False,2007,315000,,
-15660,IR1,1Fam,1939,Crawford,2006,GasA,2752,1,1,3,True,Attchd,2,Y,False,2008,311500,,
-14000,Reg,1Fam,1950,Crawford,2004,GasA,2244,1,0,3,True,Attchd,1,Y,False,2009,158500,149214.61195100378,127000.0
-15750,Reg,2fmCon,1953,Crawford,1953,GasA,2501,1,0,2,True,Attchd,1,Y,False,2006,157000,,
-15576,Reg,1Fam,1915,Crawford,1976,GasA,2520,2,0,4,False,Attchd,1,Y,False,2008,177000,148676.84618154587,155000.0
-22420,IR1,1Fam,1918,Crawford,1950,GasW,3994,2,1,4,True,Detchd,3,N,False,2007,239000,,
-4280,Reg,1Fam,1913,Crawford,2002,GasA,1134,1,0,2,True,Detchd,1,P,False,2007,90350,,
-11988,IR1,1Fam,1934,Crawford,1995,GasA,2375,1,1,3,True,Detchd,1,Y,False,2008,188700,,
-15602,IR1,1Fam,1959,Crawford,1997,GasA,3302,2,0,1,True,Attchd,2,Y,False,2010,289000,,
-10594,Reg,1Fam,1926,Crawford,1950,Grav,1557,1,0,2,False,Detchd,1,Y,False,2007,96500,,
-10918,Reg,1Fam,1926,Crawford,2004,GasA,3356,1,1,3,True,Detchd,1,Y,False,2009,234000,,
-32668,IR1,1Fam,1957,Crawford,1975,GasA,4550,3,0,4,True,Attchd,2,Y,False,2007,200624,,
-12984,Reg,1Fam,1977,Crawford,1977,GasA,3077,2,0,3,True,Attchd,2,Y,False,2006,217500,,
-12168,Reg,1Fam,1934,Crawford,1998,GasA,4159,2,1,4,True,Basment,2,Y,False,2007,359100,,
-7200,Reg,1Fam,1931,Crawford,2000,GasA,2278,1,1,3,True,Attchd,1,P,False,2008,149000,,
-11600,Reg,1Fam,1922,Crawford,1950,GasA,1880,1,0,2,True,Detchd,1,Y,False,2006,137500,,
-14442,Reg,1Fam,1957,Crawford,2004,GasA,3316,2,0,3,True,Attchd,2,Y,False,2007,257500,,
-21695,IR1,1Fam,1988,Crawford,2007,GasA,2560,2,0,3,True,Attchd,2,Y,False,2009,222000,,
-7128,Reg,1Fam,1941,Crawford,1950,GasA,2564,2,0,4,True,Detchd,1,Y,False,2007,164000,,
-7642,Reg,1Fam,1918,Crawford,1998,GasA,2338,1,1,3,True,Detchd,1,Y,False,2007,189950,,
-11500,IR1,1Fam,1936,Crawford,1987,GasA,3074,1,1,3,True,Attchd,1,Y,False,2006,250000,,
-9600,IR1,1Fam,1940,Crawford,1950,GasA,2036,1,1,2,True,Detchd,1,Y,False,2009,160000,,
-10592,Reg,1Fam,1923,Crawford,1996,GasA,2104,1,1,3,True,Detchd,1,Y,False,2007,165000,165975.60175241483,163500.0
-6305,Reg,1Fam,1938,Crawford,1950,GasA,1874,1,0,2,True,Basment,1,Y,False,2007,119750,,
-11275,IR1,1Fam,1932,Crawford,1950,GasA,2845,1,1,3,True,Detchd,2,Y,False,2007,220000,,
-13125,Reg,1Fam,1940,Crawford,1984,GasA,2540,1,1,3,True,Attchd,1,Y,False,2007,219500,,
-12000,Reg,1Fam,1941,Crawford,1950,GasA,2268,1,1,3,True,Attchd,1,Y,False,2009,174500,,
-14115,IR1,1Fam,1956,Crawford,2004,GasA,2884,1,0,2,True,Attchd,2,Y,False,2006,230000,,
-14778,IR1,1Fam,1954,Crawford,2006,GasA,2936,1,0,3,True,Detchd,2,Y,False,2008,224000,,
-16560,IR1,1Fam,1932,Crawford,1950,GasA,3297,2,1,4,True,Detchd,2,Y,False,2006,239000,,
-7681,IR1,1Fam,1921,Crawford,1950,GasA,2074,1,1,3,True,Detchd,1,Y,False,2009,154900,,
-13132,Reg,1Fam,1914,Crawford,1950,GasA,2531,1,1,4,False,Detchd,1,N,False,2006,138887,,
-11435,IR1,1Fam,1929,Crawford,1950,GasA,2309,1,0,3,True,Detchd,2,Y,False,2006,230000,83368.84101852449,90350.0
-14100,IR1,1Fam,1935,Crawford,1997,GasA,4175,3,1,4,True,BuiltIn,3,Y,False,2008,381000,,
-5362,Reg,1Fam,1910,Crawford,2003,GasA,1911,2,0,3,True,Detchd,2,Y,False,2007,139000,,
-7500,IR1,1Fam,1942,Crawford,1950,GasA,2265,1,0,3,True,Attchd,1,P,False,2009,177500,,
-17500,Reg,1Fam,1959,Crawford,2002,GasA,3804,2,0,3,True,Attchd,2,Y,False,2010,335000,,
-7558,Reg,1Fam,1928,Crawford,1950,GasA,2809,1,1,3,True,Detchd,2,Y,False,2009,177000,,
-16381,IR1,1Fam,1969,Crawford,1969,GasA,3688,2,0,3,True,Attchd,2,Y,False,2006,223000,205375.38771983003,217500.0
-11526,IR1,1Fam,1922,Crawford,1994,GasA,3143,2,0,3,True,Detchd,2,Y,False,2008,191000,,
-9042,Reg,1Fam,1941,Crawford,2006,GasA,3492,2,0,4,True,Attchd,1,Y,False,2010,266500,,
-4750,IR1,TwnhsE,2006,Crawford,2007,GasA,3198,2,0,2,True,Attchd,2,Y,False,2007,235000,,
-5587,IR1,TwnhsE,2008,Crawford,2008,GasA,3252,2,0,2,True,Attchd,2,Y,False,2008,392500,237575.10197156714,257500.0
-3842,IR1,TwnhsE,2004,Crawford,2005,GasA,3240,2,0,2,True,Attchd,2,Y,False,2008,275000,,
-8450,Reg,1Fam,2003,College Creek,2003,GasA,2566,2,1,3,False,Attchd,2,Y,False,2008,208500,,
-11250,IR1,1Fam,2001,College Creek,2002,GasA,2706,2,1,3,True,Attchd,2,Y,False,2008,223500,,
-10652,IR1,1Fam,2006,College Creek,2007,GasA,2988,2,0,3,True,Attchd,3,Y,False,2007,279500,,
-9742,Reg,1Fam,2002,College Creek,2002,GasA,3572,2,0,3,True,Attchd,2,Y,False,2008,230000,,
-11049,Reg,1Fam,2007,College Creek,2007,GasA,2468,2,0,3,False,Attchd,2,Y,False,2008,179900,143061.98295984603,165000.0
-10859,Reg,1Fam,1994,College Creek,1995,GasA,2194,1,1,3,False,Attchd,2,Y,False,2009,145000,,
-9200,IR1,1Fam,1975,College Creek,1980,GasA,1876,1,0,3,False,Detchd,1,Y,False,2008,130250,,
-11645,IR1,1Fam,2004,College Creek,2004,GasA,2580,2,1,3,False,Attchd,2,Y,False,2006,196500,,
-7200,Reg,1Fam,1972,College Creek,1972,GasA,1560,1,0,2,False,Detchd,1,Y,False,2008,124900,,
-9375,Reg,1Fam,1997,College Creek,1998,GasA,3091,2,1,3,False,Attchd,2,Y,False,2009,219500,,
-10665,IR1,1Fam,2003,College Creek,2003,GasA,2932,2,0,3,False,Attchd,2,Y,False,2007,226000,,
-9337,IR1,1Fam,1997,College Creek,1997,GasA,2610,2,1,3,False,Attchd,2,Y,False,2007,204750,,
-10264,IR1,1Fam,1999,College Creek,1999,GasA,3176,2,0,3,False,Attchd,2,Y,False,2006,214000,,
-10402,IR1,1Fam,2009,College Creek,2009,GasA,2452,2,0,3,False,Attchd,3,Y,False,2010,198900,,
-9965,Reg,1Fam,2007,College Creek,2007,GasA,3960,2,1,4,True,BuiltIn,3,Y,False,2007,383970,,
-8461,Reg,1Fam,2005,College Creek,2006,GasA,2184,2,1,3,True,Attchd,2,Y,False,2006,163990,,
-9066,IR1,1Fam,1999,College Creek,2000,GasA,2856,2,1,3,True,Attchd,3,Y,False,2008,230000,,
-15426,IR1,1Fam,1997,College Creek,1997,GasA,2692,2,1,3,False,Attchd,2,Y,False,2009,231500,,
-11645,Reg,1Fam,2005,College Creek,2005,GasA,3468,2,0,3,False,Attchd,2,Y,False,2006,260000,,
-10335,IR1,1Fam,1999,College Creek,1999,GasA,2991,2,0,3,False,Attchd,2,Y,False,2009,204000,,
-10356,Reg,1Fam,1975,College Creek,1975,GasA,1938,1,1,3,False,Attchd,2,Y,False,2007,122000,,
-9017,IR1,1Fam,1999,College Creek,1999,GasA,2862,2,0,3,False,Attchd,2,Y,False,2009,192000,,
-7180,IR1,1Fam,1972,College Creek,1972,GasA,1728,1,0,3,False,Detchd,1,Y,False,2008,127000,,
-13568,IR2,1Fam,1995,College Creek,1995,GasA,1980,1,0,3,False,Attchd,2,Y,False,2006,156000,,
-10900,IR1,1Fam,1977,College Creek,1977,GasA,2081,1,1,3,False,Attchd,1,Y,False,2010,161750,,
-8450,Reg,1Fam,2004,College Creek,2004,GasA,2872,2,0,3,False,Attchd,2,Y,False,2008,210000,,
-8990,IR1,1Fam,2006,College Creek,2006,GasA,2996,2,0,2,False,Attchd,2,Y,False,2006,204900,,
-10650,Reg,1Fam,1976,College Creek,1976,GasA,1788,1,0,3,False,Attchd,1,Y,False,2010,128200,,
-8773,Reg,1Fam,2004,College Creek,2004,GasA,2828,2,0,3,False,Attchd,2,Y,False,2010,185500,,
-11317,Reg,1Fam,2003,College Creek,2003,GasA,2508,2,1,3,False,Attchd,2,Y,False,2007,180000,,
-8814,Reg,1Fam,2006,College Creek,2006,GasA,3208,2,1,3,True,Attchd,2,Y,False,2009,220000,,
-12435,Reg,1Fam,2001,College Creek,2001,GasA,2755,2,1,3,True,Attchd,2,Y,False,2008,231500,,
-9588,IR1,1Fam,2007,College Creek,2007,GasA,4056,2,1,3,True,BuiltIn,3,Y,False,2007,276000,,
-15611,Reg,1Fam,2006,College Creek,2006,GasA,2998,2,1,3,True,Attchd,2,Y,False,2006,233230,,
-16226,IR3,1Fam,1998,College Creek,1999,GasA,3480,2,1,4,True,BuiltIn,2,Y,False,2007,267000,,
-13704,IR1,1Fam,2001,College Creek,2002,GasA,3082,2,0,3,True,Attchd,3,Y,False,2006,205000,,
-9800,Reg,1Fam,1972,College Creek,1972,GasA,1788,1,0,3,False,Attchd,2,Y,False,2006,149900,,
-10386,Reg,1Fam,2004,College Creek,2005,GasA,4000,2,0,3,False,Attchd,3,Y,False,2007,305900,,
-9135,Reg,1Fam,2002,College Creek,2003,GasA,3072,2,0,3,False,Attchd,2,Y,False,2008,214000,,
-11249,IR2,1Fam,1995,College Creek,1995,GasA,2400,2,0,3,False,Attchd,2,Y,False,2007,177500,,
-8200,Reg,1Fam,2003,College Creek,2004,GasA,2775,2,1,4,True,BuiltIn,2,Y,False,2007,219500,,
-8846,IR1,1Fam,1996,College Creek,1996,GasA,1784,1,0,2,False,Detchd,2,Y,False,2006,148000,,
-9245,IR1,1Fam,2006,College Creek,2006,GasA,2736,2,1,3,False,Attchd,2,Y,False,2007,213500,,
-9382,IR1,1Fam,1999,College Creek,2000,GasA,2947,2,0,3,False,Attchd,2,Y,False,2008,191000,,
-7200,Reg,1Fam,1972,College Creek,1972,GasA,1788,1,0,2,False,Detchd,2,Y,False,2009,123000,,
-8767,IR1,1Fam,2005,College Creek,2005,GasA,2620,2,0,3,True,Attchd,2,Y,False,2006,164990,,
-6762,Reg,1Fam,2007,College Creek,2007,GasA,2416,2,0,2,False,Attchd,2,Y,False,2007,195400,,
-10667,IR2,1Fam,1996,College Creek,1996,GasA,2460,2,1,3,True,Attchd,2,Y,False,2009,212000,,
-8750,Reg,1Fam,1994,College Creek,1995,GasA,2823,2,1,4,True,Attchd,2,Y,False,2008,210000,,
-13125,Reg,1Fam,1997,College Creek,1998,GasA,2971,2,0,3,True,Attchd,2,Y,False,2008,208900,,
-10637,Reg,1Fam,2007,College Creek,2008,GasA,3423,2,0,3,True,Attchd,3,Y,False,2009,297000,,
-9531,IR1,1Fam,1998,College Creek,1998,GasA,2590,2,1,3,False,Attchd,2,Y,False,2007,211000,,
-8924,IR1,1Fam,1998,College Creek,1999,GasA,2604,2,1,3,False,Attchd,2,Y,False,2008,188000,,
-11423,Reg,1Fam,2001,College Creek,2002,GasA,3182,2,0,3,True,Attchd,2,Y,False,2010,272000,,
-8320,Reg,1Fam,2004,College Creek,2004,GasA,2352,2,1,3,False,Attchd,2,Y,False,2008,185900,,
-7990,IR1,1Fam,1975,College Creek,1975,GasA,1848,1,0,3,False,Detchd,1,Y,False,2008,110000,,
-12803,IR1,1Fam,2002,College Creek,2002,GasA,2988,2,0,3,True,Attchd,2,Y,False,2008,221000,,
-12464,IR2,1Fam,1996,College Creek,1996,GasA,2080,1,0,3,False,Detchd,2,Y,False,2009,152000,,
-11050,Reg,1Fam,2000,College Creek,2000,GasA,3593,2,1,3,True,Attchd,3,Y,False,2009,313000,,
-11885,Reg,1Fam,2001,College Creek,2001,GasA,3171,2,1,3,True,BuiltIn,2,Y,False,2009,261500,,
-8750,Reg,1Fam,1996,College Creek,1996,GasA,2596,2,1,2,True,Attchd,2,Y,False,2009,191000,,
-8633,Reg,1Fam,2005,College Creek,2005,GasA,2214,2,1,3,False,Attchd,2,Y,False,2009,173500,,
-11248,IR1,1Fam,2002,College Creek,2002,GasA,3294,2,0,3,True,Attchd,3,Y,False,2007,285000,,
-8400,Reg,1Fam,2004,College Creek,2005,GasA,2957,2,0,3,False,Attchd,2,Y,False,2010,213000,,
-9920,IR1,1Fam,1969,College Creek,1969,GasA,1942,1,1,3,True,Attchd,1,Y,False,2006,128500,,
-7314,Reg,1Fam,2007,College Creek,2007,GasA,2464,2,0,2,False,Attchd,2,Y,False,2009,194500,,
-11404,IR1,1Fam,1998,College Creek,1999,GasA,3184,2,1,3,True,Attchd,2,Y,False,2008,222500,,
-9313,IR1,1Fam,2004,College Creek,2004,GasA,2592,2,1,3,False,Attchd,2,Y,False,2009,190000,,
-9236,IR1,1Fam,1997,College Creek,1997,GasA,2973,2,0,3,False,Attchd,2,Y,False,2006,217000,,
-10769,IR1,1Fam,2007,College Creek,2007,GasA,2634,2,1,3,False,Attchd,2,Y,False,2009,212000,,
-9100,Reg,1Fam,2004,College Creek,2005,GasA,3696,2,0,3,True,Attchd,2,Y,False,2006,216837,,
-11210,IR1,1Fam,2005,College Creek,2006,GasA,3228,2,0,3,False,Attchd,3,Y,False,2006,221500,,
-16285,IR2,1Fam,2001,College Creek,2002,GasA,2843,2,0,3,False,Attchd,2,Y,False,2009,187100,,
-8199,Reg,1Fam,2005,College Creek,2005,GasA,2184,2,1,3,True,Attchd,2,Y,False,2008,189000,,
-12137,IR2,1Fam,1998,College Creek,1998,GasA,3310,2,0,3,False,Attchd,2,Y,False,2010,224900,,
-7226,IR1,1Fam,2003,College Creek,2003,GasA,2438,2,1,3,False,Attchd,2,Y,False,2008,183000,,
-9548,IR1,1Fam,2003,College Creek,2003,GasA,2770,2,1,3,True,Attchd,2,Y,False,2010,237000,,
-9525,Reg,1Fam,1995,College Creek,2006,GasA,2198,1,1,3,False,Attchd,1,Y,False,2008,144000,,
-15523,IR1,1Fam,1972,College Creek,1972,GasA,1728,1,0,3,True,Attchd,1,Y,False,2009,133500,,
-10970,IR1,1Fam,1978,College Creek,1978,GasA,1966,1,0,3,False,Detchd,2,Y,False,2008,147000,,
-8750,Reg,1Fam,1998,College Creek,1998,GasA,2486,2,1,3,False,Attchd,2,Y,False,2010,200500,,
-7000,IR1,1Fam,1978,College Creek,2005,GasA,1728,1,0,3,False,Attchd,1,Y,False,2009,136500,,
-9286,IR1,1Fam,1977,College Creek,1989,GasA,2536,1,1,3,False,Detchd,1,Y,False,2009,143500,,
-11838,Reg,1Fam,2001,College Creek,2001,GasA,3541,2,0,3,True,Attchd,2,Y,False,2009,236500,,
-8487,Reg,1Fam,2004,College Creek,2004,GasA,3000,2,0,3,False,Attchd,2,Y,False,2009,190000,,
-8760,Reg,1Fam,2006,College Creek,2006,GasA,3353,2,1,3,False,Attchd,3,Y,False,2006,239799,,
-14006,IR1,1Fam,2002,College Creek,2002,GasA,2712,2,1,3,True,Attchd,2,Y,False,2006,192500,,
-7200,Reg,1Fam,1972,College Creek,2003,GasA,1536,1,0,2,False,Detchd,1,Y,False,2009,133900,,
-8450,Reg,1Fam,2003,College Creek,2003,GasA,2674,2,0,3,False,Attchd,2,Y,False,2007,185000,,
-11923,IR1,1Fam,2007,College Creek,2007,GasA,3600,2,0,2,False,Attchd,2,Y,False,2009,239000,,
-11250,Reg,1Fam,2002,College Creek,2002,GasA,3418,2,1,4,True,Attchd,2,Y,False,2008,255900,,
-8846,Reg,1Fam,2005,College Creek,2006,GasA,2250,2,1,3,False,Attchd,2,Y,False,2006,173900,,
-6762,Reg,1Fam,2006,College Creek,2006,GasA,2395,2,0,2,False,Attchd,2,Y,False,2010,206000,,
-8385,Reg,1Fam,1977,College Creek,1977,GasA,1970,2,0,3,False,Attchd,1,Y,False,2008,149900,,
-11883,Reg,1Fam,1996,College Creek,1996,GasA,3008,2,0,3,True,Attchd,2,Y,False,2009,203000,,
-7406,Reg,1Fam,2006,College Creek,2006,GasA,2419,2,0,2,False,Attchd,2,Y,False,2006,194000,,
-7700,Reg,1Fam,1972,College Creek,1972,GasA,1764,1,0,3,False,Detchd,2,Y,False,2007,112500,,
-8125,Reg,1Fam,2002,College Creek,2002,GasA,3308,2,0,3,False,Attchd,3,Y,False,2006,230000,,
-9240,Reg,1Fam,2001,College Creek,2002,GasA,3318,2,1,3,True,BuiltIn,2,Y,False,2008,287000,,
-9245,IR2,1Fam,1994,College Creek,1995,GasA,1980,1,0,3,False,Detchd,2,Y,False,2008,145000,,
-11175,IR1,1Fam,2007,College Creek,2007,GasA,2632,2,0,3,True,Attchd,2,Y,False,2007,200141,,
-11367,Reg,1Fam,2002,College Creek,2002,GasA,3054,2,1,3,True,Attchd,2,Y,False,2006,255000,,
-8556,Reg,1Fam,2006,College Creek,2006,GasA,2480,2,0,2,False,Attchd,3,Y,False,2007,194000,,
-8775,Reg,1Fam,1994,College Creek,1994,GasA,1980,1,0,3,False,Attchd,1,Y,False,2007,126000,,
-8749,Reg,1Fam,2002,College Creek,2002,GasA,2918,2,0,3,True,Attchd,2,Y,False,2007,192000,,
-9317,IR1,1Fam,2006,College Creek,2006,GasA,2628,2,0,3,True,Attchd,2,Y,False,2007,176432,,
-10084,Reg,1Fam,2005,College Creek,2006,GasA,3104,2,0,3,False,Attchd,3,Y,False,2006,212900,,
-9965,Reg,1Fam,2006,College Creek,2007,GasA,4294,3,0,4,True,BuiltIn,3,Y,False,2007,424870,,
-10475,IR1,1Fam,2008,College Creek,2008,GasA,3388,2,0,3,False,Attchd,3,Y,False,2010,245350,,
-8935,IR1,1Fam,2002,College Creek,2002,GasA,2491,2,1,3,False,Attchd,2,Y,False,2009,195000,,
-9100,Reg,1Fam,2001,College Creek,2001,GasA,2424,2,0,3,False,Attchd,2,Y,False,2009,178000,,
-10400,Reg,1Fam,1998,College Creek,1998,GasA,2645,2,1,3,False,Attchd,2,Y,False,2009,197900,,
-9750,Reg,1Fam,2000,College Creek,2001,GasA,3260,2,0,3,True,Attchd,2,Y,False,2009,213000,,
-9135,Reg,1Fam,2003,College Creek,2003,GasA,3382,2,0,3,False,Attchd,2,Y,False,2006,200000,,
-12393,IR2,1Fam,2004,College Creek,2005,GasA,2795,2,1,4,True,BuiltIn,2,Y,False,2006,195000,,
-8158,Reg,1Fam,2003,College Creek,2003,GasA,2652,2,1,3,False,Attchd,2,Y,False,2008,224900,,
-9473,Reg,1Fam,2002,College Creek,2002,GasA,3159,2,1,3,True,Attchd,2,Y,False,2008,237000,,
-9808,IR1,1Fam,2002,College Creek,2002,GasA,3146,2,0,3,False,Attchd,2,Y,False,2009,227000,,
-8800,IR1,1Fam,1977,College Creek,2008,GasA,2080,2,0,3,False,Detchd,2,Y,False,2009,150500,,
-8072,Reg,1Fam,1994,College Creek,1995,GasA,1980,1,0,3,False,Detchd,2,Y,False,2009,138000,,
-8814,Reg,1Fam,2005,College Creek,2007,GasA,2548,2,0,3,False,Attchd,2,Y,False,2007,203000,,
-10226,IR1,1Fam,2008,College Creek,2008,GasA,3252,2,0,3,True,Attchd,3,Y,False,2009,295493,,
-14781,IR2,1Fam,2001,College Creek,2002,GasA,3540,2,0,3,True,Attchd,3,Y,False,2006,275000,,
-10780,IR1,1Fam,1976,College Creek,1976,GasA,1865,1,0,3,False,Detchd,2,Y,False,2006,132500,,
-13450,IR1,1Fam,2002,College Creek,2002,GasA,2777,2,1,3,False,BuiltIn,2,Y,False,2006,200000,,
-9560,IR1,1Fam,1972,College Creek,1972,GasA,1728,1,0,3,False,Attchd,1,Y,False,2006,128500,,
-9375,Reg,1Fam,2002,College Creek,2002,GasA,3453,2,1,3,True,Attchd,2,Y,False,2007,228500,,
-11103,IR1,1Fam,2006,College Creek,2006,GasA,2184,2,1,3,True,Attchd,2,Y,False,2007,155835,,
-10316,IR1,1Fam,2000,College Creek,2000,GasA,2857,2,1,3,True,Attchd,3,Y,False,2008,235000,,
-9179,IR1,1Fam,1999,College Creek,1999,GasA,2663,2,1,3,False,Attchd,2,Y,False,2008,193000,,
-10635,IR2,1Fam,2003,College Creek,2003,GasA,3325,2,0,3,True,Attchd,2,Y,False,2010,232000,,
-9750,Reg,1Fam,1998,College Creek,1998,GasA,3205,2,1,3,True,Detchd,2,Y,False,2006,274300,,
-9100,Reg,1Fam,2000,College Creek,2000,GasA,3050,2,0,3,False,Attchd,2,Y,False,2006,235000,,
-6762,Reg,1Fam,2006,College Creek,2006,GasA,2580,2,0,2,True,Attchd,2,Y,False,2006,193879,,
-8445,Reg,1Fam,1972,College Creek,2007,GasA,1536,1,0,2,False,Detchd,2,Y,False,2009,133000,,
-12420,Reg,1Fam,2001,College Creek,2001,GasA,2784,2,1,3,False,Attchd,2,Y,False,2009,230000,,
-8500,Reg,1Fam,2004,College Creek,2004,GasA,2844,2,0,3,False,Attchd,2,Y,False,2007,179600,,
-10000,Reg,1Fam,1995,College Creek,1996,GasA,3310,2,1,3,True,Attchd,2,Y,False,2007,240000,,
-4438,Reg,TwnhsE,2004,College Creek,2004,GasA,1696,1,0,1,True,Attchd,2,Y,False,2008,149000,,
-4435,Reg,TwnhsE,2003,College Creek,2003,GasA,1696,1,0,1,False,Attchd,2,Y,False,2009,140000,,
-4426,Reg,TwnhsE,2004,College Creek,2004,GasA,1696,1,0,1,True,Attchd,2,Y,False,2008,141000,,
-4426,Reg,TwnhsE,2004,College Creek,2004,GasA,1696,1,0,1,False,Attchd,2,Y,False,2010,143000,,
-4438,Reg,TwnhsE,2004,College Creek,2004,GasA,1696,1,0,1,True,Attchd,2,Y,False,2008,144500,,
-4435,Reg,TwnhsE,2003,College Creek,2003,GasA,1696,1,0,1,False,Attchd,2,Y,False,2007,131500,,
-4435,Reg,TwnhsE,2004,College Creek,2004,GasA,1696,1,0,1,True,Attchd,2,Y,False,2006,155900,,
-4435,Reg,TwnhsE,2003,College Creek,2004,GasA,1696,1,0,1,False,Attchd,2,Y,False,2009,144000,,
-4435,Reg,TwnhsE,2003,College Creek,2003,GasA,1696,1,0,1,False,Attchd,2,Y,False,2008,136500,,
-4426,Reg,TwnhsE,2004,College Creek,2004,GasA,1696,1,0,1,True,Attchd,2,Y,False,2008,149300,,
-9600,Reg,1Fam,1976,Veenker,1976,GasA,2524,2,0,3,True,Attchd,2,Y,False,2007,181500,,
-11120,IR1,1Fam,1984,Veenker,1984,GasA,2464,2,0,3,False,Attchd,2,Y,False,2008,162500,,
-10846,IR1,TwnhsE,1993,Veenker,1993,GasA,3438,1,1,1,True,Attchd,2,Y,False,2008,324000,,
-14963,IR2,TwnhsE,1996,Veenker,1996,GasA,2548,1,1,1,True,Attchd,2,Y,False,2008,245500,,
-11250,IR1,1Fam,1977,Veenker,1977,GasA,2416,1,1,3,True,Attchd,2,Y,False,2006,165000,,
-9549,IR1,TwnhsE,1995,Veenker,1996,GasA,2988,1,1,2,True,Attchd,2,Y,False,2006,270000,,
-9600,Reg,1Fam,1976,Veenker,1994,GasA,2383,2,1,3,True,Attchd,2,Y,False,2007,187000,,
-10768,IR1,1Fam,1976,Veenker,2004,GasA,2874,2,0,3,True,Attchd,2,Y,False,2007,218000,,
-16157,IR1,1Fam,1978,Veenker,1978,GasA,2792,1,1,2,True,Attchd,2,Y,False,2007,194000,,
-17542,IR1,1Fam,1974,Veenker,2003,GasA,3359,2,1,3,True,Attchd,2,Y,False,2007,294000,,
-14260,IR1,1Fam,2000,Northridge,2000,GasA,3343,2,1,4,True,Attchd,3,Y,False,2008,250000,,
-16059,Reg,1Fam,1991,Northridge,1992,GasA,3705,2,1,4,True,Attchd,2,Y,False,2006,260000,,
-9950,IR1,1Fam,1995,Northridge,1995,GasA,3723,2,1,4,True,Attchd,3,Y,False,2007,290000,,
-15138,IR1,1Fam,1995,Northridge,1996,GasA,4256,2,1,4,True,Attchd,3,Y,False,2009,403000,,
-11764,IR1,1Fam,1999,Northridge,2007,GasA,3422,2,1,4,True,Attchd,3,Y,False,2010,290000,,
-9900,Reg,1Fam,1993,Northridge,1993,GasA,3993,2,1,4,True,Attchd,3,Y,False,2009,260000,,
-12011,IR1,1Fam,1998,Northridge,1998,GasA,3010,2,1,3,True,Attchd,2,Y,False,2006,280000,,
-12090,Reg,1Fam,1998,Northridge,1998,GasA,3404,2,1,4,True,BuiltIn,2,Y,False,2006,258000,,
-9200,Reg,1Fam,1998,Northridge,1998,GasA,4100,2,1,4,True,Attchd,3,Y,False,2008,315000,,
-12692,IR1,1Fam,1992,Northridge,1993,GasA,6428,3,0,4,True,Attchd,2,Y,False,2007,430000,,
-10208,IR1,1Fam,1996,Northridge,1997,GasA,3608,2,1,3,True,Attchd,3,Y,False,2009,265000,,
-11787,IR1,1Fam,1996,Northridge,1997,GasA,3777,2,1,3,True,Attchd,3,Y,False,2007,315750,,
-11000,Reg,1Fam,2000,Northridge,2000,GasA,3254,2,1,4,True,BuiltIn,3,Y,False,2007,248000,,
-13346,IR1,1Fam,1992,Northridge,2000,GasA,3390,2,1,4,True,Attchd,2,Y,False,2006,268000,,
-10437,IR1,1Fam,1995,Northridge,1995,GasA,4222,2,1,2,True,Attchd,3,Y,False,2008,350000,,
-46589,IR2,1Fam,1994,Northridge,2005,GasA,4077,2,1,4,True,Attchd,3,Y,False,2009,402000,,
-16770,IR2,1Fam,1998,Northridge,1998,GasA,3034,2,1,4,False,Attchd,2,Y,False,2010,221000,,
-21535,IR1,1Fam,1994,Northridge,1995,GasA,6760,3,1,4,True,Attchd,3,Y,False,2007,755000,,
-10542,Reg,1Fam,1993,Northridge,1994,GasA,3729,2,1,3,True,Attchd,3,Y,False,2008,341000,,
-10593,IR1,1Fam,1996,Northridge,1996,GasA,3440,2,0,3,True,Attchd,2,Y,False,2010,260400,,
-12257,IR1,1Fam,1995,Northridge,1995,GasA,3849,2,1,4,True,Attchd,3,Y,False,2007,290000,,
-9430,Reg,1Fam,1999,Northridge,1999,GasA,3617,2,1,3,True,Attchd,3,Y,False,2009,337000,,
-9920,IR1,1Fam,1996,Northridge,1997,GasA,3130,2,1,3,True,Attchd,2,Y,False,2007,269790,,
-12203,IR1,1Fam,1998,Northridge,1999,GasA,3837,2,1,4,True,Attchd,3,Y,False,2009,336000,,
-9452,Reg,1Fam,1997,Northridge,1998,GasA,3788,2,1,3,True,Attchd,3,Y,False,2006,348000,,
-14541,IR1,1Fam,1993,Northridge,1993,GasA,3858,2,1,5,True,Attchd,3,Y,False,2006,310000,,
-29959,IR2,1Fam,1994,Northridge,1994,GasA,2823,2,1,3,True,BuiltIn,2,Y,False,2009,248000,,
-12256,IR1,1Fam,1994,Northridge,1995,GasA,4085,2,1,3,True,Attchd,2,Y,False,2010,325000,,
-35760,IR1,1Fam,1995,Northridge,1996,GasA,5557,3,1,4,True,Attchd,3,Y,False,2006,625000,,
-10678,Reg,1Fam,1992,Northridge,2000,GasA,4555,2,1,4,True,Attchd,2,Y,False,2007,285000,,
-15623,IR1,1Fam,1996,Northridge,1996,GasA,6872,3,1,4,True,Attchd,3,Y,True,2007,745000,,
-12461,Reg,1Fam,1994,Northridge,1995,GasA,3248,2,0,2,True,Attchd,3,Y,False,2006,262000,,
-14303,IR1,1Fam,1994,Northridge,1994,GasA,3973,2,0,2,True,Attchd,2,Y,False,2008,301500,,
-10120,Reg,1Fam,1994,Northridge,1994,GasA,3691,2,1,4,True,Attchd,3,Y,False,2006,290000,,
-9572,IR1,1Fam,1990,Northridge,1990,GasA,4263,2,1,4,True,Attchd,2,Y,False,2007,302000,,
-14774,IR1,1Fam,1999,Northridge,1999,GasA,3992,2,1,4,True,BuiltIn,3,Y,False,2010,333168,,
-10186,IR1,1Fam,1992,Northridge,1992,GasA,2673,2,1,3,True,Attchd,2,Y,False,2010,190000,,
-14720,IR1,1Fam,1995,Northridge,1996,GasA,5271,2,1,4,True,Attchd,3,Y,False,2010,410000,,
-11400,Reg,1Fam,2001,Northridge,2002,GasA,5266,2,1,2,True,Attchd,3,Y,False,2007,466500,,
-16545,IR1,1Fam,1998,Northridge,1998,GasA,3734,2,1,3,True,Attchd,3,Y,False,2009,340000,,
-10944,IR1,1Fam,1994,Northridge,1994,GasA,3350,2,1,3,True,Attchd,2,Y,False,2008,271000,,
-14115,IR1,1Fam,1993,Mitchell,1995,GasA,2158,1,1,1,False,Attchd,2,Y,False,2009,143000,,
-12822,IR1,1Fam,2003,Mitchell,2003,GasA,3583,1,1,1,True,Attchd,2,Y,False,2009,239686,,
-7599,Reg,1Fam,1982,Mitchell,2006,GasA,1690,1,0,2,False,Detchd,2,Y,False,2007,129500,,
-11070,Reg,Duplex,1988,Mitchell,1989,GasA,3866,3,0,5,False,2Types,3,Y,False,2006,171000,,
-9947,IR1,1Fam,1990,Mitchell,1991,GasA,2405,2,0,3,False,Attchd,2,Y,False,2009,173000,,
-10125,Reg,1Fam,1977,Mitchell,1977,GasA,2475,2,0,3,True,Detchd,2,Y,False,2008,171500,,
-8314,Reg,1Fam,1982,Mitchell,1982,GasA,1632,1,0,2,False,Attchd,1,Y,False,2007,124500,,
-9196,IR1,1Fam,2003,Mitchell,2003,GasA,3120,2,0,3,False,Attchd,2,Y,False,2010,201000,,
-7937,IR1,1Fam,1984,Mitchell,1984,GasA,2006,1,0,3,False,Detchd,2,Y,False,2006,142500,,
-7540,IR1,1Fam,1978,Mitchell,1978,GasA,1800,1,0,2,True,Attchd,2,Y,False,2007,156000,,
-12209,IR1,1Fam,2001,Mitchell,2002,GasA,2765,2,1,3,True,BuiltIn,2,Y,False,2009,215000,,
-21750,Reg,1Fam,1954,Mitchell,1954,GasA,1976,1,0,2,False,Attchd,2,N,False,2008,113000,,
-9297,Reg,Duplex,1976,Mitchell,1976,GasA,3456,2,0,4,False,Detchd,2,Y,False,2006,188000,,
-9187,Reg,1Fam,1983,Mitchell,1983,GasA,2164,1,1,3,False,Attchd,2,Y,False,2007,134000,,
-7244,Reg,1Fam,1970,Mitchell,1970,GasA,1536,1,0,2,False,Detchd,2,Y,False,2007,129500,,
-10010,Reg,1Fam,1974,Mitchell,1975,GasA,2778,1,0,2,True,Attchd,2,Y,False,2006,170000,,
-6600,Reg,1Fam,1982,Mitchell,2003,GasA,1632,1,0,2,False,Detchd,2,Y,False,2008,138000,,
-12508,IR1,1Fam,1940,Mitchell,1985,GasA,2733,2,0,4,False,Attchd,1,Y,False,2008,160000,,
-10530,Reg,Duplex,1977,Mitchell,1977,GasA,1979,1,0,2,False,Attchd,2,Y,False,2006,135000,,
-9101,IR1,1Fam,1978,Mitchell,1978,GasA,2207,1,0,1,True,Attchd,2,Y,False,2009,165500,,
-11333,IR1,1Fam,1976,Mitchell,1976,GasA,2091,1,0,3,True,Attchd,2,Y,False,2007,146800,,
-13265,IR1,1Fam,2002,Mitchell,2002,GasA,3257,2,0,3,True,Attchd,3,Y,False,2008,271000,,
-25286,Reg,1Fam,1963,Mitchell,1963,GasA,2104,1,0,3,False,Attchd,2,Y,False,2007,132250,,
-8885,IR1,1Fam,1983,Mitchell,1983,GasA,1766,1,0,2,False,Attchd,2,Y,False,2006,131000,,
-12640,IR1,Duplex,1976,Mitchell,1976,GasA,3456,2,0,4,False,Attchd,2,Y,False,2006,150900,,
-25000,Reg,Duplex,1967,Mitchell,1967,GasA,3264,2,0,4,False,Attchd,2,P,False,2007,143000,,
-11075,IR1,1Fam,1969,Mitchell,1969,GasA,2752,2,1,4,True,Attchd,2,Y,False,2008,172000,,
-10125,Reg,Duplex,1977,Mitchell,1977,GasA,1734,2,0,4,False,Attchd,2,Y,False,2009,126000,,
-12118,IR1,1Fam,2004,Mitchell,2005,GasA,3420,2,0,3,True,Attchd,2,Y,False,2009,240000,,
-21750,Reg,1Fam,1960,Mitchell,2006,GasA,1771,1,0,3,True,Attchd,2,Y,False,2009,115000,,
-9819,IR1,1Fam,1977,Mitchell,1977,GasA,3134,2,0,2,True,Attchd,2,Y,False,2009,196000,,
-9880,Reg,1Fam,1977,Mitchell,1977,GasA,2214,1,0,3,True,Attchd,1,Y,True,2008,171000,,
-6951,IR1,1Fam,1984,Mitchell,1985,GasA,1799,1,0,3,False,Attchd,1,Y,False,2008,119500,,
-32463,Reg,2fmCon,1961,Mitchell,1975,GasA,2871,1,0,3,True,2Types,4,Y,False,2007,168000,,
-12328,IR1,1Fam,1976,Mitchell,1976,GasA,2046,1,0,3,False,Attchd,3,Y,False,2010,169900,,
-9858,Reg,1Fam,1968,Mitchell,1968,GasA,1738,1,0,3,False,Attchd,1,Y,False,2009,130000,,
-6600,Reg,1Fam,1982,Mitchell,2008,GasA,1632,1,0,3,True,Attchd,1,Y,False,2008,130500,,
-17400,Reg,1Fam,1977,Mitchell,1977,GasA,2252,2,0,3,True,Attchd,2,P,False,2006,160000,,
-26142,IR1,1Fam,1962,Mitchell,1962,GasA,2376,1,0,3,False,Attchd,1,P,False,2010,157900,,
-4500,Reg,TwnhsE,1998,Mitchell,1998,GasA,2574,2,0,2,False,Attchd,2,Y,False,2006,153500,,
-7060,Reg,Duplex,1997,Mitchell,1998,GasA,2688,2,0,2,False,Attchd,4,Y,False,2008,206300,,
-4500,Reg,Twnhs,1998,Mitchell,1998,GasA,2432,2,0,2,False,Attchd,2,Y,False,2006,164000,,
-4500,Reg,TwnhsE,1998,Mitchell,1998,GasA,2408,2,0,2,False,Attchd,2,Y,False,2009,162000,,
-4500,Reg,TwnhsE,1999,Mitchell,1999,GasA,2448,2,0,2,False,Attchd,2,Y,False,2009,165000,,
-10084,Reg,1Fam,2004,Somerset,2005,GasA,3380,2,0,3,True,Attchd,2,Y,False,2007,307000,,
-10206,Reg,1Fam,2007,Somerset,2007,GasA,3126,2,0,3,True,Attchd,3,Y,False,2008,245000,,
-9416,Reg,1Fam,2007,Somerset,2007,GasA,3452,2,0,3,True,Attchd,3,Y,False,2007,311872,,
-9612,Reg,1Fam,2008,Somerset,2009,GasA,2936,2,0,3,True,Attchd,3,Y,False,2009,244600,,
-20896,IR2,1Fam,2005,Somerset,2006,GasA,4174,1,1,1,True,Attchd,3,Y,False,2006,423000,,
-14587,IR1,1Fam,2008,Somerset,2008,GasA,3004,2,0,2,True,Attchd,2,Y,False,2008,264132,,
-9158,Reg,1Fam,2007,Somerset,2007,GasA,2992,2,0,3,False,Attchd,2,Y,False,2007,225000,,
-12274,IR1,1Fam,2008,Somerset,2008,GasA,2845,2,0,3,False,Attchd,2,Y,False,2008,227680,,
-13501,IR1,1Fam,2006,Somerset,2006,GasA,3259,2,0,3,True,Attchd,3,Y,False,2007,255000,,
-11670,IR1,1Fam,2006,Somerset,2006,GasA,3810,2,0,3,True,Attchd,3,Y,False,2007,320000,,
-9675,Reg,1Fam,2005,Somerset,2005,GasA,3084,2,1,3,True,Attchd,2,Y,False,2009,253000,,
-11957,IR1,1Fam,2006,Somerset,2006,GasA,3148,2,0,3,True,Attchd,3,Y,False,2008,232000,,
-11932,Reg,1Fam,2007,Somerset,2008,GasA,3160,2,0,3,False,Attchd,3,Y,False,2008,235128,,
-10182,IR1,1Fam,2006,Somerset,2006,GasA,3320,2,0,3,True,Attchd,2,Y,False,2006,290000,,
-14598,IR1,1Fam,2007,Somerset,2007,GasA,2827,2,1,4,True,BuiltIn,3,Y,False,2008,214000,,
-9849,Reg,1Fam,2007,Somerset,2007,GasA,3378,2,0,3,False,Attchd,3,Y,False,2007,248328,,
-8688,Reg,1Fam,2005,Somerset,2005,GasA,3232,2,0,3,False,Attchd,3,Y,False,2006,232000,,
-9986,Reg,1Fam,2006,Somerset,2007,GasA,3590,2,0,2,True,Attchd,3,Y,False,2007,147000,,
-10000,Reg,1Fam,2006,Somerset,2006,GasA,3176,2,0,3,True,Attchd,3,Y,False,2007,227000,,
-15256,IR1,1Fam,2007,Somerset,2007,GasA,2949,2,0,3,False,Attchd,3,Y,False,2007,282922,,
-9262,Reg,1Fam,2008,Somerset,2009,GasA,3151,2,0,3,True,Attchd,3,Y,False,2009,287090,,
-10382,IR1,1Fam,1973,Northwest Ames,1973,GasA,3197,2,1,3,True,Attchd,2,Y,False,2009,200000,,
-10603,IR1,1Fam,1977,Northwest Ames,2001,GasA,3220,2,0,3,True,Attchd,2,Y,False,2010,205000,,
-11751,IR1,1Fam,1977,Northwest Ames,1977,GasA,3688,2,0,3,True,Attchd,2,Y,False,2010,190000,,
-17043,IR1,1Fam,1979,Northwest Ames,1998,GasA,2948,2,0,3,True,Attchd,2,Y,False,2009,181000,,
-10400,Reg,1Fam,1970,Northwest Ames,1970,GasA,2986,2,0,3,True,Attchd,2,Y,False,2008,174000,,
-14803,IR1,1Fam,1971,Northwest Ames,1971,GasA,2818,2,1,4,True,Attchd,2,Y,False,2006,190000,,
-11475,Reg,1Fam,1975,Northwest Ames,1975,GasA,2265,2,1,3,True,Attchd,2,Y,False,2006,179900,,
-10400,Reg,1Fam,1988,Northwest Ames,1988,GasA,3717,2,0,3,True,Attchd,2,Y,False,2006,241500,,
-12090,IR1,1Fam,1981,Northwest Ames,1981,GasA,2844,2,0,3,True,Attchd,2,Y,False,2008,175500,,
-16659,IR1,1Fam,1977,Northwest Ames,1994,GasA,3058,2,1,3,True,Attchd,2,Y,False,2006,235000,,
-11700,Reg,1Fam,1968,Northwest Ames,1968,GasA,2445,1,2,3,True,Attchd,2,Y,False,2007,175000,,
-13005,IR1,1Fam,1980,Northwest Ames,1980,GasA,3198,2,1,4,True,Attchd,2,Y,False,2009,260000,,
-14115,Reg,1Fam,1980,Northwest Ames,1980,GasA,2844,2,0,3,True,Attchd,2,Y,False,2009,187500,,
-14145,Reg,1Fam,1984,Northwest Ames,1998,GasA,2829,2,0,3,False,Attchd,2,Y,False,2006,202500,,
-18800,IR1,1Fam,1976,Northwest Ames,1976,GasA,2370,2,1,3,True,Attchd,2,Y,False,2006,190000,,
-16635,IR1,1Fam,1977,Northwest Ames,2000,GasA,3204,2,0,3,True,Attchd,2,Y,False,2009,215000,,
-9600,Reg,1Fam,1973,Northwest Ames,1973,GasA,2484,1,1,3,True,Attchd,2,Y,False,2007,175500,,
-11952,Reg,1Fam,1977,Northwest Ames,1977,GasA,2777,2,1,3,True,Attchd,2,Y,False,2007,190000,,
-12243,IR1,1Fam,1971,Northwest Ames,1971,GasA,2968,2,0,3,True,Attchd,2,Y,False,2007,175000,,
-10448,IR1,1Fam,1972,Northwest Ames,1972,GasA,2808,2,1,3,True,Attchd,2,Y,False,2009,158000,,
-10140,Reg,1Fam,1998,Northwest Ames,1999,GasA,3330,2,0,3,True,Attchd,2,Y,False,2009,213250,,
-13837,IR1,1Fam,1988,Northwest Ames,1988,GasA,3387,2,1,4,False,Attchd,3,Y,False,2006,229000,,
-10395,IR1,1Fam,1978,Northwest Ames,1978,GasA,2064,2,0,3,True,Attchd,2,Y,False,2007,148000,,
-10800,Reg,1Fam,1974,Northwest Ames,1997,GasA,4136,2,1,4,True,Attchd,2,Y,False,2008,240000,,
-10400,Reg,1Fam,1972,Northwest Ames,1972,GasA,2522,1,2,4,True,Attchd,2,Y,False,2006,165150,,
-11900,Reg,1Fam,1977,Northwest Ames,1977,GasA,2797,2,0,3,True,Attchd,2,Y,False,2009,82500,,
-10793,Reg,1Fam,1969,Northwest Ames,1969,GasA,2400,2,1,4,False,Attchd,2,Y,False,2007,152000,,
-12384,Reg,1Fam,1976,Northwest Ames,1976,GasA,2728,2,1,3,True,Attchd,2,Y,False,2007,197900,,
-9600,Reg,1Fam,1969,Northwest Ames,1969,GasA,2328,1,1,3,False,Attchd,2,Y,False,2006,140000,,
-10140,Reg,1Fam,1974,Northwest Ames,1974,GasA,2414,2,0,3,True,Attchd,2,Y,False,2009,165000,,
-10000,Reg,1Fam,1973,Northwest Ames,2000,GasA,2354,1,1,3,True,Attchd,2,Y,False,2008,157000,,
-8963,IR1,1Fam,1976,Northwest Ames,1996,GasA,3857,3,1,4,True,BuiltIn,2,Y,False,2008,299800,,
-10421,Reg,1Fam,1988,Northwest Ames,1988,GasA,2694,2,1,3,True,Attchd,2,Y,False,2010,196500,,
-9790,Reg,1Fam,1967,Northwest Ames,1967,GasA,2714,2,0,3,True,Attchd,2,Y,False,2009,161500,,
-10140,Reg,1Fam,1974,Northwest Ames,1999,GasA,2349,1,1,3,True,Attchd,2,Y,True,2006,181000,,
-10400,Reg,1Fam,1976,Northwest Ames,1976,GasA,2460,2,0,3,True,Attchd,2,Y,False,2009,152000,,
-11029,IR1,1Fam,1968,Northwest Ames,1984,GasA,3708,2,1,4,True,Attchd,2,Y,False,2006,250000,,
-10240,Reg,1Fam,1980,Northwest Ames,1980,GasA,3372,2,0,3,True,Attchd,2,Y,False,2006,207500,,
-15611,IR1,1Fam,1977,Northwest Ames,1977,GasA,2252,2,0,3,False,Attchd,2,Y,False,2008,175000,,
-9900,Reg,1Fam,1968,Northwest Ames,1968,GasA,2810,2,1,4,True,Attchd,2,Y,False,2008,176000,,
-9360,Reg,1Fam,1972,Northwest Ames,2006,GasA,2542,1,1,3,True,Attchd,2,Y,False,2010,197500,,
-12227,IR1,1Fam,1977,Northwest Ames,1995,GasA,4202,2,1,4,True,Attchd,2,Y,False,2008,272000,,
-12046,IR1,1Fam,1976,Northwest Ames,1976,GasA,2878,2,1,4,True,Attchd,2,Y,False,2007,195000,,
-11717,IR1,1Fam,1970,Northwest Ames,1970,GasA,2884,2,0,2,True,Attchd,2,Y,False,2009,185000,,
-11500,IR1,Duplex,1976,Northwest Ames,1976,GasA,3360,2,0,4,False,Detchd,2,Y,False,2007,136905,,
-8400,Reg,1Fam,2001,Northwest Ames,2001,GasA,2475,2,1,3,False,Attchd,2,Y,False,2009,227000,,
-9130,Reg,1Fam,1966,Northwest Ames,2000,GasA,2432,1,1,4,False,Attchd,2,Y,False,2008,173000,,
-9600,Reg,1Fam,1981,Northwest Ames,1981,GasA,5048,2,1,4,True,Attchd,2,Y,False,2009,278000,,
-11361,Reg,1Fam,1976,Northwest Ames,1976,GasA,2716,2,0,3,True,Attchd,2,Y,False,2008,180000,,
-11700,Reg,1Fam,1968,Northwest Ames,1968,GasA,2283,1,1,4,False,Attchd,2,Y,False,2009,154000,,
-11040,Reg,1Fam,1971,Northwest Ames,2004,GasA,2516,2,0,3,False,Attchd,2,Y,False,2008,145000,,
-11880,IR1,1Fam,1978,Northwest Ames,1978,GasA,2872,2,0,3,True,Attchd,2,Y,False,2009,157000,,
-10480,Reg,1Fam,1976,Northwest Ames,1976,GasA,2767,2,1,4,True,Attchd,2,Y,False,2008,205000,,
-10304,IR1,1Fam,1976,Northwest Ames,1976,GasA,2648,2,1,4,True,Attchd,2,Y,False,2009,197500,,
-9120,Reg,1Fam,1974,Northwest Ames,1974,GasA,2777,2,1,4,True,Attchd,2,Y,False,2008,185000,,
-10140,Reg,1Fam,1975,Northwest Ames,1975,GasA,2130,1,1,3,False,Attchd,2,Y,False,2006,153500,,
-10625,Reg,1Fam,1974,Northwest Ames,1974,GasA,2226,2,0,3,True,Attchd,2,Y,False,2010,170000,,
-12090,Reg,1Fam,1984,Northwest Ames,2003,GasA,2453,3,1,3,True,BuiltIn,2,Y,False,2007,178000,,
-9156,IR1,1Fam,1968,Northwest Ames,1968,GasA,2978,2,0,3,True,Attchd,2,Y,False,2009,185750,,
-12936,IR1,1Fam,1972,Northwest Ames,1972,GasA,2118,1,1,3,True,Attchd,2,Y,False,2009,162000,,
-17871,IR1,1Fam,1967,Northwest Ames,1976,GasA,3404,1,1,3,True,Attchd,2,Y,False,2009,197900,,
-9790,Reg,1Fam,1963,Northwest Ames,1963,GasA,2656,1,1,3,True,Attchd,2,Y,False,2010,143000,,
-10140,Reg,1Fam,1976,Northwest Ames,1976,GasA,2496,2,1,4,True,Attchd,2,Y,False,2006,162900,,
-9650,Reg,1Fam,1977,Northwest Ames,1977,GasA,2684,2,0,2,True,Attchd,2,Y,False,2009,167900,,
-9246,IR1,Duplex,1973,Northwest Ames,1973,GasA,3312,2,0,4,False,Detchd,2,Y,False,2008,135000,,
-20781,IR2,1Fam,1968,Northwest Ames,2003,GasA,3724,2,0,3,True,Attchd,2,Y,False,2006,262500,,
-10192,IR1,1Fam,1968,Northwest Ames,1992,GasA,2490,3,0,4,True,Attchd,2,Y,False,2006,170000,,
-16692,IR1,1Fam,1978,Northwest Ames,1978,GasA,4176,3,1,5,True,Attchd,2,Y,True,2006,250000,,
-20544,IR1,1Fam,1986,Northwest Ames,1991,GasA,2884,2,1,3,True,Attchd,2,Y,False,2008,215000,,
-11700,Reg,1Fam,1968,Northwest Ames,1968,GasA,2124,2,1,3,True,Attchd,2,Y,False,2006,179900,,
-12546,IR1,1Fam,1981,Northwest Ames,1981,GasA,2880,2,0,3,True,Attchd,2,Y,False,2007,182900,,
-11584,Reg,1Fam,1979,Northwest Ames,1979,GasA,2264,2,1,3,True,Attchd,2,Y,False,2007,197000,,
-13175,Reg,1Fam,1978,Northwest Ames,1988,GasA,3615,2,0,3,True,Attchd,2,Y,False,2010,210000,,
-7420,Reg,2fmCon,1939,Brookside,1950,GasA,2068,1,0,2,True,Attchd,1,Y,False,2008,118000,,
-7438,IR1,1Fam,1908,Brookside,1991,GasA,1756,1,0,3,False,Attchd,2,Y,False,2006,127000,,
-7264,Reg,1Fam,1925,Brookside,2007,GasW,2500,2,1,3,False,Detchd,2,Y,False,2009,205000,,
-8730,Reg,1Fam,1915,Brookside,2003,GasA,2094,1,0,3,False,Detchd,1,Y,False,2007,153575,,
-11888,IR1,1Fam,1916,Brookside,1994,GasA,2978,2,0,5,False,Detchd,2,Y,False,2009,214500,,
-6435,Reg,1Fam,1939,Brookside,1950,GasA,2549,1,0,3,True,Detchd,1,Y,False,2006,140200,,
-9144,Reg,1Fam,1940,Brookside,1982,GasA,2388,1,0,3,False,Detchd,1,N,False,2008,145000,,
-7015,IR1,1Fam,1950,Brookside,1950,GasA,1912,1,0,3,True,Detchd,1,Y,False,2009,110000,,
-9120,Reg,1Fam,1925,Brookside,1950,GasA,2846,2,0,4,False,Detchd,1,N,False,2008,184000,,
-8737,IR1,1Fam,1923,Brookside,1950,GasA,2700,1,1,3,True,Detchd,2,Y,False,2007,210000,,
-10267,Reg,1Fam,1918,Brookside,2000,GasA,1654,1,0,2,False,Detchd,1,N,False,2008,130000,,
-9873,Reg,2fmCon,1970,Brookside,1970,GasW,1920,1,0,3,False,Detchd,2,Y,False,2006,129000,,
-21384,Reg,1Fam,1923,Brookside,2004,GasA,2900,1,1,3,True,Attchd,2,Y,False,2009,223500,,
-5825,IR1,1Fam,1926,Brookside,1953,GasA,1347,1,0,1,False,Detchd,2,Y,False,2006,79900,,
-11414,IR1,1Fam,1910,Brookside,1993,GasA,2747,1,0,3,False,Detchd,2,Y,False,2009,167500,,
-4712,IR1,1Fam,1946,Brookside,1950,GasA,1977,1,1,3,False,Detchd,1,Y,False,2006,121600,,
-8731,IR1,1Fam,1920,Brookside,1950,GasA,2082,1,0,3,True,Detchd,2,Y,False,2007,144000,,
-13515,Reg,1Fam,1919,Brookside,1950,GasA,2588,1,0,3,True,Detchd,2,N,False,2007,180500,,
-6627,IR1,1Fam,1949,Brookside,1950,Floor,720,1,0,2,False,Detchd,1,Y,False,2008,72500,,
-13053,Reg,1Fam,1923,Brookside,2000,GasA,2681,1,1,4,True,Detchd,2,N,False,2008,207000,,
-8854,Reg,1Fam,1916,Brookside,1950,Grav,1904,1,0,2,True,Detchd,1,P,False,2009,121000,,
-6120,Reg,1Fam,1929,Brookside,2001,GasA,1686,1,0,2,False,Detchd,2,Y,False,2007,132000,,
-6324,IR1,1Fam,1927,Brookside,1950,GasA,1040,1,0,1,False,Detchd,1,Y,False,2008,68500,,
-6240,Reg,1Fam,1934,Brookside,1950,GasA,1992,1,0,3,True,Detchd,2,Y,False,2006,114500,,
-8635,Reg,1Fam,1948,Brookside,2001,GasA,1957,1,0,2,False,Detchd,1,Y,False,2008,127000,,
-6120,Reg,1Fam,1931,Brookside,1993,GasA,1590,1,0,2,False,Detchd,1,Y,False,2009,105000,,
-6240,Reg,1Fam,1936,Brookside,1950,GasA,2240,1,0,3,False,Detchd,1,Y,False,2006,115000,,
-6000,Reg,1Fam,1926,Brookside,2004,GasA,1788,1,0,2,False,Detchd,1,Y,False,2009,119000,,
-6240,Reg,1Fam,1930,Brookside,1992,GasA,2651,2,0,3,True,Detchd,2,P,False,2008,162900,,
-5000,Reg,1Fam,1947,Brookside,1950,GasA,2668,2,0,3,True,Detchd,2,Y,False,2006,159000,,
-6155,IR1,1Fam,1920,Brookside,1999,GasA,1973,2,0,3,False,Detchd,2,Y,False,2008,128000,,
-6380,Reg,1Fam,1922,Brookside,1950,GasA,2041,1,0,2,True,Detchd,1,Y,False,2006,113000,,
-6120,Reg,1Fam,1935,Brookside,1995,GasA,2457,1,0,3,False,Detchd,1,Y,False,2009,133000,,
-9100,Reg,1Fam,1930,Brookside,1960,GasA,1677,1,0,2,False,Detchd,1,P,False,2008,79500,,
-6120,Reg,1Fam,1936,Brookside,1950,GasA,2466,1,1,3,False,Detchd,2,Y,False,2009,141500,,
-6000,Reg,1Fam,1921,Brookside,1950,GasA,1232,1,0,2,False,Detchd,1,Y,False,2006,89000,,
-6911,Reg,1Fam,1924,Brookside,1950,GasA,2446,1,0,2,False,Detchd,2,Y,False,2009,100000,,
-6120,Reg,1Fam,1925,Brookside,1950,GasA,1783,1,0,3,False,Detchd,1,Y,False,2006,88000,,
-6000,Reg,1Fam,1936,Brookside,1950,GasA,1996,1,0,3,False,Detchd,1,Y,False,2009,128000,,
-6180,Reg,1Fam,1926,Brookside,1950,GasA,1946,1,0,2,True,Detchd,1,Y,False,2007,102000,,
-6240,Reg,1Fam,1928,Brookside,1950,GasA,2618,1,0,3,True,Detchd,1,Y,False,2006,149000,,
-6000,Reg,1Fam,1925,Brookside,1997,GasA,2232,1,0,3,True,Detchd,1,N,False,2009,117000,,
-6240,Reg,1Fam,1931,Brookside,1950,GasA,2251,1,0,3,True,Detchd,1,Y,False,2007,127500,,
-6000,Reg,1Fam,1939,Brookside,1950,GasA,2192,1,0,4,True,Detchd,1,Y,False,2009,132500,,
-6000,Reg,1Fam,1937,Brookside,2000,GasA,1874,1,0,2,False,Detchd,2,N,False,2009,134900,,
-6000,Reg,1Fam,1941,Brookside,1950,GasA,1953,1,0,3,True,Detchd,2,Y,False,2007,131000,,
-6120,Reg,1Fam,1920,Brookside,2004,GasA,2452,1,1,4,False,Detchd,1,N,False,2007,137500,,
-6000,Reg,1Fam,1929,Brookside,1950,GasA,2020,1,0,3,True,BuiltIn,1,Y,False,2008,120000,,
-11200,Reg,1Fam,1965,Sawyer,1965,GasA,2080,1,0,3,False,Detchd,1,Y,False,2008,129500,,
-12968,IR2,1Fam,1962,Sawyer,1962,GasA,1824,1,0,2,False,Detchd,1,Y,False,2008,144000,,
-10791,Reg,Duplex,1967,Sawyer,1967,GasA,1296,2,0,2,False,CarPort,2,Y,False,2006,90000,,
-8246,IR1,1Fam,1968,Sawyer,2001,GasA,2120,1,0,3,True,Attchd,1,Y,False,2010,154000,,
-8544,IR1,1Fam,1966,Sawyer,2006,GasA,2456,1,1,3,False,Attchd,1,Y,False,2008,149350,,
-7742,Reg,1Fam,1966,Sawyer,1966,GasA,1910,1,0,3,False,Attchd,1,Y,False,2007,127000,,
-11616,Reg,1Fam,1962,Sawyer,1962,GasA,2184,1,0,3,True,Attchd,1,Y,False,2009,139000,,
-10335,IR1,1Fam,1968,Sawyer,1993,GasA,3182,2,1,3,True,Attchd,2,Y,False,2006,180000,,
-13650,Reg,1Fam,1958,Sawyer,1958,GasA,2972,2,0,4,True,Attchd,2,Y,False,2006,172500,,
-13673,IR1,1Fam,1962,Sawyer,1962,GasA,2836,1,1,3,True,Attchd,1,Y,False,2007,143900,,
-8521,Reg,1Fam,1967,Sawyer,1967,GasA,1824,1,0,3,True,Detchd,1,Y,False,2010,125000,,
-8471,IR1,1Fam,1977,Sawyer,1995,GasA,1718,1,0,3,True,Attchd,2,Y,False,2006,151000,,
-9819,IR1,1Fam,1967,Sawyer,1967,GasA,1782,1,0,3,False,Detchd,1,Y,False,2010,122000,,
-10200,Reg,1Fam,1940,Sawyer,1997,GasA,1344,1,0,2,False,Detchd,1,N,False,2008,108000,,
-9991,IR1,1Fam,1976,Sawyer,1993,GasA,2901,2,0,3,True,Attchd,2,Y,False,2009,150000,,
-7844,Reg,1Fam,1978,Sawyer,1978,GasA,2072,1,1,3,True,Attchd,2,Y,False,2006,149500,,
-8281,IR1,1Fam,1965,Sawyer,1965,GasA,1728,1,0,3,True,Detchd,1,Y,False,2009,62383,,
-8480,Reg,1Fam,1963,Sawyer,1963,GasA,1940,1,0,2,False,Detchd,2,Y,False,2007,132500,,
-7758,IR1,1Fam,1962,Sawyer,2001,GasA,1998,1,0,3,False,Detchd,1,Y,False,2007,132500,,
-7800,Reg,1Fam,1967,Sawyer,2004,GasA,1763,1,0,3,False,Attchd,1,Y,False,2009,130000,,
-11553,IR1,1Fam,1968,Sawyer,1968,GasA,2210,1,1,3,True,Attchd,1,Y,False,2006,158000,,
-11341,IR1,1Fam,1957,Sawyer,1996,GasA,2784,1,1,3,True,Detchd,2,Y,False,2010,121500,,
-11777,IR1,1Fam,1966,Sawyer,1966,GasA,2484,1,0,3,True,Attchd,2,Y,False,2006,164500,,
-8740,IR1,1Fam,1982,Sawyer,1982,GasA,1700,1,0,2,False,Detchd,2,Y,False,2009,137000,,
-7943,Reg,1Fam,1961,Sawyer,1961,GasA,2058,1,0,3,False,Attchd,1,Y,False,2007,118500,,
-7064,Reg,1Fam,1977,Sawyer,1977,GasA,1960,1,0,3,False,Detchd,2,Y,False,2009,135000,,
-14175,Reg,1Fam,1956,Sawyer,1987,GasA,2625,1,1,3,True,Detchd,2,Y,False,2006,168000,,
-9945,IR1,1Fam,1961,Sawyer,1961,GasA,1976,1,0,3,False,Detchd,2,Y,False,2007,128500,,
-8450,Reg,1Fam,1965,Sawyer,2009,GasA,1788,1,0,3,True,Detchd,1,Y,False,2010,138500,,
-7162,IR1,1Fam,1966,Sawyer,1966,GasA,1780,1,0,3,False,Attchd,1,Y,False,2008,109900,,
-13517,IR1,1Fam,1976,Sawyer,2005,GasA,2204,2,1,3,False,Attchd,2,Y,False,2010,130500,,
-10000,Reg,1Fam,1961,Sawyer,1983,GasA,2008,1,0,3,True,Attchd,1,Y,False,2009,131400,,
-8978,IR1,1Fam,1968,Sawyer,1968,GasA,1896,1,0,3,False,Attchd,1,Y,False,2007,108000,,
-6768,IR1,1Fam,1961,Sawyer,1996,GasA,1824,1,0,3,False,Detchd,1,Y,False,2008,142000,,
-12886,IR1,1Fam,1963,Sawyer,1999,GasA,1984,2,0,3,True,Attchd,2,Y,False,2009,175000,,
-11616,IR1,1Fam,1978,Sawyer,1978,GasA,2058,2,1,3,True,Attchd,2,Y,False,2010,158900,,
-7252,IR1,1Fam,1982,Sawyer,1982,GasA,1716,1,0,2,False,Detchd,2,Y,False,2009,134900,,
-13350,IR1,1Fam,1974,Sawyer,1974,GasA,1758,1,0,3,True,Attchd,2,Y,False,2006,142500,,
-8197,Reg,1Fam,1977,Sawyer,1977,GasA,1945,1,1,3,True,Attchd,2,Y,False,2007,143500,,
-9600,Reg,1Fam,1950,Sawyer,1995,GasA,2134,2,0,2,False,Attchd,2,Y,False,2010,128000,,
-16647,IR1,1Fam,1975,Sawyer,1981,GasA,3091,2,0,3,True,Basment,2,Y,False,2007,171000,,
-17920,Reg,1Fam,1955,Sawyer,1974,GasA,3542,1,1,3,True,Attchd,2,Y,False,2006,170000,,
-6897,IR1,1Fam,1962,Sawyer,2010,GasA,2080,1,1,3,False,Detchd,1,Y,False,2010,127000,,
-11625,Reg,2fmCon,1965,Sawyer,1965,GasA,2078,1,1,3,False,Attchd,2,Y,False,2010,131500,,
-6970,Reg,1Fam,1961,Sawyer,1961,GasA,2160,1,1,3,False,Attchd,2,Y,False,2007,129000,,
-11782,IR1,1Fam,1961,Sawyer,1995,GasA,2264,1,0,3,False,Detchd,2,Y,False,2010,148000,,
-11184,Reg,1Fam,1978,Sawyer,1978,GasA,2601,2,1,3,True,Attchd,2,Y,False,2009,172500,,
-8414,Reg,1Fam,1963,Sawyer,2003,GasA,2127,1,0,3,False,Attchd,1,Y,False,2006,154500,,
-13284,Reg,1Fam,1954,Sawyer,1954,GasA,2766,1,0,3,True,Attchd,1,Y,False,2008,165000,,
-6993,Reg,1Fam,1961,Sawyer,1994,GasA,2148,1,0,3,True,Attchd,1,Y,False,2006,135000,,
-6173,IR1,1Fam,1967,Sawyer,1967,GasA,1778,1,0,3,False,Attchd,1,Y,False,2007,125500,,
-7420,Reg,1Fam,1962,Sawyer,1962,GasA,2114,1,0,3,False,Detchd,2,Y,False,2007,132000,,
-8816,Reg,1Fam,1963,Sawyer,1963,GasA,2242,1,0,3,False,Detchd,2,Y,False,2009,139000,,
-21286,Reg,1Fam,1948,Sawyer,1950,GasA,1991,2,0,4,True,Attchd,1,Y,False,2008,135000,,
-13125,Reg,1Fam,1957,Sawyer,2000,GasA,2937,2,0,3,True,Attchd,2,Y,False,2006,155000,,
-7500,Reg,1Fam,1963,Sawyer,1963,GasA,2080,1,1,3,False,Attchd,1,Y,False,2010,133000,,
-9764,IR1,1Fam,1967,Sawyer,2003,GasA,1788,1,0,3,False,Attchd,2,Y,False,2008,130000,,
-13825,Reg,1Fam,1958,Sawyer,1987,GasA,2134,1,0,3,False,BuiltIn,1,Y,False,2008,140000,,
-8724,Reg,1Fam,1968,Sawyer,1968,GasA,1788,1,0,3,True,Attchd,2,Y,False,2007,129000,,
-9364,Reg,1Fam,1969,Sawyer,1969,GasA,2015,1,1,4,False,Attchd,1,Y,False,2010,158000,,
-11235,Reg,1Fam,1963,Sawyer,1979,GasA,2433,1,1,3,True,Attchd,2,Y,False,2006,148000,,
-7094,IR1,1Fam,1966,Sawyer,1966,GasA,1788,1,0,3,False,Detchd,1,Y,False,2007,125000,,
-8250,Reg,1Fam,1968,Sawyer,1968,GasA,2163,1,0,3,True,Attchd,1,Y,False,2008,134000,,
-18890,IR1,Duplex,1977,Sawyer,1977,GasA,3981,2,2,4,True,BuiltIn,2,N,False,2007,190000,,
-13526,IR1,1Fam,1965,Sawyer,1965,GasA,1870,1,0,3,False,Attchd,1,Y,False,2006,137000,,
-25339,Reg,1Fam,1918,Sawyer,2007,GasA,2232,2,0,3,False,Attchd,2,N,False,2007,112000,,
-8400,Reg,1Fam,1966,Sawyer,1966,GasA,1727,1,0,3,False,Detchd,1,Y,False,2007,129000,,
-9100,Reg,Duplex,1963,Sawyer,1963,GasA,3456,2,0,6,False,Detchd,2,Y,False,2006,125000,,
-8930,Reg,Duplex,1978,Sawyer,1978,GasA,1902,2,0,4,False,Attchd,2,Y,False,2010,112000,,
-11924,IR1,1Fam,2005,Northridge Heights,2006,GasA,3499,3,0,4,True,BuiltIn,3,Y,False,2006,345000,,
-14215,IR1,1Fam,2005,Northridge Heights,2006,GasA,3534,3,1,4,True,BuiltIn,3,Y,False,2006,325300,,
-14230,Reg,1Fam,2007,Northridge Heights,2007,GasA,3166,2,0,3,True,Attchd,3,Y,False,2009,256300,,
-11478,Reg,1Fam,2007,Northridge Heights,2008,GasA,3408,2,0,3,True,Attchd,3,Y,False,2010,306000,,
-7313,Reg,TwnhsE,2005,Northridge Heights,2005,GasA,3122,2,0,2,True,Attchd,2,Y,False,2007,277500,,
-13418,Reg,1Fam,2004,Northridge Heights,2005,GasA,3569,3,1,4,True,BuiltIn,3,Y,False,2006,309000,,
-7658,Reg,TwnhsE,2005,Northridge Heights,2005,GasA,3504,2,0,2,True,Attchd,2,Y,False,2010,319900,,
-6442,IR1,TwnhsE,2006,Northridge Heights,2006,GasA,2740,2,0,2,True,Attchd,2,Y,False,2007,202500,,
-9591,Reg,1Fam,2004,Northridge Heights,2005,GasA,3616,2,1,4,True,BuiltIn,3,Y,False,2007,317000,,
-13891,Reg,1Fam,2007,Northridge Heights,2008,GasA,3420,2,0,2,True,Attchd,3,Y,False,2008,372402,,
-13688,IR1,1Fam,2003,Northridge Heights,2004,GasA,4240,2,1,3,True,BuiltIn,3,Y,False,2008,412500,,
-12182,Reg,1Fam,2005,Northridge Heights,2005,GasA,3082,2,0,3,True,Attchd,2,Y,False,2010,220000,,
-10562,Reg,1Fam,2007,Northridge Heights,2007,GasA,3743,1,1,3,True,Attchd,3,Y,False,2007,325624,,
-9591,Reg,1Fam,2004,Northridge Heights,2005,GasA,3426,2,0,3,True,Attchd,3,Y,False,2009,274900,,
-13472,Reg,1Fam,2003,Northridge Heights,2003,GasA,4784,2,0,3,True,Attchd,3,Y,False,2009,386250,,
-12030,Reg,1Fam,2007,Northridge Heights,2007,GasA,3388,2,0,3,False,Attchd,3,Y,False,2007,318000,,
-14450,Reg,1Fam,2006,Northridge Heights,2007,GasA,4242,2,1,3,True,Attchd,3,Y,False,2007,415298,,
-5063,Reg,Twnhs,2007,Northridge Heights,2008,GasA,2628,2,0,2,True,Attchd,2,Y,False,2009,207500,,
-12378,IR1,1Fam,2003,Northridge Heights,2004,GasA,3840,2,0,3,True,Attchd,3,Y,False,2006,360000,,
-16259,Reg,1Fam,2006,Northridge Heights,2006,GasA,3845,3,1,4,False,Attchd,3,Y,False,2006,342643,,
-12099,IR1,1Fam,2004,Northridge Heights,2004,GasA,3604,2,1,4,True,BuiltIn,3,Y,False,2007,354000,,
-10655,IR1,1Fam,2003,Northridge Heights,2004,GasA,4835,2,0,3,True,Attchd,3,Y,False,2009,284000,,
-8849,IR1,TwnhsE,2005,Northridge Heights,2005,GasA,3368,2,0,2,True,Attchd,2,Y,False,2008,266000,,
-2448,Reg,Twnhs,2003,Northridge Heights,2004,GasA,2390,2,1,2,False,BuiltIn,2,Y,False,2008,154000,,
-20431,IR2,1Fam,2005,Northridge Heights,2006,GasA,4576,2,1,4,True,Attchd,3,Y,False,2006,437154,,
-7820,IR1,TwnhsE,2007,Northridge Heights,2007,GasA,3738,2,0,2,True,Attchd,2,Y,False,2007,318061,,
-12474,Reg,1Fam,2007,Northridge Heights,2008,GasA,4014,2,1,3,True,BuiltIn,3,Y,False,2008,426000,,
-14154,Reg,1Fam,2006,Northridge Heights,2006,GasA,3235,2,1,3,True,Attchd,3,Y,False,2007,280000,,
-15431,Reg,1Fam,2008,Northridge Heights,2008,GasA,5496,2,0,2,True,Attchd,3,Y,False,2009,555000,,
-11428,IR1,1Fam,2006,Northridge Heights,2006,GasA,3260,2,0,3,True,Attchd,3,Y,False,2007,250000,,
-14977,IR1,1Fam,2006,Northridge Heights,2007,GasA,3952,2,0,2,True,Attchd,3,Y,False,2007,440000,,
-13693,Reg,1Fam,2006,Northridge Heights,2006,GasA,4796,2,1,3,True,BuiltIn,3,Y,False,2007,380000,,
-16033,IR1,1Fam,2004,Northridge Heights,2005,GasA,3683,2,0,3,True,Attchd,3,Y,False,2006,326000,,
-11846,IR1,1Fam,2003,Northridge Heights,2004,GasA,3584,2,0,2,True,Attchd,3,Y,False,2006,374000,,
-6792,IR1,TwnhsE,2005,Northridge Heights,2006,GasA,2736,2,0,2,True,Attchd,2,Y,False,2006,202665,,
-12220,Reg,1Fam,2009,Northridge Heights,2009,GasA,4026,2,1,3,True,Attchd,3,Y,False,2009,402861,,
-14948,IR1,1Fam,2008,Northridge Heights,2008,GasA,4165,2,1,3,True,Attchd,3,Y,False,2008,446261,,
-11146,IR1,1Fam,2006,Northridge Heights,2006,GasA,3426,2,0,3,True,Attchd,3,Y,False,2009,255500,,
-10625,Reg,1Fam,2003,Northridge Heights,2004,GasA,3044,2,1,3,True,BuiltIn,3,Y,False,2008,284000,,
-10171,IR1,1Fam,2004,Northridge Heights,2004,GasA,3052,2,0,3,False,Attchd,2,Y,False,2010,214000,,
-12704,Reg,1Fam,2008,Northridge Heights,2009,GasA,4084,2,1,3,True,Attchd,3,Y,False,2009,253293,,
-13478,IR1,1Fam,2008,Northridge Heights,2008,GasA,4018,2,1,3,True,BuiltIn,3,Y,False,2009,451950,,
-10927,Reg,1Fam,2005,Northridge Heights,2005,GasA,2962,2,1,3,True,BuiltIn,2,Y,False,2006,275000,,
-11694,Reg,1Fam,2007,Northridge Heights,2007,GasA,3650,2,0,3,True,Attchd,3,Y,False,2007,314813,,
-4590,Reg,Twnhs,2006,Northridge Heights,2006,GasA,3108,2,0,2,True,Attchd,2,Y,False,2007,209500,,
-12677,IR1,TwnhsE,2003,Northridge Heights,2004,GasA,3036,1,1,1,True,Attchd,2,Y,False,2008,274000,,
-7577,IR1,TwnhsE,2005,Northridge Heights,2006,GasA,2724,2,0,2,True,Attchd,2,Y,False,2007,194700,,
-6240,Reg,TwnhsE,2006,Northridge Heights,2006,GasA,2648,2,0,2,True,Attchd,2,Y,False,2009,254000,,
-10240,Reg,1Fam,2005,Northridge Heights,2005,GasA,3128,2,1,3,True,Attchd,3,Y,False,2006,275500,,
-14226,Reg,1Fam,2006,Northridge Heights,2006,GasA,3908,2,0,3,True,Attchd,3,Y,False,2007,395000,,
-13518,Reg,1Fam,2008,Northridge Heights,2009,GasA,5066,3,1,4,True,BuiltIn,3,Y,False,2009,485000,,
-13891,Reg,1Fam,2008,Northridge Heights,2009,GasA,4556,3,1,4,True,BuiltIn,3,Y,False,2009,582933,,
-6371,IR1,TwnhsE,2009,Northridge Heights,2010,GasA,2716,2,0,2,True,Attchd,2,Y,False,2010,224000,,
-14803,Reg,1Fam,2007,Northridge Heights,2008,GasA,4162,2,0,2,True,Attchd,3,Y,False,2008,385000,,
-8834,Reg,1Fam,2004,Northridge Heights,2005,GasA,3686,2,1,4,True,Attchd,3,Y,False,2009,350000,,
-12919,IR1,1Fam,2009,Northridge Heights,2010,GasA,4694,2,1,2,True,Attchd,3,Y,False,2010,611657,,
-11999,Reg,1Fam,2003,Northridge Heights,2004,GasA,3555,2,1,4,True,BuiltIn,3,Y,False,2007,285000,,
-2268,Reg,Twnhs,2003,Northridge Heights,2004,GasA,2390,2,0,2,False,BuiltIn,2,Y,False,2009,173000,,
-10159,IR1,1Fam,2009,Northridge Heights,2010,GasA,3870,2,1,3,True,Attchd,3,Y,False,2010,395192,,
-12456,Reg,1Fam,2006,Northridge Heights,2007,GasA,3418,2,0,3,True,Attchd,3,Y,False,2009,337500,,
-5381,IR1,Twnhs,2005,Northridge Heights,2005,GasA,2612,2,0,1,True,Attchd,2,Y,False,2009,196000,,
-7052,IR1,TwnhsE,2005,Northridge Heights,2005,GasA,2728,2,0,2,True,Attchd,2,Y,False,2006,185850,,
-11308,IR1,1Fam,2008,Northridge Heights,2008,GasA,3288,2,1,3,True,Attchd,3,Y,False,2009,335000,,
-11362,IR1,1Fam,2004,Northridge Heights,2005,GasA,3672,2,0,3,True,Attchd,3,Y,False,2009,280000,,
-12085,Reg,1Fam,2007,Northridge Heights,2007,GasA,3468,2,0,3,True,Attchd,3,Y,False,2007,318000,,
-5001,IR1,Twnhs,2007,Northridge Heights,2008,GasA,2628,2,0,2,True,Attchd,2,Y,False,2009,230000,,
-9541,IR1,1Fam,2009,Northridge Heights,2009,GasA,3004,2,0,3,False,Attchd,2,Y,False,2009,233170,,
-8769,Reg,TwnhsE,2008,Northridge Heights,2008,GasA,3404,1,1,1,True,Attchd,3,Y,False,2008,367294,,
-2628,Reg,Twnhs,2003,Northridge Heights,2003,GasA,2390,2,1,2,False,BuiltIn,2,Y,False,2010,175500,,
-13891,Reg,1Fam,2006,Northridge Heights,2006,GasA,4152,2,1,2,True,Attchd,3,Y,False,2006,465000,,
-3136,IR1,TwnhsE,2003,Northridge Heights,2003,GasA,2810,2,0,2,True,Attchd,2,Y,False,2006,171750,,
-11065,IR1,1Fam,2006,Northridge Heights,2006,GasA,3055,2,1,3,True,BuiltIn,3,Y,False,2006,281000,,
-13173,IR1,1Fam,2006,Northridge Heights,2007,GasA,3304,2,0,2,True,Attchd,2,Y,False,2009,325000,,
-6955,IR1,TwnhsE,2005,Northridge Heights,2006,GasA,2736,2,0,2,True,Attchd,2,Y,False,2006,202500,,
-16737,Reg,1Fam,2004,Northridge Heights,2005,GasA,3960,2,0,3,True,Attchd,3,Y,False,2006,315000,,
-12444,Reg,1Fam,2008,Northridge Heights,2008,GasA,3864,2,0,2,True,Attchd,3,Y,False,2008,394617,,
-8198,Reg,TwnhsE,2004,Northridge Heights,2004,GasA,2716,2,0,2,True,Attchd,2,Y,False,2008,207000,,
-16905,Reg,1Fam,1959,Timberland,1959,GasA,2678,1,1,2,True,Attchd,1,P,False,2007,170000,,
-6853,IR1,1Fam,2001,Timberland,2002,GasA,2563,2,0,2,False,Attchd,2,Y,False,2009,220000,,
-12003,Reg,1Fam,2009,Timberland,2010,GasA,2742,2,1,4,True,BuiltIn,3,Y,False,2010,269500,,
-16669,IR1,1Fam,1981,Timberland,1981,GasA,3393,2,1,2,True,Attchd,2,Y,False,2006,228000,,
-12416,IR1,1Fam,1986,Timberland,1986,GasA,3257,2,0,3,True,Attchd,2,Y,False,2008,184000,,
-215245,IR3,1Fam,1965,Timberland,1965,GasW,4172,2,0,3,True,Attchd,2,Y,False,2009,375000,,
-164660,IR1,2fmCon,1965,Timberland,1965,GasA,3285,2,0,3,True,Attchd,2,Y,False,2008,228950,,
-14191,Reg,1Fam,2002,Timberland,2002,GasA,2875,2,1,4,False,Attchd,2,Y,False,2010,202900,,
-11457,IR1,1Fam,1988,Timberland,1988,GasA,2804,2,0,3,True,Attchd,2,Y,False,2009,175000,,
-9303,IR1,1Fam,1996,Timberland,1997,GasA,2628,2,1,3,False,Attchd,2,Y,False,2007,204000,,
-10200,Reg,1Fam,1988,Timberland,1989,GasA,2970,2,0,3,True,Attchd,2,Y,False,2008,175000,,
-14601,Reg,1Fam,2006,Timberland,2006,GasA,3676,2,0,2,True,Attchd,3,Y,False,2009,315000,,
-13159,IR1,1Fam,2009,Timberland,2009,GasA,2538,2,1,3,False,Attchd,2,Y,False,2009,224500,,
-11443,Reg,1Fam,2005,Timberland,2006,GasA,3896,2,0,2,True,Attchd,3,Y,False,2006,369900,,
-12244,Reg,1Fam,2003,Timberland,2003,GasA,3744,2,1,4,True,Attchd,3,Y,False,2008,305000,,
-26178,IR1,1Fam,1989,Timberland,1990,GasA,3729,2,1,4,True,Attchd,2,Y,False,2006,335000,,
-13811,IR1,1Fam,1987,Timberland,1987,GasA,2249,2,0,2,True,Attchd,2,Y,False,2006,176000,,
-14331,Reg,1Fam,2002,Timberland,2002,GasA,3600,2,0,3,True,Attchd,3,Y,False,2006,312500,,
-9590,IR1,1Fam,2003,Timberland,2003,GasA,2014,2,0,3,True,Attchd,2,Y,False,2007,187500,,
-10656,IR1,1Fam,2006,Timberland,2007,GasA,3284,2,0,3,True,Attchd,3,Y,False,2007,248900,,
-13758,IR1,1Fam,1990,Timberland,1991,GasA,2873,2,1,3,True,Attchd,2,Y,False,2007,187500,,
-8925,IR1,1Fam,2007,Timberland,2007,GasA,2932,2,0,3,False,Attchd,3,Y,False,2009,201000,,
-14375,IR1,1Fam,1958,Timberland,1958,GasA,2163,1,0,3,True,Basment,2,Y,False,2009,137500,,
-14536,Reg,1Fam,2002,Timberland,2003,GasA,3245,2,0,3,True,Attchd,3,Y,False,2007,270000,,
-11316,Reg,1Fam,2002,Timberland,2003,GasA,2711,2,1,4,True,BuiltIn,2,Y,False,2010,214900,,
-15498,IR1,1Fam,1976,Timberland,1976,GasA,4463,2,0,2,True,Attchd,2,Y,False,2008,287000,,
-9520,IR1,1Fam,2007,Timberland,2008,GasA,3284,2,0,3,True,Attchd,3,Y,False,2008,293077,,
-12898,IR1,1Fam,2007,Timberland,2008,GasA,3240,2,0,2,True,Attchd,3,Y,False,2009,315500,,
-11170,IR2,1Fam,1990,Timberland,1991,GasA,3730,2,1,4,False,Attchd,2,Y,False,2006,250000,,
-35133,Reg,1Fam,1963,Timberland,1963,GasA,3144,1,1,3,True,2Types,3,Y,False,2007,186700,,
-9037,IR1,1Fam,2006,Timberland,2006,GasA,2960,2,0,2,True,Attchd,2,Y,False,2007,265900,,
-13214,IR1,1Fam,2008,Timberland,2009,GasA,4020,2,0,3,True,Attchd,3,Y,False,2010,378500,,
-8049,IR1,1Fam,1990,Timberland,1990,GasA,2648,2,0,2,True,Attchd,2,Y,False,2006,180000,,
-15306,IR1,1Fam,2006,Timberland,2007,GasA,3508,2,0,3,True,Attchd,3,Y,False,2007,283463,,
-10991,IR1,1Fam,2007,Timberland,2007,GasA,3142,2,0,3,True,Attchd,3,Y,False,2007,239000,,
-9735,Reg,1Fam,2006,Timberland,2007,GasA,1778,2,1,3,False,BuiltIn,2,Y,False,2008,167500,,
-12665,IR1,1Fam,2005,Timberland,2006,GasA,3576,2,1,4,True,BuiltIn,3,Y,False,2007,281213,,
-57200,IR1,1Fam,1948,Timberland,1950,GasA,2434,1,0,3,True,Detchd,2,N,False,2010,160000,,
-13869,IR2,1Fam,1997,Gilbert,1997,GasA,2264,2,0,3,False,Attchd,2,Y,False,2007,177000,,
-10141,IR1,1Fam,1998,Gilbert,1998,GasA,2550,2,1,3,True,Attchd,2,Y,False,2009,185000,,
-8530,IR1,1Fam,1995,Gilbert,1996,GasA,1858,2,1,3,True,BuiltIn,2,Y,False,2009,168500,,
-11911,IR2,1Fam,2005,Gilbert,2005,GasA,2244,2,1,3,True,BuiltIn,2,Y,False,2009,174000,,
-9765,IR2,1Fam,1993,Gilbert,1993,GasA,2150,2,1,3,True,BuiltIn,2,Y,False,2009,185000,,
-7750,IR1,1Fam,2000,Gilbert,2000,GasA,1814,2,1,3,True,BuiltIn,2,Y,False,2010,180000,,
-12224,IR1,1Fam,2000,Gilbert,2000,GasA,3046,2,1,3,True,BuiltIn,2,Y,False,2009,244000,,
-9505,IR1,1Fam,2001,Gilbert,2001,GasA,2919,2,1,3,True,BuiltIn,2,Y,False,2010,222500,,
-19378,IR1,1Fam,2005,Gilbert,2006,GasA,3854,2,1,4,True,Attchd,2,Y,False,2006,320000,,
-8244,IR1,1Fam,2004,Gilbert,2004,GasA,2560,2,1,3,True,Attchd,2,Y,False,2007,183500,,
-11851,Reg,1Fam,1990,Gilbert,1990,GasA,2866,2,0,3,False,Attchd,2,Y,False,2009,180500,,
-8068,IR1,1Fam,2002,Gilbert,2002,GasA,3277,2,1,4,True,BuiltIn,2,Y,False,2009,200000,,
-7851,Reg,1Fam,2002,Gilbert,2002,GasA,2820,2,1,4,True,BuiltIn,2,Y,False,2010,216500,,
-8738,IR1,1Fam,1999,Gilbert,1999,GasA,3266,2,1,4,True,BuiltIn,2,Y,False,2006,230000,,
-11207,IR1,1Fam,1997,Gilbert,1997,GasA,2313,2,1,3,True,Attchd,2,Y,False,2006,185000,,
-19138,Reg,1Fam,1951,Gilbert,1951,GasA,1728,1,0,2,False,Detchd,2,Y,False,2010,141000,,
-7685,IR1,1Fam,1993,Gilbert,1994,GasA,2198,2,1,3,True,Attchd,2,Y,False,2006,165600,,
-7795,IR1,1Fam,2004,Gilbert,2005,GasA,2148,2,1,3,True,Attchd,2,Y,False,2009,188500,,
-9042,IR1,1Fam,1998,Gilbert,1998,GasA,2581,2,1,3,True,Attchd,2,Y,False,2008,192000,,
-9248,IR1,1Fam,1992,Gilbert,1992,GasA,2325,2,0,3,False,Attchd,2,Y,False,2009,173000,,
-8121,IR1,1Fam,2000,Gilbert,2000,GasA,2617,2,1,3,True,Attchd,2,Y,False,2006,172400,,
-8123,IR1,1Fam,2000,Gilbert,2000,GasA,2782,2,1,3,True,Attchd,2,Y,False,2009,179000,,
-10364,IR1,1Fam,1995,Gilbert,1996,GasA,2378,2,1,3,True,BuiltIn,2,Y,False,2007,168000,,
-34650,Reg,2fmCon,1955,Gilbert,1955,GasA,2112,1,0,3,False,Attchd,2,Y,False,2006,145000,,
-8899,IR1,1Fam,2007,Gilbert,2007,GasA,2680,2,0,3,False,Attchd,2,Y,False,2007,181134,,
-10839,IR1,1Fam,1997,Gilbert,1998,GasA,2530,2,1,3,True,Attchd,2,Y,False,2008,181000,,
-11214,IR1,1Fam,1998,Gilbert,1999,GasA,2816,2,1,4,True,Attchd,2,Y,False,2006,199900,,
-15578,IR1,1Fam,2006,Gilbert,2006,GasA,2184,2,1,3,False,Attchd,2,Y,False,2006,172785,,
-9056,IR1,1Fam,2004,Gilbert,2004,GasA,2121,2,1,3,True,Attchd,2,Y,False,2006,178000,,
-17104,IR1,1Fam,2006,Gilbert,2006,GasA,2150,2,1,3,True,Attchd,2,Y,False,2006,179665,,
-21872,IR2,1Fam,1996,Gilbert,1997,GasA,2175,2,1,3,True,Attchd,2,Y,False,2008,175000,,
-9967,IR1,1Fam,2000,Gilbert,2000,GasA,1814,2,1,3,True,BuiltIn,2,Y,False,2007,170000,,
-7861,IR1,1Fam,2002,Gilbert,2003,GasA,2292,2,1,3,True,Attchd,2,Y,False,2006,183200,,
-11194,IR1,1Fam,2000,Gilbert,2000,GasA,3342,2,1,3,True,Attchd,2,Y,False,2006,230500,,
-9018,IR1,1Fam,2007,Gilbert,2007,GasA,2184,2,1,3,True,Attchd,2,Y,False,2007,179540,,
-10463,IR1,1Fam,2005,Gilbert,2005,GasA,2694,2,1,3,True,Attchd,3,Y,False,2006,239900,,
-8795,IR1,1Fam,2000,Gilbert,2000,GasA,3208,2,1,4,True,BuiltIn,2,Y,False,2009,236000,,
-7750,Reg,1Fam,2003,Gilbert,2003,GasA,1980,2,1,3,False,Attchd,2,Y,False,2007,162000,,
-7875,Reg,1Fam,1995,Gilbert,1996,GasA,2490,2,0,3,True,Attchd,2,Y,False,2007,176000,,
-10832,IR1,1Fam,1994,Gilbert,1996,GasA,2607,2,1,3,True,Attchd,2,Y,False,2008,194500,,
-12394,IR1,1Fam,2003,Gilbert,2003,GasA,2580,2,1,3,True,BuiltIn,2,Y,False,2007,225000,,
-8125,Reg,1Fam,1994,Gilbert,1995,GasA,2183,2,1,3,True,Attchd,2,Y,False,2009,174000,,
-14762,IR2,1Fam,1948,Gilbert,1950,GasA,2320,2,0,2,True,Attchd,2,P,False,2006,169000,,
-9636,IR1,1Fam,1992,Gilbert,1993,GasA,2401,2,1,3,True,BuiltIn,2,Y,False,2009,178000,,
-7875,Reg,1Fam,2003,Gilbert,2003,GasA,2292,2,1,3,True,Attchd,2,Y,False,2006,180000,,
-14859,IR1,1Fam,2006,Gilbert,2006,GasA,3340,2,0,3,True,Attchd,3,Y,False,2006,240000,,
-12589,IR2,1Fam,2005,Gilbert,2005,GasA,2226,2,1,3,True,Attchd,2,Y,False,2009,174000,,
-10237,Reg,1Fam,2005,Gilbert,2006,GasA,2632,2,0,3,True,Attchd,2,Y,False,2006,169990,,
-13006,IR1,1Fam,1997,Gilbert,1997,GasA,3200,2,1,4,True,BuiltIn,2,Y,False,2006,222000,,
-8755,IR1,1Fam,1999,Gilbert,1999,GasA,3052,2,1,3,True,BuiltIn,2,Y,False,2009,214000,,
-10237,Reg,1Fam,2005,Gilbert,2007,GasA,2267,2,1,3,True,Attchd,2,Y,False,2007,178900,,
-10784,IR1,1Fam,1991,Gilbert,1992,GasA,1856,2,1,3,True,Attchd,2,Y,False,2007,160000,,
-8993,IR1,1Fam,2007,Gilbert,2007,GasA,2604,2,0,3,False,Attchd,2,Y,False,2007,176485,,
-7837,IR1,1Fam,1993,Gilbert,1994,GasA,2370,2,1,3,True,Attchd,2,Y,False,2009,178000,,
-13031,IR2,1Fam,1995,Gilbert,1996,GasA,2189,2,1,3,True,Attchd,2,Y,False,2006,187500,,
-23257,IR3,1Fam,2006,Gilbert,2006,GasA,2889,2,1,3,True,BuiltIn,2,Y,False,2006,274725,,
-8063,Reg,1Fam,2000,Gilbert,2000,GasA,2614,2,1,3,True,Attchd,2,Y,False,2007,181000,,
-8000,Reg,1Fam,1995,Gilbert,1996,GasA,2431,2,1,3,True,Attchd,2,Y,False,2008,188000,,
-7750,Reg,1Fam,2002,Gilbert,2002,GasA,1827,2,1,3,True,BuiltIn,2,Y,False,2009,184100,,
-9125,IR1,1Fam,1992,Gilbert,1992,GasA,1866,2,1,3,True,Attchd,2,Y,False,2007,163900,,
-14572,IR3,1Fam,2004,Gilbert,2004,GasA,3060,2,0,3,True,Attchd,3,Y,False,2007,259000,,
-11796,IR1,1Fam,2004,Gilbert,2005,GasA,2806,2,1,4,True,BuiltIn,2,Y,False,2007,215000,,
-8773,IR1,1Fam,1997,Gilbert,1997,GasA,2516,2,1,3,True,Attchd,2,Y,False,2007,169000,,
-10852,IR1,1Fam,2000,Gilbert,2000,GasA,2630,2,1,3,True,Attchd,2,Y,False,2006,173000,,
-7500,Reg,1Fam,1999,Gilbert,1999,GasA,2798,2,1,3,True,Attchd,2,Y,False,2010,189000,,
-8029,IR1,1Fam,2005,Gilbert,2005,GasA,2184,2,1,3,False,Attchd,2,Y,False,2008,176000,,
-14054,IR1,1Fam,2006,Gilbert,2006,GasA,2742,2,1,4,True,BuiltIn,3,Y,False,2006,219210,,
-12134,IR1,1Fam,1988,Gilbert,2005,GasA,2311,2,0,4,False,Basment,2,Y,False,2010,164000,,
-15384,IR1,1Fam,2004,Gilbert,2005,GasA,2278,2,1,3,True,Attchd,2,Y,False,2008,184000,,
-9587,IR1,1Fam,2005,Gilbert,2005,GasA,2022,2,0,2,False,Attchd,2,Y,False,2008,190000,,
-24682,IR3,1Fam,1999,Gilbert,1999,GasA,2516,2,1,3,True,BuiltIn,2,Y,False,2009,181000,,
-10762,IR1,1Fam,1999,Gilbert,1999,GasA,2961,2,1,3,True,Attchd,2,Y,False,2009,225000,,
-9084,IR1,1Fam,1998,Gilbert,1998,GasA,2567,2,1,3,True,Attchd,2,Y,False,2006,176500,,
-8499,IR1,1Fam,2006,Gilbert,2007,GasA,2028,2,1,3,True,BuiltIn,2,Y,False,2007,156932,,
-14892,IR1,1Fam,2006,Gilbert,2007,GasA,3492,2,0,3,True,Attchd,3,Y,False,2009,377500,,
-7415,IR1,1Fam,2004,Gilbert,2004,GasA,2432,2,1,3,True,Attchd,2,Y,False,2008,193000,,
-21930,IR3,1Fam,2005,Gilbert,2005,GasA,2570,2,1,4,True,BuiltIn,2,Y,False,2006,192140,,
-10261,IR1,1Fam,2000,Gilbert,2000,GasA,2728,2,1,3,True,Attchd,2,Y,False,2008,186500,,
-7917,Reg,1Fam,1999,Gilbert,2000,GasA,2600,2,1,3,True,Attchd,2,Y,False,2007,175000,,
-13682,IR2,1Fam,2006,Stone Brook,2006,GasA,4355,3,1,3,True,BuiltIn,3,Y,False,2006,438780,,
-5306,IR1,TwnhsE,1987,Stone Brook,1987,GasA,2831,2,0,2,True,Attchd,2,Y,False,2006,239000,,
-17423,IR1,1Fam,2008,Stone Brook,2009,GasA,4450,2,0,1,True,Attchd,3,Y,False,2009,501837,,
-14157,IR1,1Fam,2005,Stone Brook,2006,GasA,3844,2,0,3,True,Attchd,3,Y,False,2007,377426,,
-11394,Reg,1Fam,2010,Stone Brook,2010,GasA,3712,1,1,1,True,Attchd,3,Y,False,2010,394432,,
-6820,IR1,TwnhsE,1985,Stone Brook,1985,GasA,2990,1,1,1,False,Attchd,2,Y,False,2010,212000,,
-5330,Reg,TwnhsE,2000,Stone Brook,2000,GasA,3146,2,0,2,False,Attchd,2,Y,False,2007,251000,,
-11198,IR1,1Fam,2005,Stone Brook,2007,GasA,3626,2,1,4,True,BuiltIn,3,Y,False,2008,325000,,
-11302,IR1,1Fam,2005,Stone Brook,2006,GasA,3640,2,0,3,True,Attchd,3,Y,False,2006,319000,,
-11844,IR1,1Fam,2008,Stone Brook,2008,GasA,4092,2,1,3,True,Attchd,3,Y,False,2009,372500,,
-5062,IR1,TwnhsE,1984,Stone Brook,1984,GasA,3280,2,0,3,True,Attchd,2,Y,False,2007,207500,,
-8089,Reg,1Fam,2007,Stone Brook,2007,GasA,2838,2,0,2,True,Attchd,2,Y,False,2007,392000,,
-12438,IR1,1Fam,2006,Stone Brook,2006,GasA,3810,2,1,4,True,BuiltIn,3,Y,False,2006,361919,,
-4671,IR1,TwnhsE,1988,Stone Brook,1989,GasA,2456,2,0,2,True,Attchd,2,Y,False,2008,189000,,
-6563,IR1,1Fam,1985,Stone Brook,1985,GasA,3484,2,0,2,True,Attchd,2,Y,False,2006,275000,,
-5389,IR1,TwnhsE,1995,Stone Brook,1996,GasA,3211,2,0,2,True,Attchd,2,Y,False,2010,236500,,
-5395,IR1,TwnhsE,1993,Stone Brook,1993,GasA,2674,2,0,2,True,Attchd,2,Y,False,2008,180000,,
-53504,IR2,1Fam,2003,Stone Brook,2003,GasA,4929,3,1,4,True,BuiltIn,3,Y,False,2010,538000,,
-5814,IR1,TwnhsE,1984,Stone Brook,1984,GasA,2580,1,0,1,True,Attchd,2,Y,False,2009,187500,,
-16056,IR1,1Fam,2005,Stone Brook,2006,GasA,4860,3,1,4,True,BuiltIn,3,Y,False,2006,556581,,
-4920,Reg,TwnhsE,2001,Stone Brook,2001,GasA,2676,2,0,2,False,Attchd,2,Y,False,2010,213500,,
-3696,Reg,TwnhsE,1986,Stone Brook,1986,GasA,2162,1,1,2,False,Attchd,2,Y,False,2007,170000,,
-5664,IR1,TwnhsE,2000,Stone Brook,2000,GasA,3160,2,0,2,True,Attchd,2,Y,False,2009,278000,,
-16158,IR1,1Fam,2005,Stone Brook,2005,GasA,3060,2,0,3,True,Attchd,2,Y,False,2009,260000,,
-15593,Reg,1Fam,1953,Clear Creek,1953,GasW,3591,2,0,3,True,Attchd,2,Y,False,2006,225000,,
-21453,IR1,1Fam,1969,Clear Creek,1969,GasA,1926,1,0,1,True,Attchd,2,Y,False,2006,180000,,
-13500,Reg,1Fam,1960,Clear Creek,1975,GasA,2854,1,0,1,True,Attchd,2,Y,False,2008,235000,,
-10708,IR1,1Fam,1955,Clear Creek,1993,GasA,3484,1,0,2,True,Attchd,1,Y,False,2009,190000,,
-10029,IR1,1Fam,1988,Clear Creek,1989,GasA,3211,2,1,4,True,Attchd,2,Y,False,2007,211000,,
-159000,IR2,1Fam,1958,Clear Creek,2006,GasA,3588,2,0,4,True,Attchd,2,Y,False,2007,277000,,
-39104,IR1,1Fam,1954,Clear Creek,2005,GasA,2748,1,0,2,True,Attchd,2,Y,False,2008,241500,,
-10005,Reg,1Fam,1977,Clear Creek,1977,GasA,3182,2,1,4,True,Attchd,2,Y,False,2008,192000,,
-5271,IR1,1Fam,1986,Clear Creek,1986,GasA,2906,1,1,2,True,Attchd,2,Y,False,2006,190000,,
-6930,IR1,1Fam,1958,Clear Creek,1958,GasA,2414,1,0,3,False,BuiltIn,1,Y,False,2006,130000,,
-17120,Reg,1Fam,1959,Clear Creek,1959,GasA,1588,2,0,4,True,Detchd,2,N,False,2008,134432,,
-53107,IR2,1Fam,1992,Clear Creek,1992,GasA,3533,2,1,3,True,Attchd,2,Y,False,2007,240000,,
-70761,IR1,1Fam,1975,Clear Creek,1975,GasA,3066,2,0,2,True,Attchd,2,Y,False,2006,280000,,
-53227,IR1,1Fam,1954,Clear Creek,1994,GasA,3027,1,0,2,True,Attchd,2,Y,False,2008,256000,,
-25095,IR1,1Fam,1968,Clear Creek,2003,GasA,2910,1,0,1,True,Attchd,1,Y,False,2009,143000,,
-2887,Reg,1Fam,1996,Clear Creek,1997,GasA,2582,1,0,2,True,Attchd,2,Y,False,2008,173000,,
-115149,IR2,1Fam,1971,Clear Creek,2002,GasA,3467,2,0,2,True,Attchd,2,Y,False,2007,302000,,
-12205,IR1,1Fam,1966,Clear Creek,2007,GasA,2919,2,1,5,False,Attchd,2,Y,False,2007,187500,,
-12798,IR1,1Fam,1997,Clear Creek,1997,GasA,2304,2,1,4,False,Attchd,2,Y,False,2008,200000,,
-8816,Reg,1Fam,1971,Clear Creek,1971,GasA,2062,1,0,3,False,Attchd,2,Y,False,2010,155000,,
-28698,IR2,1Fam,1967,Clear Creek,1967,GasA,3139,2,1,3,False,Attchd,2,Y,False,2009,185000,,
-45600,IR2,1Fam,1908,Clear Creek,1997,GasA,3265,3,0,5,True,Detchd,2,Y,False,2008,240000,,
-24090,Reg,1Fam,1940,Clear Creek,1950,GasA,3435,2,0,4,True,Attchd,1,Y,False,2010,244400,,
-14000,Reg,1Fam,1996,Clear Creek,1997,GasA,3566,2,1,3,False,Attchd,2,Y,False,2010,328000,,
-11250,Reg,1Fam,1957,Clear Creek,1989,GasA,2892,1,0,5,True,Attchd,1,Y,False,2009,161500,,
-36500,IR1,1Fam,1964,Clear Creek,1964,GasA,3206,2,0,4,False,Attchd,2,N,False,2006,190000,,
-4928,IR1,TwnhsE,1976,Northpark Villa,1976,GasA,2036,2,0,2,True,Attchd,2,Y,False,2007,128000,,
-2280,Reg,Twnhs,1976,Northpark Villa,1976,GasA,2311,2,1,3,True,Attchd,2,Y,False,2009,148500,,
-2308,Reg,TwnhsE,1974,Northpark Villa,1974,GasA,2177,2,1,3,True,Attchd,2,Y,False,2009,147000,,
-4043,Reg,TwnhsE,1977,Northpark Villa,1977,GasA,2138,2,0,2,False,Attchd,2,Y,False,2008,140000,,
-2289,Reg,Twnhs,1978,Northpark Villa,1978,GasA,2296,2,1,3,True,Attchd,2,Y,False,2009,148500,,
-2308,Reg,TwnhsE,1976,Northpark Villa,1976,GasA,2352,2,1,3,True,Detchd,2,Y,False,2007,155000,,
-2280,Reg,Twnhs,1978,Northpark Villa,1978,GasA,2311,2,1,3,True,Attchd,2,Y,False,2010,146000,,
-4043,Reg,TwnhsE,1977,Northpark Villa,1977,GasA,2138,2,0,2,True,Attchd,2,Y,False,2010,127500,,
-4928,IR1,TwnhsE,1976,Northpark Villa,1976,GasA,1916,2,0,2,False,Attchd,2,Y,False,2009,143750,,
-10410,Reg,1Fam,1916,Old Town,1987,GasA,2316,2,1,3,False,Detchd,1,N,False,2009,135000,,
-7000,Reg,1Fam,1924,Old Town,1950,GasA,1927,2,0,2,False,Attchd,1,Y,False,2006,112000,,
-10134,Reg,1Fam,1940,Old Town,1950,GasA,1769,1,0,2,False,Detchd,1,Y,False,2007,109000,,
-10800,Reg,2fmCon,1900,Old Town,1970,GasA,3368,2,0,3,True,Attchd,2,N,False,2006,160000,,
-9022,Reg,1Fam,1924,Old Town,2006,GasA,1560,1,0,2,False,Detchd,1,N,False,2009,109500,,
-5400,Reg,1Fam,1921,Old Town,1968,GasA,2146,1,0,2,False,Detchd,1,Y,False,2006,108480,,
-5400,Reg,1Fam,1920,Old Town,1950,GasA,1382,1,0,2,False,Detchd,1,N,False,2007,86000,,
-10800,Reg,1Fam,1936,Old Town,1989,GasA,2262,2,0,3,True,Attchd,2,Y,False,2006,170000,,
-5400,Reg,1Fam,1954,Old Town,2000,GasA,1666,1,0,2,False,Detchd,1,Y,False,2006,117000,,
-10800,Reg,1Fam,1920,Old Town,1950,GasA,2250,1,0,2,True,Detchd,2,Y,False,2006,120000,,
-10615,IR1,2fmCon,1900,Old Town,1970,GasA,2677,2,0,3,False,CarPort,2,Y,False,2009,95000,,
-5400,Reg,1Fam,1920,Old Town,1950,GasA,2214,1,0,2,False,Detchd,1,Y,False,2009,105000,,
-10410,Reg,1Fam,1915,Old Town,1950,GasA,1886,1,0,3,False,Detchd,3,Y,False,2006,105000,,
-10800,Reg,1Fam,1927,Old Town,2007,GasA,1624,2,0,4,False,Detchd,1,Y,False,2007,64500,,
-6120,Reg,1Fam,1931,Old Town,1950,GasA,2726,2,0,2,True,Detchd,2,Y,False,2008,129900,,
-10300,IR1,1Fam,1921,Old Town,1950,GasA,2286,2,0,3,False,Detchd,2,Y,False,2010,140000,,
-4608,Reg,1Fam,1945,Old Town,1950,GasA,1494,1,0,2,False,Attchd,1,Y,False,2010,80000,,
-5790,Reg,1Fam,1915,Old Town,1950,GasA,2445,2,0,3,False,Detchd,1,Y,False,2010,107400,,
-10440,Reg,1Fam,1910,Old Town,1981,GasA,1670,1,1,2,False,Detchd,2,Y,False,2009,110000,,
-10800,Reg,1Fam,1885,Old Town,1995,GasA,1688,1,0,2,False,Detchd,1,N,False,2007,100000,,
-6000,Reg,1Fam,1948,Old Town,1950,GasA,1578,1,0,2,False,Detchd,1,Y,False,2008,115000,,
-11340,Reg,1Fam,1923,Old Town,1950,GasA,2400,1,0,4,False,Detchd,1,Y,False,2006,125000,,
-5400,Reg,1Fam,1926,Old Town,2004,GasA,2765,2,0,3,False,Detchd,1,Y,False,2007,152000,,
-12358,IR1,1Fam,1941,Old Town,1950,GasA,2102,1,1,2,False,Detchd,2,Y,False,2007,128500,,
-8520,Reg,1Fam,1923,Old Town,2006,GasA,1936,1,0,2,False,Detchd,2,N,False,2007,100000,,
-11426,Reg,1Fam,2003,Old Town,2003,GasA,3444,2,1,3,False,Detchd,2,N,False,2008,200000,,
-22950,IR2,1Fam,1892,Old Town,1993,GasA,4715,2,1,4,True,Detchd,3,Y,False,2006,475000,,
-3500,Reg,1Fam,1947,Old Town,1950,GasA,2004,1,1,2,False,Detchd,1,Y,False,2009,110000,,
-9906,Reg,1Fam,1925,Old Town,1950,GasA,2014,1,0,3,False,Detchd,1,Y,False,2006,107000,,
-5000,Reg,1Fam,1900,Old Town,1950,GasA,1980,1,0,3,False,Attchd,1,Y,False,2006,79000,,
-9142,Reg,2fmCon,1910,Old Town,1950,GasA,2948,2,0,4,False,Detchd,1,Y,False,2006,137000,,
-12702,Reg,1Fam,1956,Old Town,1956,GasA,882,1,0,2,False,Detchd,1,Y,False,2008,97000,,
-5500,Reg,1Fam,1929,Old Town,2001,GasA,2242,1,0,3,False,Detchd,2,Y,False,2010,130000,,
-5232,IR3,1Fam,1925,Old Town,2004,GasA,1444,1,0,2,False,Detchd,2,N,False,2008,73000,,
-18386,Reg,1Fam,1880,Old Town,2002,GasA,4963,3,0,3,True,Attchd,3,Y,False,2008,295000,,
-7800,Reg,2fmCon,1939,Old Town,1950,GasA,1911,1,0,3,True,Detchd,2,Y,False,2006,119900,,
-9600,Reg,1Fam,1925,Old Town,1990,GasA,2369,1,1,3,True,Detchd,2,Y,False,2006,178000,,
-5820,Reg,1Fam,1955,Old Town,2005,GasA,2325,1,0,3,False,Attchd,1,Y,False,2006,126175,,
-8520,Reg,1Fam,1928,Old Town,2003,GasA,1344,1,0,2,False,Detchd,2,Y,False,2010,105900,,
-8960,Reg,1Fam,1927,Old Town,1950,GasA,2036,1,0,2,True,Detchd,2,Y,False,2010,115000,,
-3378,Reg,1Fam,1946,Old Town,1992,GasA,2040,1,1,3,True,Detchd,1,P,False,2009,135000,,
-4400,Reg,1Fam,1920,Old Town,1950,GasA,1766,1,0,2,False,Detchd,2,Y,False,2006,116000,,
-6000,Reg,1Fam,1948,Old Town,2002,GasA,1832,1,1,2,False,Detchd,1,Y,False,2007,120000,,
-5684,Reg,1Fam,1930,Old Town,2005,GasA,1626,1,0,2,False,Detchd,1,N,False,2006,110000,,
-4571,Reg,1Fam,1916,Old Town,1950,GasA,1968,1,0,4,False,Detchd,3,Y,False,2008,98000,,
-5100,Reg,1Fam,1925,Old Town,1996,GasA,2254,1,0,3,True,Detchd,1,Y,False,2008,161000,,
-5925,Reg,1Fam,1937,Old Town,2000,GasA,2038,1,0,2,False,Detchd,2,Y,False,2007,89471,,
-2500,Reg,1Fam,1915,Old Town,2005,GasA,2736,1,1,4,True,Attchd,1,Y,False,2009,155000,,
-5784,Reg,1Fam,1938,Old Town,1996,GasA,1076,1,0,2,False,Attchd,1,Y,False,2009,91300,,
-7596,Reg,Duplex,1952,Old Town,1952,GasA,2920,2,0,4,False,Detchd,2,N,False,2009,124500,,
-9600,Reg,1Fam,1928,Old Town,2005,GasA,2067,2,0,3,True,Detchd,2,N,False,2008,161000,,
-8235,IR1,1Fam,1955,Old Town,1995,GasA,1650,1,0,2,False,Detchd,2,Y,False,2008,125000,,
-6000,Reg,1Fam,1957,Old Town,1957,GasA,1856,1,0,3,False,Attchd,1,Y,False,2008,112500,,
-12150,Reg,1Fam,1954,Old Town,1954,GasA,2845,2,0,4,False,Attchd,1,Y,False,2008,131500,,
-13500,Reg,1Fam,1893,Old Town,2000,GasA,4012,3,1,3,True,Detchd,2,Y,False,2008,325000,,
-3600,Reg,1Fam,1910,Old Town,1993,GasA,2052,1,0,3,False,Detchd,1,N,False,2006,114504,,
-9000,Reg,1Fam,1880,Old Town,1991,GasA,2386,1,0,3,False,Detchd,1,N,False,2006,124000,,
-6000,Reg,2fmCon,1954,Old Town,1954,GasA,2198,2,0,3,False,BuiltIn,1,Y,False,2009,93000,,
-9600,Reg,1Fam,1900,Old Town,1950,GasW,2869,2,0,4,False,2Types,3,N,False,2006,87000,,
-7630,Reg,2fmCon,1900,Old Town,1996,GasA,2172,2,0,4,True,Detchd,2,N,False,2010,140000,,
-10800,Reg,1Fam,1890,Old Town,1998,GasA,3272,1,1,3,False,Detchd,2,P,False,2007,159500,,
-10800,Reg,1Fam,1914,Old Town,1970,GasW,2648,1,1,2,True,Detchd,2,N,False,2006,163000,,
-9600,Reg,1Fam,1910,Old Town,2002,GasA,1696,2,0,2,False,Detchd,2,Y,False,2007,132000,,
-11700,IR1,1Fam,1880,Old Town,2003,GasW,3880,1,1,4,True,Detchd,4,N,False,2009,265979,,
-10800,Reg,1Fam,1915,Old Town,1950,GasA,2338,2,0,4,False,Detchd,1,Y,False,2010,139000,,
-6000,Reg,1Fam,1954,Old Town,2000,GasA,1802,1,0,2,False,Detchd,1,Y,False,2008,107900,,
-8100,Reg,1Fam,1898,Old Town,1965,GasA,2987,2,0,2,False,Detchd,2,N,False,2009,106000,,
-6000,Reg,2fmCon,1953,Old Town,1953,GasA,1872,1,0,2,False,Detchd,2,Y,False,2009,93000,,
-8100,Reg,1Fam,1948,Old Town,1973,GasA,3118,1,0,2,False,Detchd,2,Y,False,2007,153500,,
-10440,Reg,1Fam,1904,Old Town,2002,GasA,2189,2,0,3,True,Detchd,2,P,False,2008,157500,,
-12665,IR1,1Fam,1915,Old Town,1950,GasA,2292,1,1,4,True,Detchd,3,Y,False,2008,153900,,
-5720,Reg,1Fam,1941,Old Town,1950,GasA,1807,1,1,3,False,Detchd,1,Y,False,2009,66500,,
-8820,Reg,1Fam,1890,Old Town,1996,GasA,2957,1,0,2,False,Detchd,2,Y,False,2009,124900,,
-5310,Reg,1Fam,1910,Old Town,2003,GasA,2120,1,0,2,False,Attchd,1,Y,False,2006,117000,,
-17671,Reg,1Fam,1882,Old Town,1986,GasA,2658,1,1,4,True,Attchd,2,P,False,2009,168000,,
-7200,Reg,1Fam,1910,Old Town,2006,GasW,2044,1,0,2,False,Detchd,1,Y,False,2009,85000,,
-9439,Reg,1Fam,1930,Old Town,1950,GasA,2160,1,0,2,False,Detchd,1,Y,False,2007,87000,,
-13600,Reg,2fmCon,1900,Old Town,1950,GasA,2999,2,0,5,False,Detchd,2,Y,False,2007,90000,,
-6000,Reg,1Fam,1925,Old Town,1980,GasA,2206,1,0,2,True,Detchd,2,Y,False,2006,110500,,
-7200,Reg,Duplex,1980,Old Town,1980,GasA,1872,1,0,2,False,Detchd,2,Y,False,2007,140000,,
-9900,Reg,1Fam,1880,Old Town,1950,GasW,3218,2,0,5,False,Detchd,1,N,False,2007,117500,,
-5700,Reg,1Fam,1926,Old Town,1950,GasA,1683,1,0,2,True,Detchd,1,Y,False,2008,116900,,
-9000,Reg,1Fam,1920,Old Town,1988,GasA,2132,1,0,3,False,Detchd,2,Y,False,2009,143000,,
-3950,Reg,1Fam,1926,Old Town,2004,GasA,2042,1,0,3,False,Detchd,1,N,False,2009,115000,,
-9600,Reg,1Fam,1925,Old Town,1994,GasA,2174,1,0,3,False,Detchd,1,P,False,2007,125000,,
-8850,IR1,1Fam,1916,Old Town,1950,GasA,2505,1,0,3,True,Detchd,1,Y,False,2006,144000,,
-9600,Reg,1Fam,1917,Old Town,1950,OthW,2793,1,1,3,True,Detchd,2,P,False,2008,129500,,
-10120,IR1,2fmCon,1910,Old Town,1950,GasA,2814,1,1,4,True,Detchd,1,N,False,2007,122000,,
-6600,Reg,1Fam,1892,Old Town,1965,GasA,3366,2,0,4,False,Attchd,1,Y,False,2009,107500,,
-12000,Reg,1Fam,1948,Old Town,2005,GasA,2046,1,0,2,False,Attchd,2,Y,False,2008,147000,,
-10440,Reg,1Fam,1920,Old Town,1950,GasW,4302,2,0,5,True,Detchd,2,Y,False,2008,256000,,
-6000,Reg,1Fam,1920,Old Town,1950,GasA,1920,1,0,2,False,Detchd,1,Y,False,2007,108500,,
-7200,Reg,1Fam,1920,Old Town,1950,GasA,2358,1,1,4,False,Detchd,2,N,False,2006,157000,,
-8520,Reg,1Fam,1916,Old Town,1950,GasW,3240,2,0,5,True,Detchd,1,Y,False,2007,136000,,
-10800,Reg,2fmCon,1905,Old Town,2000,GasA,2394,2,0,3,True,Detchd,2,Y,False,2008,163000,,
-7740,Reg,1Fam,1910,Old Town,1950,GasA,1985,1,0,3,False,Detchd,2,Y,False,2010,125500,,
-11340,Reg,2fmCon,1885,Old Town,1950,GasA,3067,2,0,4,False,Detchd,2,N,False,2010,122500,,
-7200,Reg,1Fam,1940,Old Town,1992,GasA,1592,1,0,2,True,Attchd,1,Y,False,2010,119000,,
-7407,Reg,1Fam,1957,Old Town,1996,GasA,2148,1,0,2,False,Attchd,2,Y,False,2010,149700,,
-3010,Reg,TwnhsE,2005,Bloomington Heights,2006,GasA,2496,2,0,2,False,Attchd,2,Y,False,2006,167240,,
-3182,Reg,TwnhsE,2005,Bloomington Heights,2006,GasA,2928,2,0,2,True,Attchd,2,Y,False,2009,192500,,
-3182,Reg,TwnhsE,2004,Bloomington Heights,2005,GasA,2525,2,0,2,True,Attchd,2,Y,False,2010,192000,,
-3922,Reg,TwnhsE,2006,Bloomington Heights,2007,GasA,2516,2,0,2,True,Attchd,3,Y,False,2007,172500,,
-3196,Reg,TwnhsE,2003,Bloomington Heights,2004,GasA,2931,2,0,2,True,Attchd,2,Y,False,2006,234000,,
-3982,Reg,TwnhsE,2006,Bloomington Heights,2006,GasA,3087,2,0,1,True,Attchd,3,Y,False,2006,264561,,
-3182,Reg,TwnhsE,2005,Bloomington Heights,2006,GasA,2290,2,0,2,True,Attchd,2,Y,False,2009,160200,,
-3196,Reg,TwnhsE,2003,Bloomington Heights,2003,GasA,2729,2,0,2,True,Attchd,2,Y,False,2006,215000,,
-3182,Reg,1Fam,2007,Bloomington Heights,2007,GasA,2532,2,0,2,True,Attchd,2,Y,False,2008,159895,,
-3182,Reg,TwnhsE,2005,Bloomington Heights,2006,GasA,2850,2,0,1,True,Attchd,2,Y,False,2009,181000,,
-3013,Reg,TwnhsE,2005,Bloomington Heights,2005,GasA,2868,2,0,2,True,Attchd,2,Y,False,2006,213490,,
-3182,Reg,TwnhsE,2005,Bloomington Heights,2006,GasA,2850,2,0,2,True,Attchd,2,Y,False,2008,191000,,
-3684,Reg,TwnhsE,2007,Bloomington Heights,2007,GasA,2928,2,0,2,True,Attchd,3,Y,False,2009,174000,,
-4045,Reg,TwnhsE,2006,Bloomington Heights,2006,GasA,2856,2,0,2,True,Attchd,3,Y,False,2006,246578,,
-3635,Reg,TwnhsE,2007,Bloomington Heights,2007,GasA,2955,2,0,1,True,Attchd,3,Y,False,2009,175900,,
-3072,Reg,TwnhsE,2004,Bloomington Heights,2004,GasA,2789,2,0,2,True,Attchd,2,Y,False,2006,178740,,
-7449,Reg,1Fam,1930,Iowa DOT and Rail Road,1950,GasA,1745,1,0,3,True,Attchd,1,N,False,2007,139400,,
-8472,IR2,Duplex,1963,Iowa DOT and Rail Road,1963,GasA,1632,1,0,2,False,CarPort,2,Y,False,2010,110000,,
-7200,Reg,1Fam,1920,Iowa DOT and Rail Road,1996,GasA,1641,1,0,3,False,Detchd,1,N,False,2007,101000,,
-7758,Reg,1Fam,1931,Iowa DOT and Rail Road,1950,GasA,2858,1,1,4,True,Detchd,1,Y,False,2007,169500,,
-6060,Reg,1Fam,1939,Iowa DOT and Rail Road,1950,GasA,1855,1,0,3,False,Detchd,1,P,False,2007,100000,,
-6900,Reg,1Fam,1940,Iowa DOT and Rail Road,1955,GasA,1518,1,0,2,True,Detchd,1,Y,False,2008,120500,,
-13710,Reg,1Fam,1950,Iowa DOT and Rail Road,1950,GasA,2468,1,1,4,False,Attchd,1,Y,False,2007,152000,,
-5000,Reg,1Fam,1941,Iowa DOT and Rail Road,1950,GasA,1523,1,0,2,False,Detchd,2,Y,False,2007,87000,,
-6402,Reg,1Fam,1920,Iowa DOT and Rail Road,1950,GasA,1788,1,0,3,False,Detchd,1,N,False,2009,78000,,
-10690,Reg,1Fam,1920,Iowa DOT and Rail Road,1997,GasA,2016,1,0,3,False,Detchd,1,Y,False,2009,147000,,
-8967,Reg,1Fam,1920,Iowa DOT and Rail Road,1950,GasA,2038,1,0,2,False,Detchd,1,N,False,2007,67000,,
-8600,Reg,1Fam,1937,Iowa DOT and Rail Road,1950,GasA,2156,2,0,3,True,Detchd,1,N,False,2006,119500,,
-9000,Reg,1Fam,1937,Iowa DOT and Rail Road,1950,GasA,2155,1,1,3,True,Detchd,1,P,False,2007,141000,,
-10320,Reg,1Fam,1906,Iowa DOT and Rail Road,1995,GasA,2225,1,0,3,False,Detchd,1,Y,False,2008,135000,,
-6240,Reg,1Fam,1925,Iowa DOT and Rail Road,1950,GasA,1988,1,0,2,False,Detchd,2,Y,False,2009,103000,,
-4800,Reg,1Fam,1916,Iowa DOT and Rail Road,1990,GasA,2392,1,0,2,False,Detchd,2,Y,False,2007,109900,,
-8765,Reg,1Fam,1936,Iowa DOT and Rail Road,1950,GasA,1902,1,0,2,False,Detchd,1,Y,False,2006,106500,,
-9786,Reg,1Fam,1922,Iowa DOT and Rail Road,1950,GasA,2084,1,0,3,True,Detchd,1,P,False,2006,91000,,
-8263,Reg,1Fam,1920,Iowa DOT and Rail Road,1950,GasA,2024,1,0,2,True,Detchd,1,Y,False,2007,118400,,
-5890,Reg,1Fam,1930,Iowa DOT and Rail Road,2007,GasA,1632,1,0,2,False,Detchd,1,Y,False,2008,120500,,
-7200,Reg,1Fam,1938,Iowa DOT and Rail Road,1995,GasA,2163,1,1,2,False,Detchd,1,Y,False,2006,125500,,
-5436,Reg,1Fam,1922,Iowa DOT and Rail Road,2007,GasA,1950,1,0,3,False,Detchd,1,N,False,2010,125500,,
-4224,Reg,TwnhsE,1976,Meadow Village,1976,GasA,2100,1,0,3,True,Attchd,2,Y,False,2007,129900,,
-1596,Reg,Twnhs,1973,Meadow Village,1973,GasA,1450,1,0,2,False,BuiltIn,1,Y,False,2009,91000,,
-2592,Reg,TwnhsE,1976,Meadow Village,1976,GasA,1648,1,1,3,False,Attchd,1,Y,False,2010,85000,,
-4224,Reg,TwnhsE,1976,Meadow Village,1976,GasA,2284,1,1,3,True,Attchd,2,Y,False,2007,134000,,
-1526,Reg,Twnhs,1970,Meadow Village,2002,GasA,1260,1,0,1,False,Attchd,1,Y,False,2009,86000,,
-2665,Reg,TwnhsE,1976,Meadow Village,1976,GasA,1568,1,1,3,True,BuiltIn,1,Y,False,2008,115000,,
-2001,Reg,Twnhs,1970,Meadow Village,1970,GasA,1638,1,1,3,False,Attchd,1,Y,False,2007,75000,,
-2217,Reg,TwnhsE,1970,Meadow Village,1970,GasA,1638,1,1,3,False,Attchd,1,Y,False,2009,88000,,
-1477,Reg,TwnhsE,1970,Meadow Village,1970,GasA,1260,1,0,1,False,Attchd,1,Y,False,2009,80000,,
-3964,Reg,TwnhsE,1973,Meadow Village,1973,GasA,3463,2,1,5,True,Attchd,2,Y,False,2006,151400,,
-1974,Reg,TwnhsE,1973,Meadow Village,1973,GasA,1638,1,1,3,False,Attchd,1,Y,False,2010,83500,,
-2665,Reg,TwnhsE,1977,Meadow Village,1977,GasA,2232,2,0,4,True,Attchd,1,Y,False,2006,127000,,
-1680,Reg,Twnhs,1971,Briardale,1971,GasA,1932,2,1,3,False,Detchd,1,Y,False,2009,112000,,
-1869,Reg,Twnhs,1970,Briardale,1970,GasA,1470,1,1,2,False,Detchd,1,Y,False,2008,106000,,
-1680,Reg,Twnhs,1972,Briardale,1972,GasA,1470,1,1,2,True,Attchd,1,Y,False,2006,94500,,
-1680,Reg,TwnhsE,1971,Briardale,1971,GasA,1470,1,1,2,False,Detchd,1,Y,False,2008,89500,,
-1680,Reg,Twnhs,1972,Briardale,2007,GasA,1470,1,1,2,False,Detchd,1,Y,False,2009,118000,,
-1680,Reg,Twnhs,1971,Briardale,1971,GasA,1470,1,1,2,False,Detchd,1,Y,False,2008,85400,,
-1920,Reg,TwnhsE,1971,Briardale,1971,GasA,2130,1,1,2,False,Detchd,2,Y,False,2007,122500,,
-1890,Reg,Twnhs,1973,Briardale,1973,GasA,1890,1,1,3,False,Detchd,1,Y,False,2007,113000,,
-1680,Reg,Twnhs,1971,Briardale,1971,GasA,1617,1,1,3,False,Detchd,1,Y,False,2010,88000,,
-1680,Reg,Twnhs,1973,Briardale,1973,GasA,1470,1,1,2,False,Detchd,1,Y,False,2008,100000,,
-1680,Reg,Twnhs,1972,Briardale,1972,GasA,1890,1,1,3,False,Detchd,1,Y,False,2006,118000,,
-2016,Reg,TwnhsE,1970,Briardale,1970,GasA,1932,2,1,3,False,Detchd,2,Y,False,2007,106000,,
-1680,Reg,Twnhs,1972,Briardale,1972,GasA,1932,2,1,3,False,Detchd,1,Y,False,2009,119500,,
-2368,Reg,TwnhsE,1970,Briardale,1970,GasA,2130,1,1,3,False,Attchd,2,Y,False,2009,125000,,
-1953,Reg,Twnhs,1973,Briardale,1973,GasA,1470,1,1,2,False,Detchd,1,Y,False,2006,83000,,
-1950,Reg,Twnhs,1980,Bluestem,1980,GasA,2272,2,1,3,True,Attchd,2,Y,False,2008,151000,,
-1300,Reg,TwnhsE,1980,Bluestem,1980,GasA,1790,1,1,2,True,Attchd,2,Y,False,2009,124000,,
+LotArea,LotShape,BldgType,YearBuilt,Neighborhood,YearRemodAdd,Heating,TtlHouseSF,FullBath,HalfBath,BedroomAbvGr,Fireplaces,GarageType,GarageCars,PavedDrive,PoolArea,MoSold,YrSold,predicted_sale_price
+13830,IR1,1Fam,1997,Gilbert,1998,GasA,2557,2,1,3,T,Attchd,2,Y,F,3,2010,298762.2888
+9978,IR1,1Fam,1998,Gilbert,1998,GasA,2530,2,1,3,T,Attchd,2,Y,F,6,2010,295575.7129
+10000,IR1,1Fam,1993,Gilbert,1994,GasA,2418,2,1,3,T,Attchd,2,Y,F,4,2010,288132.9762
+7980,IR1,1Fam,1992,Gilbert,2007,GasA,2355,2,0,3,F,Attchd,2,Y,F,3,2010,268968.5194
+8402,IR1,1Fam,1998,Gilbert,1998,GasA,2254,2,1,3,T,Attchd,2,Y,F,5,2010,282961.272
+10176,Reg,1Fam,1990,Gilbert,1990,GasA,2641,1,1,2,T,Attchd,2,Y,F,2,2010,284906.898
+18494,IR1,1Fam,2005,Gilbert,2005,GasA,2648,2,0,3,F,Attchd,2,Y,F,1,2010,289517.9512
+13300,IR1,1Fam,2004,Gilbert,2004,GasA,1758,2,1,3,T,BuiltIn,2,Y,F,6,2010,256875.3393
+8577,IR1,1Fam,2004,Gilbert,2004,GasA,2580,2,1,3,T,BuiltIn,2,Y,F,4,2010,288044.8397
+10179,IR1,1Fam,1997,Gilbert,1997,GasA,2553,2,1,3,T,Attchd,2,Y,F,7,2009,296597.489
+11792,IR1,1Fam,2003,Gilbert,2003,Floor,3291,2,1,4,T,BuiltIn,3,Y,F,8,2009,324135.8654
+8400,Reg,1Fam,1996,Gilbert,1997,Floor,2012,2,1,3,T,BuiltIn,2,Y,F,6,2009,249078.107
+8923,IR1,1Fam,1998,Gilbert,1998,Floor,1766,2,1,3,T,BuiltIn,2,Y,F,2,2009,241859.8917
+7500,Reg,1Fam,1998,Gilbert,1999,Floor,2588,2,1,3,T,Attchd,2,Y,F,10,2009,286307.5335
+8803,IR1,1Fam,1994,Gilbert,1995,Floor,2223,2,1,3,T,Attchd,2,Y,F,7,2009,271447.7513
+7250,Reg,1Fam,1993,Gilbert,1993,GasA,2371,2,0,3,T,Attchd,2,Y,F,11,2009,272624.1135
+11900,Reg,1Fam,1977,Gilbert,1977,GasA,3056,2,1,3,T,Attchd,2,P,F,7,2009,300474.0137
+10928,Reg,1Fam,2005,Gilbert,2005,GasA,2184,2,1,3,T,Attchd,2,Y,F,6,2009,284255.2167
+8918,IR1,1Fam,2005,Gilbert,2006,GasA,2235,2,1,3,T,Attchd,2,Y,F,7,2009,287792.2129
+9434,IR1,1Fam,2004,Gilbert,2005,GasA,1758,2,1,3,T,BuiltIn,2,Y,F,8,2009,255423.638
+7984,IR1,1Fam,2004,Gilbert,2005,GasA,2498,2,1,3,T,BuiltIn,2,Y,F,9,2009,285483.2799
+10125,IR1,1Fam,2004,Gilbert,2004,GasA,2440,2,1,3,T,Attchd,2,Y,F,7,2009,296107.6414
+8965,IR1,1Fam,2003,Gilbert,2003,GasA,2271,2,1,3,T,Attchd,2,Y,F,6,2009,287621.0732
+8174,IR1,1Fam,2003,Gilbert,2003,GasA,2040,2,1,3,T,Attchd,2,Y,F,5,2009,277390.2225
+12891,IR1,1Fam,2002,Gilbert,2002,GasA,2874,2,1,4,T,BuiltIn,3,Y,F,7,2009,315802.3886
+9734,IR1,1Fam,2004,Gilbert,2004,GasA,1758,2,1,3,F,BuiltIn,2,Y,F,5,2009,244764.1018
+8433,IR1,1Fam,2000,Gilbert,2000,GasA,2308,2,1,3,T,Attchd,2,Y,F,6,2009,286997.4637
+7750,Reg,1Fam,1999,Gilbert,2000,GasA,1814,2,1,3,T,BuiltIn,2,Y,F,3,2009,251065.8158
+15896,IR2,1Fam,1999,Gilbert,1999,GasA,3489,2,1,4,T,BuiltIn,3,Y,F,5,2009,356783.357
+7848,IR1,1Fam,1999,Gilbert,1999,GasA,1814,2,1,3,T,BuiltIn,2,Y,F,6,2009,253140.1725
+8702,IR1,1Fam,1997,Gilbert,1998,OthW,2530,2,1,3,T,Attchd,2,Y,F,4,2008,286289.9072
+8139,Reg,1Fam,1995,Gilbert,1996,OthW,2150,2,1,3,T,BuiltIn,2,Y,F,10,2008,254825.177
+9535,IR1,1Fam,1998,Gilbert,1998,OthW,2530,2,1,3,F,Attchd,2,Y,F,5,2008,276870.8308
+15038,IR2,1Fam,1996,Gilbert,1996,OthW,2552,2,1,3,T,Attchd,2,Y,F,11,2008,306086.9237
+14137,IR1,1Fam,1996,Gilbert,1997,OthW,2732,2,0,3,F,Attchd,2,Y,F,11,2008,277757.7795
+11184,IR1,1Fam,1998,Gilbert,1998,OthW,2565,2,1,3,T,Attchd,2,Y,F,4,2008,289539.3018
+14067,Reg,1Fam,1991,Gilbert,1991,OthW,2545,2,1,3,F,Attchd,2,Y,F,9,2008,274218.6466
+31220,IR1,1Fam,1952,Gilbert,1952,OthW,3106,1,0,3,T,Attchd,2,Y,F,5,2008,273410.994
+47280,IR1,1Fam,1950,Gilbert,1950,OthW,2976,2,1,3,T,Attchd,2,Y,F,7,2008,300826.8009
+9024,IR1,1Fam,2004,Gilbert,2004,OthW,2304,2,1,3,T,Attchd,2,Y,F,7,2008,281122.7108
+8010,IR1,1Fam,2002,Gilbert,2003,OthW,2560,2,1,3,T,BuiltIn,2,Y,F,7,2008,278130.2259
+8396,IR1,1Fam,2003,Gilbert,2003,OthW,2833,2,1,4,T,BuiltIn,2,Y,F,5,2008,284406.8769
+8220,IR1,1Fam,2000,Gilbert,2001,GasA,2874,2,1,3,T,Attchd,2,Y,F,7,2008,311464.0089
+7750,Reg,1Fam,2002,Gilbert,2002,GasA,2121,2,1,3,T,Attchd,2,Y,F,4,2008,278080.9502
+12460,IR1,1Fam,1999,Gilbert,2000,GasA,3359,2,1,4,T,BuiltIn,2,Y,F,5,2008,316032.0733
+8390,IR1,1Fam,1999,Gilbert,1999,GasA,2482,2,1,3,T,BuiltIn,2,Y,F,5,2008,281793.7127
+8872,IR1,1Fam,1997,Gilbert,1997,GasA,1768,2,1,3,T,BuiltIn,2,Y,F,3,2007,251377.4036
+10147,IR1,1Fam,1994,Gilbert,1994,GasA,2086,2,1,3,T,BuiltIn,2,Y,F,3,2007,263652.9982
+8637,IR1,1Fam,1999,Gilbert,2000,GasA,2637,2,1,3,T,Attchd,2,Y,F,4,2007,301472.288
+7875,Reg,1Fam,1996,Gilbert,1996,GasA,2244,2,1,3,F,Attchd,2,Y,F,8,2007,270180.9545
+7500,Reg,1Fam,1999,Gilbert,2003,GasA,3237,3,1,5,T,Attchd,2,Y,F,8,2007,327766.6933
+9556,IR1,1Fam,1992,Gilbert,1993,GasA,2355,2,0,3,F,Attchd,2,Y,F,8,2007,265948.669
+7655,IR1,1Fam,1993,Gilbert,1994,GasA,2545,2,1,3,T,Attchd,2,Y,F,7,2007,293559.0379
+18160,Reg,1Fam,1964,Gilbert,1964,GasA,2430,1,0,3,T,Attchd,2,P,F,3,2007,247440.1003
+41600,IR1,2fmCon,1969,Gilbert,1990,GasW,2524,1,1,3,F,2Types,3,N,F,11,2007,246979.798
+15810,IR1,1Fam,2007,Gilbert,2007,GasA,2264,3,0,3,F,Attchd,2,Y,F,5,2007,288155.5638
+10237,Reg,1Fam,2005,Gilbert,2006,GasA,2304,2,1,3,T,Attchd,2,Y,F,6,2007,290177.9608
+13204,IR1,1Fam,2006,Gilbert,2007,GasA,2066,2,0,3,F,BuiltIn,2,Y,F,5,2007,252295.7001
+8857,IR1,1Fam,2006,Gilbert,2006,GasA,2233,2,1,3,T,Attchd,2,Y,F,3,2007,288513.6124
+9729,IR1,1Fam,2006,Gilbert,2007,GasA,2444,2,1,3,T,BuiltIn,3,Y,F,6,2007,304954.0804
+12216,IR1,1Fam,2005,Gilbert,2005,GasA,2652,2,0,3,F,Attchd,2,Y,F,6,2007,287427.1025
+8229,IR1,1Fam,2007,Gilbert,2007,GasA,2256,2,1,3,F,Attchd,2,Y,F,12,2007,280111.0288
+7713,Reg,1Fam,2007,Gilbert,2007,GasA,2184,2,1,3,F,Attchd,2,Y,F,7,2007,274201.5772
+7697,Reg,1Fam,2007,Gilbert,2007,GasA,2504,2,0,3,F,Attchd,2,Y,F,8,2007,277499.8358
+16219,IR2,1Fam,2004,Gilbert,2005,GasA,1954,2,0,2,F,Attchd,2,Y,F,4,2007,281251.3565
+11084,IR1,1Fam,2004,Gilbert,2004,GasA,1758,2,1,3,T,BuiltIn,2,Y,F,6,2007,256861.166
+10936,IR1,1Fam,2006,Gilbert,2006,GasA,3035,2,1,3,T,Attchd,2,Y,F,4,2007,323427.0484
+11950,IR1,1Fam,2003,Gilbert,2003,GasA,1778,2,1,3,T,BuiltIn,2,Y,F,10,2007,257931.9659
+7875,Reg,1Fam,2003,Gilbert,2003,GasA,2795,2,1,4,T,BuiltIn,2,Y,F,7,2007,289955.5644
+8740,IR1,1Fam,2002,Gilbert,2002,GasA,2849,2,1,4,T,BuiltIn,2,Y,F,7,2007,294365.9119
+9487,IR1,1Fam,2000,Gilbert,2000,GasA,2605,2,1,3,T,Attchd,2,Y,F,6,2007,301020.2732
+9649,IR1,1Fam,1999,Gilbert,2000,GasA,2585,2,1,3,T,Attchd,2,Y,F,5,2007,300021.0882
+8238,IR1,1Fam,1997,Gilbert,1998,GasA,2338,2,1,3,T,Attchd,2,Y,F,5,2006,288046.5938
+13041,IR2,1Fam,1995,Gilbert,1995,GasA,2452,2,1,3,T,Attchd,2,Y,F,2,2006,309371.7743
+9783,IR1,1Fam,1996,Gilbert,1996,GasA,2597,2,1,3,T,BuiltIn,2,Y,F,5,2006,286601.6903
+13128,IR1,1Fam,2005,Gilbert,2005,GasA,3138,2,1,4,T,Attchd,2,Y,F,1,2006,323351.529
+13751,IR1,1Fam,2005,Gilbert,2006,GasA,3912,2,1,3,T,Attchd,3,Y,F,5,2006,380887.5972
+8076,IR1,1Fam,1993,Gilbert,1994,GasA,2329,2,0,3,T,Attchd,2,Y,F,7,2006,275140.1384
+10237,Reg,1Fam,2005,Gilbert,2006,GasA,2184,2,1,3,T,Attchd,2,Y,F,2,2006,285344.1933
+10237,Reg,1Fam,2006,Gilbert,2006,GasA,2230,2,1,3,F,Attchd,2,Y,F,9,2006,277746.5143
+11660,IR1,1Fam,2006,Gilbert,2006,GasA,2652,2,0,3,F,Attchd,2,Y,F,7,2006,288221.2536
+11631,IR1,1Fam,2004,Gilbert,2005,GasA,3425,2,1,4,T,BuiltIn,3,Y,F,6,2006,340983.0387
+9073,IR1,1Fam,2006,Gilbert,2006,GasA,2230,2,1,3,F,Attchd,2,Y,F,10,2006,279281.0932
+9171,IR1,1Fam,2004,Gilbert,2005,GasA,2446,2,1,3,T,Attchd,2,Y,F,7,2006,297567.8009
+8658,IR1,1Fam,2000,Gilbert,2000,GasA,2871,2,1,3,T,Attchd,2,Y,F,4,2006,311926.5505
+12104,IR1,1Fam,2006,Gilbert,2006,GasA,3357,3,1,4,F,Attchd,3,Y,F,8,2006,354894.497
+5005,IR1,TwnhsE,1992,Stone Brook,1992,GasA,2560,2,0,2,F,Attchd,2,Y,F,1,2010,140468.7525
+7296,IR1,TwnhsE,2004,Stone Brook,2005,GasA,4730,2,0,1,T,Attchd,2,Y,F,11,2009,257168.7965
+7380,IR1,1Fam,1998,Stone Brook,1998,GasA,2896,2,0,2,F,Attchd,2,Y,F,7,2009,203600.0718
+8013,IR1,TwnhsE,1995,Stone Brook,1996,GasA,3321,2,0,2,F,Attchd,2,Y,F,9,2009,177482.6494
+6264,IR1,1Fam,1997,Stone Brook,1997,GasA,3346,1,1,1,T,Attchd,2,Y,F,7,2008,233839.2575
+5070,IR1,TwnhsE,1992,Stone Brook,1992,GasA,2560,2,0,2,F,Attchd,2,Y,F,8,2008,141954.5942
+5950,IR1,TwnhsE,1989,Stone Brook,1989,GasA,2674,2,0,2,T,Attchd,2,Y,F,4,2008,155385.3293
+13543,IR1,1Fam,2005,Stone Brook,2005,GasA,3668,3,1,5,T,BuiltIn,3,Y,F,7,2008,268535.8805
+15401,IR1,1Fam,2004,Stone Brook,2004,GasA,3768,2,0,2,T,Attchd,3,Y,F,9,2008,278335.5724
+8118,Reg,TwnhsE,2007,Stone Brook,2007,GasA,3420,2,0,2,T,Attchd,2,Y,F,7,2008,196921.4849
+4740,IR1,TwnhsE,1988,Stone Brook,1988,GasA,2345,2,0,2,F,Attchd,2,Y,F,10,2007,130936.1449
+5118,IR1,TwnhsE,1990,Stone Brook,1990,GasA,2633,1,0,1,T,Attchd,2,Y,F,8,2007,146446.3516
+12328,IR1,1Fam,2005,Stone Brook,2005,GasA,3690,3,1,4,T,BuiltIn,3,Y,F,7,2007,274572.3207
+51974,IR1,1Fam,2006,Stone Brook,2007,GasA,4998,2,1,4,T,Attchd,3,Y,F,6,2007,354345.9638
+8035,IR1,TwnhsE,2006,Stone Brook,2006,GasA,3224,2,0,2,T,Attchd,2,Y,F,3,2007,190458.6135
+14082,IR1,1Fam,2006,Stone Brook,2006,GasA,4454,1,1,1,T,Attchd,2,Y,F,1,2007,290666.0584
+13870,IR1,1Fam,2006,Stone Brook,2007,GasA,3784,2,0,3,T,Attchd,3,Y,F,10,2007,274769.0076
+13108,IR1,1Fam,1994,Stone Brook,1994,GasA,4749,2,1,4,F,Attchd,2,Y,F,12,2006,283301.9156
+3701,IR1,TwnhsE,1987,Stone Brook,1987,GasA,2395,2,0,2,F,Attchd,2,Y,F,8,2006,132073.7897
+16023,IR1,1Fam,2005,Stone Brook,2006,GasA,4196,3,1,3,T,BuiltIn,3,Y,F,3,2006,304104.5882
+18062,IR1,1Fam,2006,Stone Brook,2006,GasA,4918,3,1,5,T,BuiltIn,3,Y,F,9,2006,325351.6022
+12292,IR1,1Fam,2006,Stone Brook,2006,GasA,3567,2,1,4,T,BuiltIn,3,Y,F,7,2006,257001.2097
+16052,IR1,1Fam,2006,Stone Brook,2006,GasA,4548,2,1,4,T,Attchd,3,Y,F,7,2006,312632.4085
+15922,IR1,1Fam,2005,Stone Brook,2006,GasA,4185,3,1,4,T,BuiltIn,3,Y,F,1,2006,298008.1249
+8147,Reg,TwnhsE,2005,Stone Brook,2005,GasA,3428,2,0,2,T,Attchd,2,Y,F,8,2006,197065.8597
+18261,IR1,1Fam,2005,Stone Brook,2005,GasA,3910,2,1,3,T,Attchd,3,Y,F,9,2006,292356.1289
+1680,Reg,Twnhs,1971,Briardale,1971,GasA,1470,1,1,2,F,Detchd,1,Y,F,2,2010,103051.9244
+1680,Reg,Twnhs,1971,Briardale,1971,GasA,1617,1,1,3,F,Detchd,1,Y,F,3,2010,103838.3991
+1680,Reg,Twnhs,1973,Briardale,1973,GasA,1470,1,1,2,F,Detchd,1,Y,F,7,2009,105101.287
+1680,Reg,Twnhs,1972,Briardale,1972,GasA,1470,1,1,2,F,Detchd,1,Y,F,7,2009,104491.8658
+1680,Reg,Twnhs,1973,Briardale,1973,GasA,1470,1,1,2,F,Detchd,1,Y,F,2,2008,105208.8467
+1890,Reg,Twnhs,1972,Briardale,1972,GasA,1470,1,1,2,F,Detchd,1,Y,F,4,2008,104878.7069
+1680,Reg,Twnhs,1972,Briardale,1972,GasA,1932,2,1,3,F,Detchd,1,Y,F,12,2008,132684.8442
+2205,Reg,Twnhs,1973,Briardale,1973,GasA,1617,1,1,3,F,Detchd,1,Y,F,2,2007,106728.7885
+2058,Reg,Twnhs,1973,Briardale,1973,GasA,1890,1,1,4,F,Detchd,1,Y,F,12,2007,113335.9494
+2760,Reg,TwnhsE,1973,Briardale,1973,GasA,1617,1,1,3,F,Detchd,2,Y,F,12,2006,116706.6358
+2160,Reg,TwnhsE,1973,Briardale,1973,GasA,2130,1,1,3,T,Attchd,2,Y,F,6,2006,140490.1714
+1890,Reg,Twnhs,1972,Briardale,1972,GasA,1524,1,1,3,F,Detchd,1,Y,F,7,2006,102862.2954
+1680,Reg,Twnhs,1972,Briardale,1972,GasA,1431,1,1,2,F,Detchd,1,Y,F,7,2006,104269.5579
+1680,Reg,Twnhs,1972,Briardale,1972,GasA,1617,1,1,3,F,Detchd,1,Y,F,10,2006,106830.0522
+2280,Reg,Twnhs,1975,Northpark Villa,1975,GasA,2311,2,1,3,T,Attchd,2,Y,F,6,2010,171197.3636
+2280,Reg,Twnhs,1975,Northpark Villa,1975,GasA,1672,1,0,2,F,Attchd,1,Y,F,6,2010,97417.85237
+2308,Reg,TwnhsE,1976,Northpark Villa,1976,GasA,2352,2,1,3,T,Detchd,2,Y,F,9,2009,171037.7786
+2280,Reg,Twnhs,1975,Northpark Villa,1975,GasA,2112,2,0,2,T,Attchd,2,Y,F,8,2009,158790.8094
+2349,Reg,Twnhs,1977,Northpark Villa,1977,GasA,2311,2,1,3,T,Attchd,2,Y,F,5,2009,172857.205
+2364,Reg,TwnhsE,1978,Northpark Villa,1978,GasA,2352,2,1,3,T,Detchd,2,Y,F,7,2009,172147.9462
+2364,Reg,TwnhsE,1978,Northpark Villa,1978,GasA,2311,2,1,3,T,Attchd,2,Y,F,4,2009,163166.1406
+2104,Reg,TwnhsE,1976,Northpark Villa,1976,GasA,1672,1,0,2,F,Attchd,1,Y,F,10,2009,88434.80488
+2308,Reg,TwnhsE,1975,Northpark Villa,1975,GasA,2311,2,1,4,F,Attchd,2,Y,F,5,2008,146194.9573
+2529,Reg,Twnhs,1977,Northpark Villa,1977,GasA,2110,2,0,2,F,Attchd,2,Y,F,9,2008,150406.3021
+2304,Reg,Twnhs,1978,Northpark Villa,1978,GasA,2116,2,0,2,F,Attchd,1,Y,F,4,2007,132561.9616
+4043,Reg,TwnhsE,1975,Northpark Villa,1975,GasA,2138,2,0,2,T,Attchd,2,Y,F,7,2006,152104.8568
+2280,Reg,Twnhs,1976,Northpark Villa,1976,GasA,2110,2,0,2,F,Attchd,1,Y,F,4,2006,131546.0848
+2179,Reg,Twnhs,1976,Northpark Villa,1976,GasA,2311,2,1,3,T,Attchd,2,Y,F,7,2006,173690.4614
+12858,IR1,1Fam,2009,Northridge Heights,2010,GasA,3924,2,1,3,T,Attchd,3,Y,F,1,2010,338219.1764
+12883,IR1,1Fam,2009,Northridge Heights,2010,GasA,3088,2,0,3,F,Attchd,3,Y,F,6,2010,283314.1829
+11520,Reg,1Fam,2005,Northridge Heights,2005,GasA,3396,2,0,3,T,Attchd,3,Y,F,6,2010,300468.3488
+14122,IR1,1Fam,2005,Northridge Heights,2006,GasA,3644,2,0,3,T,Attchd,3,Y,F,2,2010,314832.5971
+14300,Reg,1Fam,2003,Northridge Heights,2004,GasA,5542,2,1,3,T,Attchd,3,Y,F,6,2010,401240.5033
+13650,Reg,1Fam,2002,Northridge Heights,2002,GasA,3921,2,1,3,T,Attchd,3,Y,F,6,2010,332074.259
+7132,IR1,TwnhsE,2006,Northridge Heights,2006,GasA,2740,2,0,2,T,Attchd,2,Y,F,4,2010,216669.1106
+14257,Reg,1Fam,2007,Northridge Heights,2007,GasA,4548,3,1,4,T,BuiltIn,3,Y,F,6,2009,358002.6637
+12350,Reg,1Fam,2009,Northridge Heights,2009,GasA,4055,2,1,3,T,Attchd,3,Y,F,7,2009,341646.2986
+12350,Reg,1Fam,2008,Northridge Heights,2008,GasA,4040,2,0,3,T,Attchd,3,Y,F,5,2009,330132.1449
+13693,Reg,1Fam,2007,Northridge Heights,2007,GasA,5304,2,1,2,T,Attchd,3,Y,F,3,2009,398610.6145
+11578,Reg,1Fam,2008,Northridge Heights,2008,GasA,3472,2,0,3,T,Attchd,3,Y,F,7,2009,306050.4431
+16870,IR1,1Fam,2004,Northridge Heights,2005,GasA,3564,2,0,3,T,Attchd,3,Y,F,4,2009,313256.8984
+23303,IR3,1Fam,2007,Northridge Heights,2007,GasA,4028,2,1,5,T,BuiltIn,3,Y,F,6,2009,255623.9027
+10367,IR1,1Fam,2008,Northridge Heights,2008,GasA,3482,2,0,3,T,Attchd,3,Y,F,6,2009,307828.0871
+10872,IR1,1Fam,2006,Northridge Heights,2006,GasA,3035,2,0,2,T,Attchd,3,Y,F,2,2009,293395.7194
+13514,IR1,1Fam,2008,Northridge Heights,2008,GasA,3582,2,0,3,T,Attchd,3,Y,F,3,2009,313807.6341
+12878,IR1,1Fam,2003,Northridge Heights,2004,GasA,3520,2,0,3,T,Attchd,2,Y,F,6,2009,289725.6681
+15274,IR1,1Fam,2003,Northridge Heights,2003,GasA,4904,2,0,3,T,Attchd,3,Y,F,7,2009,367411.9534
+13262,IR1,1Fam,2003,Northridge Heights,2004,GasA,3482,3,1,4,T,BuiltIn,3,Y,F,6,2009,313012.2005
+9658,IR1,1Fam,2006,Northridge Heights,2006,GasA,3204,2,0,3,T,Attchd,3,Y,F,7,2009,294611.9099
+6904,IR1,TwnhsE,2005,Northridge Heights,2005,GasA,2716,2,0,2,T,Attchd,2,Y,F,8,2009,215668.9546
+5122,IR1,Twnhs,2005,Northridge Heights,2005,GasA,2612,2,0,1,T,Attchd,2,Y,F,3,2009,225484.7194
+10307,IR1,TwnhsE,2007,Northridge Heights,2008,GasA,2708,2,0,2,T,Attchd,2,Y,F,5,2009,218933.5088
+14836,IR1,1Fam,2004,Northridge Heights,2005,GasA,4984,2,1,2,T,Attchd,3,Y,F,2,2009,386696.5669
+15262,IR1,1Fam,2003,Northridge Heights,2004,GasA,4400,2,1,3,T,Attchd,3,Y,F,7,2009,356894.7095
+7390,IR1,TwnhsE,2008,Northridge Heights,2009,GasA,3768,2,0,2,T,Attchd,2,Y,F,5,2009,261959.0369
+6472,Reg,TwnhsE,2008,Northridge Heights,2008,GasA,2907,2,0,2,T,Attchd,2,Y,F,4,2009,222702.1295
+16770,Reg,1Fam,2002,Northridge Heights,2003,GasA,3424,2,0,3,T,Attchd,3,Y,F,9,2009,304277.3246
+3480,Reg,TwnhsE,2003,Northridge Heights,2003,GasA,2810,2,0,2,T,Attchd,2,Y,F,11,2009,214189.4146
+12704,Reg,1Fam,2007,Northridge Heights,2007,GasA,3164,2,0,3,F,Attchd,3,Y,F,1,2008,283109.3487
+13693,Reg,1Fam,2007,Northridge Heights,2007,GasA,4882,2,1,4,T,Attchd,3,Y,F,8,2008,370954.8729
+14418,IR1,1Fam,2007,Northridge Heights,2007,GasA,3900,2,0,2,T,Attchd,3,Y,F,5,2008,333105.262
+13418,Reg,1Fam,2006,Northridge Heights,2006,GasA,4598,2,1,4,T,BuiltIn,3,Y,F,10,2008,346214.8416
+12539,Reg,1Fam,2005,Northridge Heights,2006,GasA,4410,2,1,4,T,BuiltIn,4,Y,F,6,2008,355979.7144
+12151,IR1,1Fam,2005,Northridge Heights,2005,GasA,3745,2,1,3,T,BuiltIn,3,Y,F,8,2008,316646.0537
+8899,Reg,1Fam,2007,Northridge Heights,2007,GasA,3036,2,1,4,T,BuiltIn,3,Y,F,6,2008,278376.0297
+10574,IR1,1Fam,2004,Northridge Heights,2004,GasA,3480,2,1,4,T,BuiltIn,3,Y,F,7,2008,298453.6224
+12720,Reg,1Fam,2003,Northridge Heights,2003,GasA,5005,1,1,1,T,Attchd,3,Y,T,2,2008,373352.2278
+10845,IR1,1Fam,2003,Northridge Heights,2004,GasA,3178,2,0,2,T,Attchd,3,Y,F,6,2008,298697.1633
+16900,Reg,1Fam,2001,Northridge Heights,2002,GasA,4128,2,1,4,T,Attchd,3,Y,F,1,2008,337761.1382
+16451,IR1,1Fam,2003,Northridge Heights,2003,GasA,4455,2,1,4,T,BuiltIn,3,Y,F,7,2008,342349.2672
+10110,IR1,TwnhsE,2008,Northridge Heights,2008,GasA,3724,2,0,2,T,Attchd,3,Y,F,11,2008,281021.5316
+12304,IR3,TwnhsE,2005,Northridge Heights,2005,GasA,2734,2,0,2,T,Attchd,2,Y,F,6,2008,150460.1047
+8232,IR1,TwnhsE,2007,Northridge Heights,2008,GasA,3600,2,0,2,T,Attchd,3,Y,F,6,2008,274079.6117
+6240,Reg,TwnhsE,2006,Northridge Heights,2007,GasA,2684,2,0,2,T,Attchd,2,Y,F,6,2008,213045.3691
+6240,Reg,TwnhsE,2006,Northridge Heights,2007,GasA,2684,2,0,2,T,Attchd,2,Y,F,2,2008,212756.185
+2448,Reg,Twnhs,2003,Northridge Heights,2004,GasA,2390,2,1,2,F,BuiltIn,2,Y,F,10,2008,194707.9795
+7301,IR1,TwnhsE,2007,Northridge Heights,2008,GasA,2708,2,0,2,T,Attchd,2,Y,F,11,2008,217908.3435
+12469,Reg,1Fam,2006,Northridge Heights,2007,GasA,3606,2,0,3,T,Attchd,3,Y,F,8,2007,312426.223
+11825,Reg,1Fam,2006,Northridge Heights,2007,GasA,3388,2,0,3,T,Attchd,3,Y,F,6,2007,302760.5014
+14333,Reg,1Fam,2007,Northridge Heights,2007,GasA,4230,2,1,2,T,Attchd,3,Y,F,11,2007,355665.616
+13641,Reg,1Fam,2007,Northridge Heights,2007,GasA,4590,2,1,3,T,Attchd,3,Y,F,12,2007,364907.4386
+13440,Reg,1Fam,2006,Northridge Heights,2007,GasA,3658,2,1,4,T,BuiltIn,3,Y,F,3,2007,307332.7702
+15431,Reg,1Fam,2005,Northridge Heights,2006,GasA,4040,2,1,2,T,Attchd,3,Y,F,8,2007,347410.1143
+13891,Reg,1Fam,2007,Northridge Heights,2007,GasA,5104,2,0,3,T,Attchd,3,Y,F,10,2007,376264.7732
+13654,IR1,1Fam,2005,Northridge Heights,2006,GasA,4462,2,1,4,T,BuiltIn,3,Y,F,5,2007,342805.3184
+17169,IR2,1Fam,2007,Northridge Heights,2007,GasA,4610,2,1,2,T,Attchd,3,Y,F,8,2007,390684.6602
+16659,IR1,1Fam,2007,Northridge Heights,2008,GasA,3734,2,1,3,T,Detchd,2,Y,F,6,2007,321652.8106
+9709,IR1,1Fam,2007,Northridge Heights,2007,GasA,3018,2,1,3,T,BuiltIn,3,Y,F,9,2007,286465.7866
+13615,IR1,1Fam,2006,Northridge Heights,2006,GasA,3604,2,1,3,T,Attchd,3,Y,F,6,2007,324861.1405
+13069,IR1,1Fam,2004,Northridge Heights,2004,GasA,4662,2,1,5,T,BuiltIn,3,Y,F,8,2007,344551.8751
+14277,Reg,1Fam,2003,Northridge Heights,2003,GasA,3702,2,1,3,T,Attchd,3,Y,F,1,2007,324981.6011
+12568,Reg,1Fam,2007,Northridge Heights,2007,GasA,2713,2,1,3,T,Attchd,3,Y,F,8,2007,285508.6319
+9926,IR1,1Fam,2005,Northridge Heights,2006,GasA,3228,2,0,3,F,Attchd,3,Y,F,5,2007,286163.9948
+9254,IR1,1Fam,2005,Northridge Heights,2005,GasA,3442,2,0,3,F,Attchd,2,Y,F,1,2007,275302.8407
+10732,IR1,1Fam,2006,Northridge Heights,2007,GasA,3126,2,1,3,F,BuiltIn,3,Y,F,2,2007,280712.088
+3901,Reg,Twnhs,2005,Northridge Heights,2006,GasA,2604,1,1,1,T,Attchd,2,Y,F,8,2007,220518.221
+3903,Reg,Twnhs,2005,Northridge Heights,2006,GasA,2604,1,1,1,T,Attchd,2,Y,F,5,2007,220302.6156
+6289,IR1,TwnhsE,2005,Northridge Heights,2006,GasA,2724,2,0,2,T,Attchd,2,Y,F,6,2007,216816.4696
+4590,Reg,Twnhs,2006,Northridge Heights,2006,GasA,3108,2,0,2,T,Attchd,2,Y,F,5,2007,239922.2193
+7841,IR1,TwnhsE,2005,Northridge Heights,2005,GasA,3154,2,0,2,T,Attchd,2,Y,F,5,2007,235290.8422
+6240,Reg,TwnhsE,2006,Northridge Heights,2006,GasA,2648,2,0,2,T,Attchd,2,Y,F,9,2007,211812.9772
+3242,Reg,TwnhsE,2003,Northridge Heights,2003,GasA,2810,2,0,2,T,Attchd,2,Y,F,3,2007,214396.4782
+16387,IR1,1Fam,2006,Northridge Heights,2006,GasA,4327,2,1,4,T,Attchd,3,Y,F,8,2006,352032.2419
+16163,Reg,1Fam,2004,Northridge Heights,2004,GasA,3236,2,0,2,T,Attchd,3,Y,F,7,2006,303527.979
+12228,Reg,1Fam,2006,Northridge Heights,2006,GasA,3461,2,0,4,F,Attchd,3,Y,F,9,2006,290692.2875
+14780,IR1,1Fam,2005,Northridge Heights,2005,GasA,3736,2,0,2,T,Attchd,3,Y,F,6,2006,326277.0223
+13975,IR1,1Fam,2005,Northridge Heights,2006,GasA,3296,2,1,4,T,BuiltIn,3,Y,F,8,2006,294981.4224
+9942,IR1,1Fam,2005,Northridge Heights,2006,GasA,3697,2,1,3,T,Attchd,2,Y,F,5,2006,307924.7811
+12867,IR1,1Fam,2005,Northridge Heights,2006,GasA,3462,2,1,3,T,Attchd,2,Y,F,7,2006,300127.0574
+10672,IR1,1Fam,2006,Northridge Heights,2006,GasA,3443,2,1,4,T,BuiltIn,3,Y,F,11,2006,299416.7166
+11643,IR1,1Fam,2005,Northridge Heights,2006,GasA,3882,2,1,4,T,BuiltIn,3,Y,F,8,2006,317968.9232
+13758,IR1,1Fam,2005,Northridge Heights,2006,GasA,3584,2,0,2,T,Attchd,3,Y,F,3,2006,319468.2896
+14828,IR1,1Fam,2004,Northridge Heights,2005,GasA,3560,2,0,2,T,Attchd,3,Y,F,8,2006,318903.8981
+13215,IR1,1Fam,2004,Northridge Heights,2004,GasA,3334,2,1,3,T,BuiltIn,3,Y,F,2,2006,300051.7022
+5911,Reg,TwnhsE,2005,Northridge Heights,2005,GasA,3125,2,0,2,T,Attchd,2,Y,F,3,2006,230956.9589
+7740,Reg,TwnhsE,2006,Northridge Heights,2006,GasA,3372,2,0,1,T,Attchd,3,Y,F,6,2006,267371.2587
+6373,Reg,TwnhsE,2006,Northridge Heights,2006,GasA,3332,2,0,2,T,Attchd,2,Y,F,6,2006,240728.0849
+3203,Reg,TwnhsE,2006,Bloomington Heights,2006,GasA,2290,2,0,2,F,Attchd,2,Y,F,1,2010,164277.9831
+3182,Reg,TwnhsE,2005,Bloomington Heights,2006,GasA,2440,2,0,2,T,Attchd,2,Y,F,8,2009,181532.2957
+3940,Reg,TwnhsE,2003,Bloomington Heights,2003,GasA,2870,2,0,2,T,Attchd,3,Y,F,8,2008,217487.6005
+3940,Reg,TwnhsE,2004,Bloomington Heights,2004,GasA,2969,2,0,2,T,Attchd,3,Y,F,5,2008,222016.3728
+3710,Reg,1Fam,2007,Bloomington Heights,2008,GasA,2392,2,0,2,T,Attchd,2,Y,F,3,2008,224202.4544
+3621,Reg,TwnhsE,2003,Bloomington Heights,2003,GasA,2995,2,0,2,T,Attchd,3,Y,F,11,2007,223191.4533
+3710,Reg,1Fam,2007,Bloomington Heights,2007,GasA,2532,2,0,2,T,Attchd,2,Y,F,8,2007,230467.9687
+3087,Reg,TwnhsE,2006,Bloomington Heights,2006,GasA,2584,2,0,2,T,Attchd,2,Y,F,11,2006,189306.9088
+2938,Reg,TwnhsE,2002,Bloomington Heights,2002,GasA,2879,2,0,2,T,Attchd,2,Y,F,5,2006,198665.0396
+3072,Reg,TwnhsE,2004,Bloomington Heights,2004,GasA,2913,2,0,2,T,Attchd,2,Y,F,9,2006,201679.5374
+3010,Reg,TwnhsE,2005,Bloomington Heights,2006,GasA,2284,2,0,2,F,Attchd,2,Y,F,6,2006,165945.9676
+17433,IR2,1Fam,1998,Northridge,1998,GasA,4104,2,1,4,T,Attchd,3,Y,F,1,2010,319540.1575
+13143,IR1,1Fam,1993,Northridge,1993,GasA,3580,2,1,4,T,Attchd,3,Y,F,6,2010,276878.5346
+11134,Reg,1Fam,1992,Northridge,1993,GasA,3615,2,1,4,T,Attchd,3,Y,F,6,2010,274648.2787
+12720,Reg,1Fam,2000,Northridge,2000,GasA,4142,2,1,4,T,BuiltIn,3,Y,F,9,2009,290597.4829
+10750,IR1,1Fam,1994,Northridge,1995,GasA,4087,2,0,3,T,Attchd,3,Y,F,6,2009,293313.0426
+9085,Reg,1Fam,1995,Northridge,1996,GasA,3131,2,1,3,T,Attchd,2,Y,F,11,2009,242531.0829
+11692,IR1,1Fam,1993,Northridge,1994,GasA,3405,2,1,3,T,Attchd,2,Y,F,10,2009,256568.6358
+11949,Reg,1Fam,1991,Northridge,2008,GasA,2730,2,1,3,T,Attchd,2,Y,F,7,2009,231514.9895
+9660,Reg,1Fam,1997,Northridge,1997,GasA,3372,2,1,3,T,Attchd,2,Y,F,9,2008,254097.9592
+11000,Reg,1Fam,2000,Northridge,2000,GasA,3691,2,1,4,T,BuiltIn,3,Y,F,6,2008,270903.5975
+11675,IR1,1Fam,1998,Northridge,1998,GasA,3988,2,0,2,T,Attchd,3,Y,F,7,2008,297762.3756
+10990,IR1,1Fam,1996,Northridge,1997,GasA,3189,2,1,4,T,Attchd,2,Y,F,6,2008,243674.4763
+11929,IR1,1Fam,1995,Northridge,1995,GasA,3743,2,1,4,T,Attchd,3,Y,F,6,2008,285066.9959
+10010,Reg,1Fam,1993,Northridge,1994,GasA,3277,2,1,4,T,Attchd,3,Y,F,7,2008,261425.4616
+9205,IR1,1Fam,1990,Northridge,1991,GasA,3613,2,1,4,T,Attchd,2,Y,F,6,2008,256587.8918
+11025,Reg,1Fam,1993,Northridge,1994,GasA,4634,2,1,4,T,Attchd,2,Y,F,6,2008,300032.1946
+12191,IR1,1Fam,1997,Northridge,1998,GasA,4330,2,1,4,T,Attchd,3,Y,F,6,2007,311862.1261
+10557,IR1,1Fam,1998,Northridge,1998,GasA,4486,2,1,4,T,Attchd,3,Y,F,7,2007,317599.3095
+11002,IR1,1Fam,1998,Northridge,1999,GasA,3971,2,1,4,T,Attchd,3,Y,F,1,2007,296348.3794
+10790,Reg,1Fam,1998,Northridge,1998,GasA,3451,2,1,4,T,BuiltIn,3,Y,F,5,2007,259919.563
+11762,Reg,1Fam,1992,Northridge,1993,GasA,3307,2,1,4,T,Attchd,2,Y,F,9,2007,245139.0793
+9044,IR1,1Fam,1996,Northridge,1997,GasA,3863,2,1,4,T,Attchd,3,Y,F,5,2007,289650.6425
+9660,IR1,1Fam,1998,Northridge,1998,GasA,3020,2,1,3,T,Attchd,3,Y,F,2,2006,261309.2989
+9545,Reg,1Fam,2000,Northridge,2000,GasA,3394,2,1,3,T,BuiltIn,3,Y,F,6,2006,263927.265
+9233,IR1,1Fam,2000,Northridge,2000,GasA,4395,2,1,4,T,Attchd,3,Y,F,3,2006,314346.8259
+10019,IR1,1Fam,1995,Northridge,1995,GasA,4068,2,1,4,T,Attchd,3,Y,F,6,2006,298358.6073
+17242,IR1,1Fam,1993,Northridge,1994,GasA,5233,3,1,4,T,Attchd,3,Y,F,5,2006,364275.8178
+10236,IR1,1Fam,1994,Northridge,1995,GasA,3784,2,1,4,T,Attchd,3,Y,F,6,2006,286437.0229
+12585,IR1,1Fam,1993,Northridge,1993,GasA,4085,2,1,3,T,Attchd,3,Y,F,10,2006,305212.4975
+11025,Reg,1Fam,1992,Northridge,1993,GasA,4160,2,1,3,T,Attchd,3,Y,F,10,2006,304941.428
+8987,Reg,1Fam,2005,Somerset,2006,GasA,3190,2,0,2,T,Attchd,3,Y,F,5,2010,277582.962
+11194,IR1,1Fam,2008,Somerset,2008,GasA,3392,2,0,3,F,Attchd,3,Y,F,9,2009,276170.8448
+10206,Reg,1Fam,2008,Somerset,2008,GasA,3272,2,1,3,T,Attchd,3,Y,F,9,2009,288668.9597
+10130,Reg,1Fam,2007,Somerset,2007,GasA,3404,2,0,3,T,Attchd,3,Y,F,3,2009,282958.5656
+9139,IR1,1Fam,2006,Somerset,2006,GasA,2854,2,0,3,T,Attchd,2,Y,F,9,2009,242709.3624
+11128,Reg,1Fam,2005,Somerset,2006,GasA,4948,2,0,2,T,Attchd,3,Y,F,10,2009,353236.2529
+13253,IR1,1Fam,2006,Somerset,2006,GasA,3156,2,0,3,T,Attchd,3,Y,F,5,2008,276813.1574
+9801,Reg,1Fam,2007,Somerset,2007,GasA,3202,3,0,3,T,BuiltIn,3,Y,F,7,2008,276320.4478
+9428,Reg,1Fam,2007,Somerset,2008,GasA,2829,2,1,3,T,Attchd,3,Y,F,2,2008,269429.1212
+10037,Reg,1Fam,2006,Somerset,2007,GasA,2920,2,0,3,T,Attchd,2,Y,F,8,2008,244644.9428
+9910,Reg,1Fam,2007,Somerset,2007,GasA,2738,2,0,3,F,Attchd,2,Y,F,9,2007,227475.1883
+11830,Reg,1Fam,2007,Somerset,2007,GasA,3084,2,0,3,T,Attchd,3,Y,F,7,2007,271906.5097
+10612,Reg,1Fam,2006,Somerset,2006,GasA,3058,2,0,3,T,Attchd,2,Y,F,1,2007,250328.1364
+12291,IR1,1Fam,2007,Somerset,2007,GasA,3932,2,0,1,T,Attchd,3,Y,F,10,2007,320912.5438
+9965,Reg,1Fam,2007,Somerset,2007,GasA,3056,3,2,3,T,Attchd,2,Y,F,9,2007,284771.7878
+8847,Reg,1Fam,2005,Somerset,2005,GasA,3076,2,0,3,F,Attchd,2,Y,F,12,2007,239913.155
+8251,Reg,1Fam,2005,Somerset,2006,GasA,3000,2,0,3,T,Attchd,2,Y,F,4,2007,246412.2922
+9605,Reg,1Fam,2006,Somerset,2006,GasA,2959,2,1,3,F,Attchd,3,Y,F,7,2007,264560.1078
+8778,Reg,1Fam,2006,Somerset,2006,GasA,3132,2,1,3,F,BuiltIn,3,Y,F,3,2007,258735.2297
+12447,IR1,1Fam,2005,Somerset,2006,GasA,3064,2,1,3,T,BuiltIn,2,Y,F,1,2006,252138.6333
+15218,IR1,1Fam,2006,Somerset,2006,GasA,3340,2,1,2,T,Attchd,3,Y,F,9,2006,302549.2318
+10936,Reg,1Fam,2006,Somerset,2006,GasA,3008,2,0,3,F,Attchd,2,Y,F,9,2006,239273.5129
+11920,Reg,1Fam,2004,Sawyer West,2004,GasA,2490,2,1,3,F,Attchd,2,Y,F,4,2010,268505.2826
+9800,Reg,1Fam,1920,Sawyer West,1950,GasA,1828,1,0,2,F,Detchd,1,Y,F,4,2010,170913.4692
+11980,Reg,1Fam,1987,Sawyer West,1987,GasA,2866,1,1,1,T,Attchd,2,Y,F,6,2010,281625.8789
+12361,IR1,1Fam,1993,Sawyer West,1993,GasA,2748,2,1,3,T,2Types,4,Y,F,5,2010,299468.4329
+14235,IR1,1Fam,1900,Sawyer West,1993,GasA,2121,2,0,3,F,Detchd,2,N,F,3,2010,222841.0532
+9605,Reg,1Fam,2007,Sawyer West,2007,GasA,2436,1,1,3,F,Detchd,2,Y,F,4,2009,260626.0772
+7500,Reg,1Fam,2006,Sawyer West,2006,GasA,2282,1,1,3,F,Detchd,2,Y,F,6,2009,252376.998
+7500,Reg,1Fam,2004,Sawyer West,2004,GasA,2316,1,1,3,F,NoGar,0,Y,F,8,2009,185103.2493
+10628,IR1,1Fam,2004,Sawyer West,2004,GasA,2647,2,1,3,F,BuiltIn,2,Y,F,1,2009,264463.8633
+10141,IR1,1Fam,2004,Sawyer West,2004,GasA,3024,2,0,3,F,Attchd,3,Y,F,1,2009,300670.1487
+13072,Reg,1Fam,2004,Sawyer West,2005,GasA,2228,1,1,3,F,Detchd,2,Y,F,5,2009,252817.7188
+13072,Reg,1Fam,2004,Sawyer West,2004,GasA,2228,1,1,3,F,NoGar,0,Y,F,8,2009,185000.349
+12450,Reg,1Fam,2003,Sawyer West,2004,GasA,2228,2,0,3,F,Detchd,2,Y,F,6,2009,255235.7377
+7328,Reg,1Fam,2008,Sawyer West,2009,GasA,2900,2,0,2,F,Attchd,3,Y,F,2,2009,299828.0865
+11492,IR1,1Fam,1996,Sawyer West,1997,GasA,3035,2,1,4,T,Attchd,2,Y,F,4,2009,294011.0467
+7703,Reg,1Fam,1992,Sawyer West,1992,GasA,2546,2,1,3,F,Attchd,2,Y,F,11,2009,261802.3409
+7175,Reg,TwnhsE,1990,Sawyer West,1991,GasA,2664,2,0,2,F,Attchd,2,Y,F,2,2009,217221.9965
+9109,Reg,1Fam,1994,Sawyer West,1994,GasA,2294,2,1,3,F,Attchd,2,Y,F,10,2009,253322.0555
+10274,IR1,1Fam,1986,Sawyer West,1986,GasA,2076,2,1,3,F,Attchd,2,Y,F,7,2009,242077.7668
+8250,Reg,Duplex,1981,Sawyer West,1981,GasA,1882,2,0,4,T,Attchd,2,Y,F,5,2009,198445.3614
+10778,IR1,1Fam,1990,Sawyer West,1991,GasA,2115,1,1,1,F,Attchd,2,Y,F,7,2009,244249.8679
+19255,IR1,1Fam,1983,Sawyer West,1983,GasA,1858,1,1,2,T,Attchd,2,Y,F,9,2009,239207.046
+10560,Reg,1Fam,1993,Sawyer West,1994,GasA,2958,2,1,3,T,Attchd,2,Y,F,8,2009,291875.7915
+26400,Reg,1Fam,1880,Sawyer West,2007,GasA,2016,1,0,4,T,Attchd,2,P,F,6,2009,212968.5162
+7018,Reg,Duplex,1979,Sawyer West,1979,GasA,2228,2,0,6,F,Detchd,2,Y,F,6,2009,196940.6659
+7018,Reg,Duplex,1979,Sawyer West,1979,GasA,1535,2,0,4,F,Attchd,2,Y,F,6,2009,171790.0818
+7007,Reg,Duplex,1979,Sawyer West,1979,GasA,1513,2,0,4,F,Attchd,2,Y,F,6,2009,170863.8624
+11855,Reg,Duplex,2000,Sawyer West,2000,GasA,3955,4,2,6,T,BuiltIn,4,Y,F,10,2009,360797.3837
+7939,Reg,Duplex,2000,Sawyer West,2000,GasA,3955,4,2,6,T,BuiltIn,4,Y,F,10,2009,358285.7485
+7976,Reg,Duplex,2000,Sawyer West,2000,GasA,3955,4,2,6,T,BuiltIn,4,Y,F,10,2009,358309.4795
+10110,Reg,1Fam,2003,Sawyer West,2003,GasA,2531,2,1,3,F,Attchd,2,Y,F,7,2008,269602.9236
+12774,Reg,1Fam,2003,Sawyer West,2004,GasA,2498,2,1,3,F,Attchd,2,Y,F,7,2008,270347.0404
+13072,Reg,1Fam,2005,Sawyer West,2006,GasA,2350,1,0,3,F,NoGar,0,Y,F,6,2008,181312.1972
+9260,Reg,1Fam,2007,Sawyer West,2007,GasA,2324,2,0,3,F,Attchd,2,Y,F,3,2008,252424.3156
+8453,IR1,1Fam,1995,Sawyer West,1995,GasA,2363,2,1,3,F,Attchd,2,Y,F,4,2008,258637.6765
+8480,IR1,1Fam,1993,Sawyer West,1994,GasA,2566,2,1,3,F,Attchd,2,Y,F,10,2008,266765.5399
+14565,IR2,1Fam,1994,Sawyer West,1995,GasA,2489,2,1,3,F,Attchd,2,Y,F,11,2008,283464.6305
+8450,Reg,1Fam,2001,Sawyer West,2001,GasA,2504,2,1,3,F,Attchd,2,Y,F,9,2008,266335.9209
+8285,Reg,1Fam,1992,Sawyer West,1992,GasA,2573,2,1,3,F,Attchd,2,Y,F,5,2008,263338.9516
+9771,IR3,1Fam,1995,Sawyer West,2002,GasA,3891,2,1,4,T,BuiltIn,2,Y,F,6,2008,249178.6611
+9938,Reg,1Fam,1994,Sawyer West,1994,GasA,3228,2,1,3,T,Attchd,2,Y,F,4,2008,303132.551
+14171,IR2,1Fam,1993,Sawyer West,1994,GasA,3012,2,1,4,T,Attchd,2,Y,F,12,2008,309319.1624
+10541,IR1,1Fam,1996,Sawyer West,1996,GasA,2709,2,1,3,T,Attchd,2,Y,F,2,2008,285118.478
+11454,IR2,1Fam,1995,Sawyer West,1995,GasA,2912,2,0,3,T,Attchd,3,Y,F,2,2008,317441.9339
+7500,Reg,1Fam,2006,Sawyer West,2007,GasA,2200,1,1,3,F,NoGar,0,Y,F,6,2007,182683.31
+7500,Reg,1Fam,2006,Sawyer West,2006,GasA,2286,1,1,3,F,NoGar,0,Y,F,10,2007,186151.3579
+12450,Reg,1Fam,2003,Sawyer West,2004,GasA,2188,1,0,3,F,Detchd,2,Y,F,5,2007,240942.7951
+7441,IR1,1Fam,2006,Sawyer West,2006,GasA,2947,2,0,3,F,Attchd,2,Y,F,6,2007,279572.0637
+11613,IR2,1Fam,1993,Sawyer West,1997,GasA,2684,2,1,3,F,Attchd,2,Y,F,5,2007,290386.9626
+8012,Reg,TwnhsE,1980,Sawyer West,1980,GasA,1896,1,1,2,T,Attchd,1,Y,F,7,2007,168661.8099
+23920,Reg,1Fam,1984,Sawyer West,1984,GasA,2927,2,0,4,T,Attchd,2,P,T,4,2007,272451.7851
+9317,Reg,1Fam,1994,Sawyer West,2001,GasA,2737,2,1,3,T,Attchd,2,Y,F,7,2007,285805.739
+8883,IR1,1Fam,1988,Sawyer West,1988,GasA,2802,2,1,3,T,Attchd,2,Y,F,5,2007,283751.1898
+7733,IR1,1Fam,2005,Sawyer West,2005,GasA,2284,1,1,3,F,NoGar,0,Y,F,1,2006,187635.0393
+11024,IR1,1Fam,2005,Sawyer West,2006,GasA,2800,2,0,3,F,Attchd,2,Y,F,10,2006,276291.4674
+13072,Reg,1Fam,2005,Sawyer West,2006,GasA,2262,1,1,3,F,NoGar,0,Y,F,3,2006,188490.1693
+7800,Reg,1Fam,2005,Sawyer West,2005,GasA,2577,2,1,3,F,Attchd,2,Y,F,4,2006,271983.2641
+7632,IR1,1Fam,2005,Sawyer West,2005,GasA,2369,2,1,3,F,Attchd,2,Y,F,3,2006,265321.7828
+8304,IR1,1Fam,1997,Sawyer West,1998,GasA,2778,2,1,3,F,Attchd,2,Y,F,7,2006,278668.9352
+9370,IR2,1Fam,1992,Sawyer West,1993,GasA,2567,2,1,3,F,Attchd,2,Y,F,10,2006,283038.4696
+7175,Reg,TwnhsE,1990,Sawyer West,1991,GasA,2796,2,0,2,F,Attchd,2,Y,F,7,2006,224505.582
+7175,Reg,TwnhsE,1991,Sawyer West,1991,GasA,2434,2,0,2,F,Attchd,2,Y,F,6,2006,209504.044
+9019,IR1,1Fam,1994,Sawyer West,1994,GasA,1956,2,1,3,F,Attchd,2,Y,F,7,2006,242541.7041
+12128,IR1,1Fam,1989,Sawyer West,1989,GasA,3427,2,1,4,T,Attchd,2,Y,F,11,2006,308029.8093
+9069,Reg,Duplex,1993,Sawyer West,1993,GasA,2784,2,0,2,F,Attchd,4,Y,F,4,2006,283273.8401
+15410,IR1,1Fam,1974,Sawyer,2002,GasA,2702,2,0,3,T,Attchd,2,Y,F,4,2010,211272.5128
+10773,Reg,Duplex,1967,Sawyer,1967,GasA,3664,2,0,4,F,NoGar,0,Y,F,5,2010,130785.2992
+7800,Reg,1Fam,1966,Sawyer,2008,GasA,1756,1,0,3,F,Detchd,1,Y,F,6,2010,130403.0918
+7832,Reg,1Fam,1968,Sawyer,1968,GasA,1728,1,0,2,F,Detchd,1,Y,F,5,2010,118430.0418
+7424,IR1,Duplex,1978,Sawyer,1978,GasA,2692,1,0,3,T,Attchd,2,Y,F,5,2010,159668.3718
+11227,Reg,1Fam,1968,Sawyer,1968,GasA,2160,1,1,4,T,Attchd,2,Y,F,3,2010,159626.9801
+9259,Reg,1Fam,1927,Sawyer,1950,GasA,1416,1,0,2,F,Detchd,2,N,F,6,2010,103659.916
+9750,IR1,1Fam,1962,Sawyer,1962,GasA,1960,1,0,3,F,Detchd,2,Y,F,11,2009,142048.5272
+8499,IR1,1Fam,1961,Sawyer,1961,GasA,1728,1,0,3,F,Detchd,2,Y,F,6,2009,130582.2572
+9079,IR1,1Fam,1961,Sawyer,1961,GasA,1728,1,0,2,F,Attchd,1,Y,F,7,2009,110734.4401
+9316,IR1,1Fam,1965,Sawyer,1965,GasA,2044,2,0,3,F,Attchd,1,Y,F,5,2009,134442.0895
+7791,IR1,1Fam,1963,Sawyer,1995,GasA,1824,1,0,3,F,Attchd,1,Y,F,10,2009,123182.9201
+7150,Reg,1Fam,1962,Sawyer,1962,GasA,1824,1,0,3,F,Attchd,1,Y,F,10,2009,106698.074
+4280,IR1,1Fam,1946,Sawyer,2001,GasA,1264,1,0,2,F,CarPort,1,Y,F,9,2009,78823.8355
+11625,Reg,1Fam,1967,Sawyer,1967,GasA,2104,1,1,3,T,Attchd,1,Y,F,4,2009,144234.2896
+8014,IR1,1Fam,1978,Sawyer,1978,GasA,1490,1,0,3,T,Basment,2,Y,F,6,2009,110623.8528
+15400,Reg,1Fam,1961,Sawyer,1961,GasA,2326,2,0,4,T,Attchd,1,Y,F,7,2009,150417.6255
+15312,Reg,1Fam,1960,Sawyer,1960,GasA,2276,1,0,3,T,Attchd,2,Y,F,3,2009,157981.2531
+9000,Reg,1Fam,1947,Sawyer,1950,GasA,660,1,0,2,F,NoGar,0,N,F,6,2009,8660.75277
+9100,Reg,1Fam,1963,Sawyer,1963,GasA,1968,1,0,3,T,Attchd,1,Y,F,8,2008,125119.806
+8100,Reg,1Fam,1961,Sawyer,2007,GasA,1728,1,0,3,T,Detchd,1,Y,F,7,2008,139266.6896
+8450,Reg,2fmCon,1968,Sawyer,1968,GasA,1780,1,0,3,F,Detchd,1,Y,F,4,2008,98286.19932
+6360,Reg,1Fam,1963,Sawyer,1963,GasA,1728,1,0,3,F,Attchd,1,Y,F,1,2008,102608.2838
+10759,Reg,1Fam,1972,Sawyer,1972,GasA,2642,2,0,4,T,Detchd,2,Y,F,7,2008,193535.8284
+9488,Reg,1Fam,1947,Sawyer,1993,GasA,2100,1,0,3,F,Detchd,1,Y,F,9,2008,137091.0204
+11235,Reg,1Fam,1963,Sawyer,1963,GasA,2056,1,0,3,F,Detchd,2,Y,F,5,2008,145447.7102
+13014,Reg,1Fam,1978,Sawyer,1978,GasA,2104,1,0,3,T,Attchd,2,Y,F,12,2008,161410.4603
+10265,IR1,1Fam,1967,Sawyer,2005,GasA,1984,1,0,3,F,Attchd,1,Y,F,7,2008,136629.7543
+7703,IR1,1Fam,1978,Sawyer,1978,GasA,1484,1,0,3,T,Basment,2,Y,F,5,2008,110570.447
+9981,IR1,1Fam,1967,Sawyer,1967,GasA,2146,1,0,3,F,Attchd,1,Y,F,3,2008,127185.9572
+7400,IR1,1Fam,1984,Sawyer,1984,GasA,2186,1,0,2,F,Attchd,2,Y,F,3,2008,161657.1327
+12900,Reg,2fmCon,1920,Sawyer,1950,GasA,2440,1,0,3,F,CarPort,2,Y,F,1,2008,100056.1931
+9239,Reg,1Fam,1963,Sawyer,2003,GasA,1920,1,0,3,F,Attchd,1,Y,F,5,2008,129335.1107
+14175,Reg,1Fam,1956,Sawyer,1956,GasA,2176,1,0,1,T,Attchd,2,Y,F,6,2008,162177.2502
+8375,Reg,1Fam,1941,Sawyer,1973,GasA,1926,1,1,2,F,2Types,3,N,F,6,2008,136115.4016
+10200,Reg,1Fam,1970,Sawyer,1970,GasA,1768,1,0,3,F,2Types,3,Y,F,6,2008,125472.4862
+6285,Reg,1Fam,1977,Sawyer,1977,GasA,1788,1,0,2,F,Detchd,1,Y,F,3,2007,126691.9609
+7476,Reg,1Fam,1968,Sawyer,1968,GasA,2080,1,1,3,F,Detchd,2,Y,F,6,2007,157761.3756
+10751,IR1,1Fam,1974,Sawyer,1974,GasA,2074,1,0,2,F,Attchd,2,Y,F,8,2007,153863.3155
+12712,IR1,1Fam,1973,Sawyer,2006,GasA,2099,1,0,2,T,Attchd,2,Y,F,1,2007,178940.5852
+12888,Reg,1Fam,1937,Sawyer,1980,GasA,3272,1,1,3,T,Attchd,2,Y,F,4,2007,212978.7696
+11235,Reg,2fmCon,1963,Sawyer,1963,GasA,1924,1,0,3,F,Detchd,1,Y,F,3,2007,103438.4219
+11235,Reg,1Fam,1964,Sawyer,1980,GasA,2872,1,0,2,T,Detchd,2,Y,F,11,2007,203328.6519
+14299,Reg,1Fam,1964,Sawyer,1964,GasA,2010,1,0,3,F,Detchd,2,N,F,7,2007,140783.0283
+14149,IR1,1Fam,1964,Sawyer,2001,GasA,2000,2,0,3,T,Detchd,2,Y,F,5,2007,187299.2689
+11677,IR1,1Fam,1966,Sawyer,1966,GasA,2080,1,0,3,F,Attchd,1,Y,F,2,2007,125303.5637
+8425,Reg,2fmCon,1971,Sawyer,1990,GasA,1636,1,0,2,F,Detchd,2,Y,F,5,2007,126589.0458
+8665,IR1,1Fam,1968,Sawyer,1968,GasA,1773,1,0,3,F,Attchd,1,Y,F,1,2007,111691.7608
+8398,IR1,1Fam,1967,Sawyer,1967,GasA,1886,1,0,2,F,Detchd,2,Y,F,6,2007,147140.8659
+8169,Reg,1Fam,1966,Sawyer,1966,GasA,1824,1,0,3,F,Detchd,1,Y,F,7,2007,117562.4441
+14175,Reg,1Fam,1956,Sawyer,1998,GasA,2615,1,0,3,T,Attchd,1,Y,F,12,2007,169296.644
+16779,Reg,1Fam,1920,Sawyer,1996,GasA,3325,3,0,4,T,Attchd,2,Y,F,5,2007,232484.6336
+6960,Reg,1Fam,1940,Sawyer,1998,GasA,1982,1,1,2,T,Attchd,1,Y,F,7,2007,150298.6958
+11375,Reg,1Fam,1954,Sawyer,1995,GasA,2266,1,0,3,T,Attchd,2,Y,F,10,2007,169809.5237
+13770,Reg,1Fam,1958,Sawyer,1998,GasA,2334,1,0,3,T,Attchd,1,Y,F,10,2007,157542.4359
+9000,Reg,1Fam,1945,Sawyer,1950,GasA,998,1,0,3,F,2Types,2,Y,F,5,2007,61096.76859
+9100,Reg,1Fam,1962,Sawyer,1962,GasA,1976,1,0,3,F,Detchd,2,Y,F,7,2006,141209.2039
+8927,Reg,Duplex,1977,Sawyer,1977,GasA,1654,2,0,4,F,Attchd,2,Y,F,8,2006,114378.4815
+9240,IR1,1Fam,1962,Sawyer,2002,GasA,2075,1,0,2,T,Detchd,2,Y,F,3,2006,179572.5557
+9308,IR1,1Fam,1965,Sawyer,1965,GasA,1968,1,0,3,F,Attchd,1,Y,F,7,2006,119325.8569
+8450,Reg,1Fam,1968,Sawyer,1968,GasA,1791,1,0,3,F,Attchd,1,Y,F,11,2006,111289.0619
+8638,IR1,1Fam,1963,Sawyer,1963,GasA,1850,1,0,2,F,Detchd,2,Y,F,10,2006,144111.2487
+13052,IR1,1Fam,1965,Sawyer,1965,GasA,2048,1,1,3,F,Attchd,1,Y,F,1,2006,134769.252
+8020,IR1,1Fam,1964,Sawyer,1964,GasA,1824,1,0,3,F,NoGar,0,Y,F,4,2006,69756.7024
+8789,IR1,1Fam,1967,Sawyer,1967,GasA,1853,1,0,3,T,Attchd,1,Y,F,6,2006,125555.6344
+12375,Reg,1Fam,1951,Sawyer,1951,GasA,2228,1,0,3,T,Detchd,1,Y,F,6,2006,138615.5309
+11136,Reg,Duplex,1964,Sawyer,1964,GasA,3842,2,0,4,F,Detchd,2,Y,F,7,2006,206267.5067
+21370,Reg,1Fam,1950,Sawyer,1950,GasA,1640,1,0,3,T,Attchd,2,Y,F,6,2006,130824.3115
+11327,IR1,1Fam,1967,Sawyer,1967,GasA,2128,1,0,3,T,Attchd,2,Y,F,6,2006,157340.6972
+10366,IR1,1Fam,1964,Sawyer,1964,GasA,1846,1,0,2,F,Attchd,1,Y,F,7,2006,119725.3396
+9000,Reg,1Fam,1966,Sawyer,1966,GasA,2118,1,0,3,F,Attchd,1,Y,F,6,2006,123723.6204
+9535,IR1,1Fam,1967,Sawyer,1967,GasA,2634,1,1,3,T,Attchd,2,Y,F,7,2006,187537.86
+7176,IR1,1Fam,1978,Sawyer,1978,GasA,2000,1,0,3,T,Detchd,2,Y,F,7,2006,163158.3325
+9662,IR1,Duplex,1977,Sawyer,1977,GasA,3934,2,0,6,F,Attchd,2,Y,F,8,2006,201462.5631
+8235,Reg,Duplex,1977,Sawyer,1977,GasA,3898,2,0,6,F,Attchd,2,Y,F,5,2006,196617.4954
+17529,Reg,1Fam,1924,Sawyer,1950,GasA,1744,1,0,2,T,Detchd,1,N,F,4,2006,115367.152
+10820,Reg,1Fam,1971,Sawyer,1972,GasA,1592,1,0,2,F,Detchd,2,Y,F,6,2006,137523.0171
+10456,IR1,1Fam,1967,Northwest Ames,1967,GasA,3658,2,0,4,F,Attchd,2,Y,F,5,2010,214887.2016
+10791,Reg,1Fam,1993,Northwest Ames,1993,GasA,3775,2,1,4,T,Attchd,2,Y,F,3,2010,253836.1254
+18837,IR1,1Fam,1978,Northwest Ames,1978,GasA,3115,3,0,3,T,Attchd,2,Y,F,4,2010,233343.1376
+9600,Reg,1Fam,1971,Northwest Ames,1971,GasA,2360,1,2,4,F,Attchd,2,Y,F,6,2010,167187.9813
+13250,IR1,1Fam,1978,Northwest Ames,1978,GasA,2882,2,1,4,T,Attchd,2,Y,F,5,2009,211784.7199
+10928,Reg,1Fam,1978,Northwest Ames,1986,GasA,3098,2,0,3,T,Attchd,2,Y,F,8,2009,215935.9405
+12388,IR1,1Fam,1980,Northwest Ames,1991,GasA,3716,2,1,4,T,BuiltIn,2,Y,F,8,2009,239835.5793
+11088,Reg,1Fam,1978,Northwest Ames,1998,GasA,2847,2,0,3,T,Attchd,2,Y,F,5,2009,210305.6399
+9373,IR1,1Fam,1975,Northwest Ames,1975,GasA,3242,2,0,3,T,Attchd,2,Y,F,6,2009,217877.073
+10140,Reg,1Fam,1974,Northwest Ames,1974,GasA,2232,2,0,3,T,Attchd,2,Y,F,4,2009,173208.1539
+11050,IR1,1Fam,1975,Northwest Ames,1975,GasA,2369,2,0,3,T,Attchd,2,Y,F,8,2009,182623.1461
+12732,IR1,1Fam,1974,Northwest Ames,1974,GasA,2819,2,1,3,T,Attchd,2,Y,F,6,2009,211882.455
+10400,Reg,1Fam,1967,Northwest Ames,1997,GasA,3572,2,1,5,T,Attchd,2,Y,F,5,2009,236872.1264
+9600,Reg,1Fam,1969,Northwest Ames,1969,GasA,2624,2,0,3,T,Attchd,2,Y,F,8,2009,186481.724
+9000,Reg,1Fam,1969,Northwest Ames,1969,GasA,2432,1,0,3,F,Attchd,1,Y,F,8,2009,135699.0603
+13774,IR1,1Fam,1977,Northwest Ames,1992,GasA,3196,1,2,4,T,Attchd,2,Y,F,11,2009,227923.5513
+9600,Reg,1Fam,1974,Northwest Ames,1974,GasA,3226,2,1,4,T,Attchd,2,Y,F,5,2009,219169.5464
+16500,Reg,1Fam,1971,Northwest Ames,1971,GasA,2552,2,0,3,T,Attchd,2,Y,F,5,2009,188901.0107
+12680,IR1,1Fam,1988,Northwest Ames,1988,GasA,3363,2,0,2,T,Attchd,2,Y,F,6,2008,238872.5386
+10825,IR1,1Fam,1983,Northwest Ames,1983,GasA,2520,2,0,3,F,Attchd,2,Y,F,7,2008,183838.9308
+18559,IR1,1Fam,1978,Northwest Ames,1978,GasA,4112,2,0,3,T,Attchd,2,Y,F,8,2008,262559.4334
+14450,Reg,1Fam,1979,Northwest Ames,1979,GasA,3564,2,0,3,T,Attchd,2,Y,F,3,2008,235067.5605
+13068,Reg,1Fam,1976,Northwest Ames,1976,GasA,2422,2,0,3,T,Attchd,2,Y,F,11,2008,185218.2995
+10400,Reg,1Fam,1980,Northwest Ames,1988,GasA,2782,2,1,3,T,Attchd,2,Y,F,3,2008,213854.5915
+9743,Reg,1Fam,1969,Northwest Ames,1969,GasA,2028,1,1,3,F,Detchd,2,Y,F,6,2008,155473.9131
+12511,IR1,1Fam,1978,Northwest Ames,1978,GasA,4260,2,1,4,T,Attchd,4,Y,F,12,2008,307194.3466
+10400,Reg,1Fam,1976,Northwest Ames,1976,GasA,2888,2,0,2,T,Attchd,2,Y,F,4,2008,207898.1117
+14311,IR1,1Fam,1996,Northwest Ames,1996,GasA,3576,2,1,4,T,Attchd,3,Y,F,6,2008,271639.2872
+11104,IR1,1Fam,1969,Northwest Ames,1969,GasA,2854,2,0,4,F,Attchd,2,Y,F,5,2008,183868.4606
+11050,Reg,1Fam,1968,Northwest Ames,1968,GasA,3480,1,1,4,T,Attchd,2,Y,F,10,2008,214398.1874
+15387,IR1,1Fam,1967,Northwest Ames,1967,GasA,3240,2,0,4,T,Attchd,2,Y,F,8,2008,211961.5104
+9750,Reg,Duplex,1965,Northwest Ames,1965,GasA,3250,2,0,4,F,Detchd,2,Y,F,8,2008,178679.0428
+13355,IR1,1Fam,1971,Northwest Ames,1971,GasA,2495,1,1,4,F,Attchd,2,Y,F,5,2008,168177.8736
+10960,IR1,1Fam,1984,Northwest Ames,1984,GasA,2568,2,0,3,F,Attchd,2,Y,F,4,2007,186792.5392
+12090,Reg,1Fam,1981,Northwest Ames,2003,GasA,2204,2,1,3,T,Attchd,2,Y,F,3,2007,197667.2905
+12299,Reg,1Fam,1978,Northwest Ames,1985,GasA,3193,2,0,3,T,Attchd,2,Y,F,9,2007,221380.5307
+11339,IR1,1Fam,1979,Northwest Ames,1979,GasA,2710,2,1,4,T,Attchd,2,Y,F,3,2007,204775.7626
+11850,Reg,1Fam,1984,Northwest Ames,1984,GasA,2330,2,0,3,F,Attchd,2,Y,F,8,2007,175500.0168
+10400,Reg,1Fam,1979,Northwest Ames,1999,GasA,2612,2,0,2,T,Attchd,2,Y,F,8,2007,207237.9255
+13001,IR1,1Fam,1971,Northwest Ames,1971,GasA,2845,2,0,2,T,Attchd,2,Y,F,9,2007,207762.0473
+8991,IR1,1Fam,1976,Northwest Ames,1976,GasA,2552,2,0,3,T,Attchd,2,Y,F,2,2007,190062.0497
+8000,Reg,1Fam,1974,Northwest Ames,1974,GasA,2961,2,1,4,T,Attchd,2,Y,F,11,2007,208443.4467
+11700,Reg,1Fam,1968,Northwest Ames,1968,GasA,2064,1,1,3,F,Attchd,2,Y,F,9,2007,151257.7536
+8000,Reg,1Fam,1970,Northwest Ames,1970,GasA,3419,2,1,4,T,Attchd,2,Y,F,6,2007,224779.6104
+8723,IR1,1Fam,1969,Northwest Ames,1969,GasA,2055,1,0,3,F,Attchd,2,Y,F,1,2007,141078.8123
+11700,Reg,1Fam,1968,Northwest Ames,1968,GasA,2590,1,1,3,F,Attchd,2,Y,F,4,2007,172872.6555
+11358,IR1,1Fam,1972,Northwest Ames,1987,GasA,2734,2,0,3,T,Attchd,2,Y,F,5,2007,203176.8839
+9547,Reg,1Fam,1993,Northwest Ames,1993,GasA,3188,2,0,2,T,Attchd,2,Y,F,7,2007,230931.1638
+10530,Reg,1Fam,1993,Northwest Ames,1993,GasA,3223,2,1,3,T,Attchd,2,Y,F,8,2007,237802.1686
+10738,IR1,1Fam,1966,Northwest Ames,1966,GasA,2186,2,0,3,T,Attchd,2,Y,F,11,2007,170447.4376
+10800,Reg,1Fam,1963,Northwest Ames,1963,GasA,2104,1,0,3,F,Attchd,1,Y,F,2,2007,119997.4128
+10464,IR1,1Fam,1980,Northwest Ames,1980,GasA,2090,1,0,2,T,Attchd,2,Y,F,6,2006,166840.2498
+10530,Reg,1Fam,1978,Northwest Ames,1978,GasA,2802,2,1,4,T,Attchd,2,Y,F,7,2006,206040.6222
+9927,IR1,1Fam,1976,Northwest Ames,1976,GasA,2130,1,0,2,T,Attchd,2,Y,F,7,2006,165801.6488
+10530,Reg,1Fam,1975,Northwest Ames,2000,GasA,2550,3,0,3,T,Attchd,2,Y,F,6,2006,212748.869
+10000,Reg,1Fam,1974,Northwest Ames,1974,GasA,2206,2,0,3,F,Attchd,2,Y,F,6,2006,163362.9594
+13110,IR1,2fmCon,1972,Northwest Ames,1972,GasA,2346,2,0,2,F,Attchd,2,Y,F,7,2006,159545.6235
+10140,Reg,1Fam,1967,Northwest Ames,1967,GasA,2668,2,0,3,F,Attchd,2,Y,F,4,2006,178344.6611
+4800,Reg,1Fam,1900,Old Town,1954,GasA,2553,1,0,3,T,Basment,1,Y,F,1,2010,126476.3392
+4485,Reg,1Fam,1920,Old Town,1950,GasA,1872,1,0,2,T,NoGar,0,P,F,5,2010,83272.37524
+5805,Reg,1Fam,1957,Old Town,1957,GasA,2694,1,0,3,F,Detchd,2,Y,F,6,2010,184473.3452
+6900,Reg,1Fam,1938,Old Town,2000,GasA,2078,1,0,3,F,Detchd,1,N,F,1,2010,148582.2948
+11851,Reg,1Fam,1948,Old Town,2009,GasA,2660,1,0,3,T,Detchd,1,Y,F,6,2010,198267.1445
+8239,Reg,1Fam,1920,Old Town,1962,GasA,2253,1,0,3,F,Detchd,1,Y,F,3,2010,143574.0114
+9656,Reg,1Fam,1923,Old Town,1970,GasA,1510,1,0,2,T,Detchd,2,N,F,6,2010,145941.4796
+9600,Reg,1Fam,1900,Old Town,2003,GasW,2496,2,0,3,F,Detchd,1,Y,F,4,2010,172173.4079
+9000,Reg,1Fam,1890,Old Town,2002,GasA,2614,3,0,3,F,Detchd,2,N,F,4,2010,209642.4194
+9045,Reg,2fmCon,1910,Old Town,1950,Grav,3096,2,0,4,F,NoGar,0,N,F,6,2010,98565.75898
+10560,Reg,1Fam,1922,Old Town,1994,GasA,2208,1,1,2,F,Detchd,2,Y,F,6,2010,191273.9004
+6120,Reg,1Fam,1923,Old Town,1950,GasA,2192,1,0,2,T,Detchd,1,Y,F,3,2010,150929.4475
+8094,Reg,1Fam,1915,Old Town,1950,GasA,2850,1,1,4,T,Detchd,2,Y,F,6,2010,196288.3872
+12900,Reg,1Fam,1912,Old Town,2009,GasA,2340,1,1,3,F,NoGar,0,N,F,5,2010,123500.4634
+3068,Reg,1Fam,1920,Old Town,1993,GasA,1986,1,0,3,F,Detchd,1,Y,F,2,2010,141871.0615
+5470,Reg,1Fam,1958,Old Town,1958,GasA,1584,1,0,2,F,Attchd,1,Y,F,8,2009,118813.4093
+10800,Reg,1Fam,1939,Old Town,2006,GasA,2028,2,0,4,F,Detchd,2,Y,F,8,2009,185309.0855
+8146,Reg,1Fam,1900,Old Town,2003,GasA,1444,1,0,2,F,Detchd,1,N,F,5,2009,122904.0874
+10230,Reg,1Fam,1925,Old Town,1950,GasA,2132,1,0,3,F,Detchd,1,N,F,12,2009,130989.4132
+10410,Reg,1Fam,1915,Old Town,1950,GasA,3690,2,0,3,T,Detchd,2,Y,F,6,2009,242119.8119
+7200,Reg,1Fam,1910,Old Town,2008,GasA,2250,2,0,4,F,Detchd,2,Y,F,8,2009,187443.3351
+5400,Reg,1Fam,1940,Old Town,1950,GasA,1015,1,0,2,F,NoGar,0,N,F,6,2009,40192.30746
+10800,Reg,1Fam,1920,Old Town,1950,GasA,1566,1,0,2,F,Detchd,2,N,F,6,2009,130392.8938
+10800,Reg,1Fam,1890,Old Town,1998,GasA,1355,1,1,1,F,Detchd,1,Y,F,11,2009,138790.5704
+4080,Reg,1Fam,1935,Old Town,1998,GasA,2279,1,0,3,F,Detchd,1,P,F,6,2009,156673.4929
+10307,Reg,Duplex,1910,Old Town,1950,GasA,2916,2,0,4,F,Detchd,2,N,F,6,2009,163672.3372
+15660,Reg,1Fam,1910,Old Town,2003,GasA,1546,1,1,3,F,Detchd,2,N,F,7,2009,157455.0744
+9900,Reg,1Fam,1910,Old Town,2002,GasA,1968,2,0,3,F,NoGar,0,N,F,3,2009,106422.6196
+6406,Reg,1Fam,1939,Old Town,1950,GasA,2248,1,1,3,T,Detchd,2,Y,F,10,2009,180924.3171
+7627,Reg,2fmCon,1920,Old Town,1950,GasA,2301,2,0,4,F,NoGar,0,N,F,10,2009,76216.845
+10134,Reg,1Fam,1910,Old Town,1950,GasA,2248,1,0,3,F,NoGar,0,N,F,7,2009,83532.70709
+6000,Reg,1Fam,1950,Old Town,1970,GasA,2096,1,1,3,F,Detchd,1,Y,F,3,2009,155350.4653
+7404,Reg,1Fam,1920,Old Town,1950,GasA,1722,1,0,2,F,Detchd,2,N,F,11,2009,135093.9654
+5925,Reg,1Fam,1940,Old Town,1950,GasA,612,1,0,1,F,Detchd,1,N,F,10,2009,78360.63891
+8520,Reg,1Fam,1923,Old Town,1950,GasA,1416,1,0,2,F,Detchd,1,Y,F,2,2009,110223.239
+9600,Reg,1Fam,1910,Old Town,1950,GasA,2187,2,0,3,F,Detchd,2,N,F,6,2009,161676.867
+8400,Reg,1Fam,1900,Old Town,1950,GasA,2924,2,0,3,F,Detchd,1,Y,F,6,2009,177010.669
+3600,Reg,1Fam,1917,Old Town,2007,GasA,1912,1,0,3,T,Attchd,1,N,F,5,2009,142258.0363
+5400,Reg,1Fam,1920,Old Town,1950,GasA,2452,1,0,3,F,Detchd,1,Y,F,9,2009,145999.419
+9720,Reg,1Fam,1910,Old Town,2002,GasA,2262,1,0,4,F,Detchd,3,Y,F,9,2009,192328.0415
+8094,Reg,1Fam,1915,Old Town,1950,GasA,2816,2,0,3,F,Detchd,2,Y,F,6,2009,193897.6631
+9928,Reg,1Fam,1915,Old Town,1994,GasA,2616,2,0,3,F,Detchd,1,N,F,6,2009,180345.4418
+3000,Reg,Duplex,1922,Old Town,1950,GasA,3168,2,0,4,F,NoGar,0,Y,F,9,2009,110384.549
+5775,IR2,1Fam,1915,Old Town,2002,GasA,1910,1,0,3,F,Attchd,1,Y,F,2,2009,154141.7535
+5852,IR3,2fmCon,1902,Old Town,2000,GasA,2884,2,1,6,F,NoGar,0,N,F,5,2009,48011.51565
+10122,Reg,1Fam,1948,Old Town,1950,GasA,869,1,0,1,F,Detchd,1,N,F,8,2008,93675.96506
+7506,Reg,1Fam,1925,Old Town,1950,GasA,1906,1,0,3,F,Detchd,1,N,F,5,2008,119762.944
+5400,Reg,1Fam,1940,Old Town,2005,GasA,1344,1,0,2,F,Detchd,1,N,F,7,2008,126214.4732
+10836,Reg,1Fam,1922,Old Town,1950,GasA,2328,1,0,3,T,Detchd,4,N,F,6,2008,205240.6114
+9836,Reg,1Fam,2008,Old Town,2008,GasA,1325,1,0,3,F,Detchd,1,Y,F,12,2008,143646.2998
+9184,Reg,1Fam,1948,Old Town,2005,GasA,2103,1,0,3,F,Detchd,2,Y,F,7,2008,181085.3302
+4800,Reg,1Fam,1910,Old Town,2003,GasA,2040,1,0,2,F,Attchd,1,Y,F,1,2008,146669.8696
+4800,Reg,1Fam,1940,Old Town,1950,GasA,1344,1,0,2,F,Detchd,1,Y,F,8,2008,109050.1565
+6000,Reg,1Fam,1915,Old Town,2005,GasA,2184,1,1,4,F,Detchd,1,N,F,6,2008,156021.0778
+11426,Reg,2fmCon,1910,Old Town,1996,GasA,2422,2,0,3,F,NoGar,0,N,F,6,2008,106419.0425
+7628,Reg,1Fam,1940,Old Town,1985,GasA,2457,2,0,2,F,Detchd,2,Y,F,5,2008,203801.806
+7308,Reg,1Fam,1920,Old Town,1950,GasA,2676,1,0,2,T,Detchd,1,N,F,6,2008,166551.3937
+5400,Reg,1Fam,1920,Old Town,2006,GasA,1958,1,0,2,T,NoGar,0,N,F,2,2008,109284.996
+10800,Reg,2fmCon,1940,Old Town,1950,GasA,2320,2,0,3,T,Detchd,2,Y,F,5,2008,172256.4761
+6756,Reg,1Fam,1910,Old Town,1950,GasA,1380,1,0,2,F,Detchd,1,P,F,9,2008,102179.9738
+5914,Reg,1Fam,1890,Old Town,1996,GasA,1764,1,0,3,F,NoGar,0,N,F,9,2008,76369.06278
+9000,Reg,1Fam,1946,Old Town,1950,GasA,2403,1,0,3,T,Detchd,3,Y,F,6,2008,199144.4097
+7311,Reg,1Fam,1946,Old Town,1950,GasA,814,1,0,1,F,Detchd,1,Y,F,3,2008,94754.31245
+12205,Reg,1Fam,1949,Old Town,1992,GasA,2036,2,0,5,F,NoGar,0,N,F,12,2008,104476.7454
+9142,Reg,2fmCon,1900,Old Town,2006,GasA,2424,2,0,4,F,Detchd,2,N,F,2,2008,169131.474
+5350,Reg,1Fam,1920,Old Town,1965,GasA,2074,1,0,3,F,Detchd,1,Y,F,3,2008,136423.1951
+9143,Reg,1Fam,1900,Old Town,2003,GasA,1363,1,0,2,F,Detchd,1,N,F,5,2008,120628.3852
+9600,Reg,2fmCon,1920,Old Town,1960,GasA,3323,2,0,4,F,2Types,2,Y,F,4,2008,167625.6479
+6000,Reg,1Fam,1905,Old Town,2005,GasA,2112,1,1,3,F,NoGar,0,N,F,2,2008,107247.0148
+11340,Reg,1Fam,1920,Old Town,1950,GasA,1809,1,0,2,F,Detchd,2,N,F,11,2008,141722.345
+10800,Reg,1Fam,1890,Old Town,1999,GasW,3808,2,0,5,T,Detchd,2,Y,F,12,2008,243699.8105
+9750,Reg,1Fam,1959,Old Town,1959,GasA,1968,1,0,2,F,Detchd,1,N,F,6,2008,139656.8714
+8516,Reg,1Fam,1958,Old Town,2006,GasA,1962,1,0,2,F,Detchd,1,Y,F,5,2008,163747.2234
+6120,Reg,1Fam,1923,Old Town,1950,GasA,3002,2,0,4,F,Detchd,2,Y,F,10,2008,197294.9198
+8094,Reg,2fmCon,1910,Old Town,1983,GasA,3226,2,0,5,F,Detchd,1,Y,F,9,2008,176733.4472
+4347,Reg,1Fam,1910,Old Town,1950,GasA,2405,1,0,3,F,Detchd,1,N,F,6,2008,135729.6207
+15783,Reg,1Fam,1952,Old Town,1952,GasA,1848,1,0,2,F,Detchd,1,Y,F,6,2007,140646.7989
+14190,Reg,1Fam,1890,Old Town,2006,GasA,2469,2,0,3,F,NoGar,0,N,F,4,2007,128869.5498
+10284,Reg,1Fam,1925,Old Town,1993,GasA,2432,2,0,1,F,Detchd,2,Y,F,8,2007,210960.2783
+10800,Reg,1Fam,1895,Old Town,1999,GasA,2270,1,1,3,F,NoGar,0,N,F,7,2007,113320.1382
+6978,Reg,1Fam,1926,Old Town,1980,GasA,1810,1,0,2,F,Detchd,2,Y,F,4,2007,158458.5496
+6000,Reg,1Fam,1927,Old Town,1950,GasA,2141,1,0,3,F,Detchd,2,Y,F,7,2007,154218.1036
+4480,Reg,1Fam,1922,Old Town,1950,GasA,2044,1,0,2,T,Detchd,1,N,F,2,2007,138902.7271
+3153,Reg,1Fam,1920,Old Town,1990,GasA,1934,1,0,2,T,Detchd,1,N,F,7,2007,149996.2203
+7200,Reg,1Fam,1940,Old Town,1950,GasA,1880,1,0,2,T,Detchd,2,Y,F,5,2007,162124.3199
+9000,Reg,1Fam,1900,Old Town,2006,GasA,1854,1,0,2,T,Detchd,2,Y,F,6,2007,177654.327
+5925,Reg,1Fam,1900,Old Town,1950,GasA,1711,1,0,3,F,Detchd,1,Y,F,5,2007,112122.1489
+9639,Reg,1Fam,1900,Old Town,1950,GasA,2873,2,1,4,F,Detchd,2,N,F,5,2007,193982.9226
+10337,IR1,1Fam,1910,Old Town,1999,GasA,2497,2,1,3,F,Detchd,2,Y,F,5,2007,214537.9338
+9863,Reg,1Fam,1927,Old Town,1950,GasA,2370,1,1,4,T,Detchd,1,Y,F,3,2007,162233.2893
+4571,Reg,1Fam,1910,Old Town,1950,GasA,1848,1,0,3,F,Detchd,2,Y,F,6,2007,137669.4814
+8398,Reg,1Fam,1910,Old Town,1990,GasA,2576,2,0,3,F,Detchd,2,N,F,11,2007,195027.3055
+3600,Reg,1Fam,1930,Old Town,2005,GasA,2045,1,1,3,T,Detchd,1,Y,F,7,2007,173722.8501
+13500,Reg,1Fam,1879,Old Town,1987,GasA,3273,2,0,3,T,Attchd,2,N,F,2,2007,222645.1094
+8626,Reg,1Fam,1956,Old Town,1956,GasA,968,1,0,2,F,Attchd,1,Y,F,5,2007,94603.34709
+11800,Reg,1Fam,1949,Old Town,2002,GasA,1382,2,0,1,T,Attchd,1,Y,F,5,2007,160760.3364
+7755,Reg,1Fam,1918,Old Town,1995,GasA,3364,2,1,4,F,Detchd,1,Y,F,5,2007,222705.8498
+5700,IR1,1Fam,1929,Old Town,1990,GasA,2016,1,1,3,T,Attchd,2,Y,F,9,2007,181418.6366
+5680,Reg,1Fam,1901,Old Town,1950,GasA,1765,2,0,3,F,Detchd,1,Y,F,9,2007,128193.0329
+5680,Reg,1Fam,1901,Old Town,1950,GasA,2183,1,0,2,F,Detchd,1,N,F,9,2007,131666.1177
+22136,Reg,2fmCon,1925,Old Town,1975,GasA,4811,2,1,5,T,Attchd,3,N,F,7,2006,297075.4229
+10410,Reg,1Fam,1930,Old Town,2001,GasA,1426,1,0,2,F,Detchd,1,N,F,10,2006,130399.9049
+7008,Reg,1Fam,1900,Old Town,1998,GasA,1168,1,0,1,F,Attchd,1,Y,F,3,2006,114140.8367
+7200,Reg,1Fam,1915,Old Town,1950,GasA,2258,2,0,3,T,Detchd,2,Y,F,4,2006,181494.2792
+10818,Reg,1Fam,1910,Old Town,1950,GasA,2837,1,1,4,T,Detchd,2,Y,F,2,2006,198103.3917
+9856,Reg,1Fam,1900,Old Town,2005,GasA,2730,2,0,5,F,Detchd,2,Y,F,6,2006,201841.7636
+9600,Reg,1Fam,1948,Old Town,1950,GasA,2880,1,0,3,F,Detchd,1,Y,F,5,2006,173158.3355
+5520,Reg,1Fam,1920,Old Town,1980,GasA,2804,1,0,4,T,Detchd,1,N,F,7,2006,173334.8204
+9600,Reg,1Fam,1900,Old Town,2004,GasA,2196,1,0,3,F,Detchd,2,Y,F,6,2006,176320.2156
+6451,Reg,1Fam,1900,Old Town,1970,GasA,2140,1,0,4,F,Detchd,2,Y,F,5,2006,152377.099
+3960,Reg,1Fam,1930,Old Town,1950,GasA,1506,1,0,2,T,Detchd,1,N,F,7,2006,118483.4926
+7745,Reg,2fmCon,1900,Old Town,1950,GasA,2889,2,0,4,F,Detchd,2,P,F,4,2006,167634.4597
+7741,Reg,1Fam,1924,Old Town,1950,GasA,2064,1,0,2,F,Detchd,1,Y,F,6,2006,138688.6636
+5633,Reg,1Fam,1925,Old Town,1950,GasA,1688,1,0,2,F,Detchd,1,N,F,7,2006,115963.7431
+7200,Reg,1Fam,1950,Old Town,1950,GasA,1440,1,0,2,F,Detchd,1,Y,F,8,2006,117490.3241
+7614,Reg,1Fam,1905,Old Town,1950,GasA,2114,1,0,2,F,Detchd,1,N,F,3,2006,130839.7256
+6000,Reg,2fmCon,1955,Old Town,1955,GasA,1920,1,0,3,F,Detchd,2,Y,F,6,2006,134766.803
+6000,Reg,1Fam,1924,Old Town,1950,GasA,2382,1,1,5,F,Detchd,2,Y,F,8,2006,163521.3191
+7830,Reg,1Fam,1921,Old Town,1950,GasA,984,1,0,1,F,Detchd,1,N,F,6,2006,92534.05423
+9576,Reg,1Fam,1945,Old Town,1950,GasA,1952,1,1,3,F,Detchd,1,Y,F,5,2006,143918.7951
+5747,Reg,1Fam,1920,Old Town,1950,GasA,1638,1,0,2,F,Detchd,1,N,F,6,2006,112899.6131
+6300,Reg,1Fam,1910,Old Town,2005,GasA,3330,2,0,5,F,Detchd,2,P,F,7,2006,222807.8668
+5976,Reg,Duplex,1920,Old Town,1950,GasA,1872,2,0,2,F,NoGar,0,N,F,12,2006,64303.78123
+9750,Reg,1Fam,1958,Old Town,1958,GasA,1920,1,0,3,F,Detchd,2,Y,F,7,2006,157223.5871
+33120,IR3,1Fam,1962,Old Town,1962,GasA,4081,2,0,5,T,Detchd,2,Y,F,10,2006,210467.5498
+5830,Reg,1Fam,1950,Brookside,1997,GasA,2600,1,1,3,F,Detchd,1,Y,F,3,2010,227430.9527
+7793,IR1,1Fam,1922,Brookside,2005,GasA,3176,1,1,3,T,Detchd,1,Y,F,5,2010,263178.2284
+5000,Reg,1Fam,1925,Brookside,1950,GasA,1530,1,0,2,F,Detchd,1,P,F,4,2010,149366.0609
+6000,Reg,1Fam,1939,Brookside,1950,GasA,1740,1,0,2,F,Detchd,1,Y,F,4,2010,165359.3677
+6000,Reg,1Fam,1940,Brookside,1950,GasA,1768,1,1,3,T,Detchd,2,Y,F,3,2010,200246.554
+6360,Reg,1Fam,1942,Brookside,1950,GasA,2288,1,1,3,T,Detchd,1,Y,F,3,2010,203925.8348
+6000,Reg,1Fam,1948,Brookside,1950,GasA,2196,1,1,3,F,Detchd,1,P,F,3,2010,186956.0094
+6240,Reg,1Fam,1936,Brookside,1980,GasA,1568,1,0,2,F,Detchd,2,P,F,5,2010,185063.0655
+6240,Reg,1Fam,1930,Brookside,1950,GasA,2464,2,0,4,T,Detchd,2,Y,F,3,2010,225454.1883
+6615,Reg,1Fam,1923,Brookside,1950,GasA,2454,1,0,3,T,BuiltIn,1,Y,F,9,2009,178800.5223
+4960,Reg,1Fam,1930,Brookside,1982,GasA,1951,2,0,3,T,Detchd,1,N,F,5,2009,197897.8621
+6000,Reg,1Fam,1924,Brookside,1950,GasA,1610,1,0,3,F,Attchd,1,Y,F,6,2009,145134.3111
+6120,Reg,1Fam,1925,Brookside,1999,GasA,1955,1,0,2,F,Detchd,1,Y,F,3,2009,192380.5988
+6120,Reg,1Fam,1938,Brookside,1950,GasA,2534,2,0,3,T,Detchd,1,Y,F,2,2009,217019.9038
+8635,Reg,1Fam,1925,Brookside,1950,GasA,2144,1,0,2,F,Detchd,5,P,F,8,2009,252779.5028
+4882,IR1,1Fam,1937,Brookside,1950,GasA,1254,1,0,2,F,Basment,1,Y,F,9,2008,117170.5236
+7111,IR1,1Fam,1928,Brookside,1983,GasA,2151,1,0,2,T,Detchd,1,Y,F,7,2008,208350.8583
+7425,IR1,1Fam,1945,Brookside,1950,GasA,2340,1,1,3,F,Attchd,1,Y,F,8,2008,193602.6855
+7010,Reg,1Fam,1935,Brookside,1950,GasA,2762,2,0,3,T,Detchd,1,P,F,7,2008,223516.1168
+5000,Reg,1Fam,1941,Brookside,2006,GasA,1882,1,0,3,F,Detchd,1,P,F,5,2008,185975.614
+5870,Reg,1Fam,1900,Brookside,2000,GasA,1844,1,1,3,F,Detchd,1,Y,F,4,2008,188364.4427
+6000,Reg,1Fam,1940,Brookside,1989,GasA,2653,1,1,3,T,Detchd,1,Y,F,7,2008,235936.6831
+6000,Reg,1Fam,1924,Brookside,2003,GasA,1898,1,0,2,T,Detchd,2,Y,F,7,2008,221030.6512
+6000,Reg,1Fam,1937,Brookside,2000,GasA,2322,2,0,3,F,Detchd,1,Y,F,5,2008,219067.0975
+6000,Reg,1Fam,1939,Brookside,1950,GasA,2081,2,0,2,T,Detchd,1,Y,F,4,2008,204252.8407
+5000,Reg,1Fam,1926,Brookside,1950,GasA,2005,1,0,3,F,Detchd,1,Y,F,4,2008,168762.8638
+5520,IR1,1Fam,1920,Brookside,1997,GasA,1781,1,0,3,T,BuiltIn,1,Y,F,4,2008,171179.9344
+5940,IR1,1Fam,1946,Brookside,1950,GasA,1700,1,0,2,F,Detchd,1,Y,F,4,2008,168162.9215
+6240,Reg,1Fam,1929,Brookside,1950,GasA,1840,1,0,2,F,Detchd,1,Y,F,8,2008,168966.6991
+6120,Reg,1Fam,1945,Brookside,1995,GasA,808,1,0,1,F,Attchd,1,P,F,6,2008,141921.6054
+6240,Reg,1Fam,1939,Brookside,1950,GasA,2998,2,0,4,T,Detchd,2,Y,F,1,2008,250314.994
+9144,Reg,1Fam,1915,Brookside,2004,GasA,2526,2,0,4,F,Detchd,2,Y,F,3,2008,240065.1294
+5000,Reg,1Fam,1946,Brookside,1950,GasA,1332,1,0,2,F,NoGar,0,N,F,4,2007,95561.74856
+3500,Reg,1Fam,1945,Brookside,1950,GasA,1040,1,0,2,F,NoGar,0,N,F,7,2007,82421.56516
+5175,Reg,1Fam,1958,Brookside,2000,GasA,1616,1,0,2,F,Detchd,1,N,F,7,2007,179762.6931
+6854,Reg,1Fam,1925,Brookside,1994,GasA,1816,1,0,1,T,Detchd,1,Y,F,8,2007,201920.6566
+8674,Reg,1Fam,1950,Brookside,1950,GasA,2345,1,0,3,F,Detchd,1,Y,F,3,2007,190405.8138
+6125,Reg,1Fam,1939,Brookside,1998,GasA,2002,2,0,3,F,Detchd,1,Y,F,3,2007,205663.966
+6000,Reg,1Fam,1939,Brookside,1950,GasA,1832,1,1,3,T,Attchd,1,Y,F,2,2007,178340.4997
+6120,Reg,1Fam,1939,Brookside,1950,GasA,1768,1,0,2,F,Detchd,1,Y,F,7,2007,168230.1863
+6240,Reg,1Fam,1938,Brookside,1950,GasA,2270,1,1,3,T,Detchd,2,Y,F,3,2007,222390.8853
+6240,Reg,1Fam,1939,Brookside,1952,GasA,1994,1,0,4,F,Detchd,1,Y,F,7,2007,167722.9216
+6240,Reg,1Fam,1930,Brookside,1992,GasA,2392,1,0,3,T,Detchd,1,Y,F,7,2007,214812.4018
+6120,Reg,1Fam,1926,Brookside,1950,GasA,2037,1,0,2,F,Detchd,2,Y,F,8,2007,195671.5998
+8850,Reg,1Fam,1920,Brookside,1950,GasA,2144,1,0,3,F,Detchd,2,P,F,2,2007,191015.1733
+8550,Reg,1Fam,1926,Brookside,1950,GasA,2066,1,0,4,F,Detchd,2,Y,F,10,2007,187731.3455
+11737,IR1,1Fam,1924,Brookside,1996,GasW,2675,1,0,2,T,Detchd,1,Y,F,5,2006,229542.7496
+6120,Reg,1Fam,1930,Brookside,1950,GasA,1890,1,0,3,F,Detchd,1,Y,F,11,2006,166901.3898
+6120,Reg,1Fam,1930,Brookside,1984,GasA,2065,1,0,3,F,Detchd,1,Y,F,2,2006,187646.1805
+11672,IR2,1Fam,1925,Brookside,1950,GasA,1632,1,0,2,F,Detchd,1,N,F,7,2006,175454.897
+15263,IR1,1Fam,1959,Clear Creek,1959,GasA,3097,2,0,3,T,Attchd,1,Y,F,5,2010,208721.0318
+10632,IR1,1Fam,1917,Clear Creek,1950,GasA,1913,1,1,3,F,Detchd,1,N,F,1,2010,131613.8661
+20062,IR1,1Fam,1977,Clear Creek,2001,GasA,2903,1,1,1,T,Attchd,2,Y,F,4,2010,250701.1551
+17082,IR1,1Fam,1978,Clear Creek,1992,GasA,3098,2,1,4,T,Attchd,2,Y,F,5,2010,250681.3636
+15584,Reg,1Fam,1956,Clear Creek,1956,GasA,2896,1,1,4,T,Attchd,1,Y,F,10,2009,188540.9139
+16698,IR1,1Fam,1992,Clear Creek,1993,GasA,3208,2,1,3,T,Attchd,2,Y,F,6,2009,264146.6104
+10532,Reg,1Fam,1960,Clear Creek,1960,GasA,2709,2,0,3,T,Basment,2,Y,F,12,2008,184755.6679
+20270,IR1,1Fam,1979,Clear Creek,1979,GasA,3048,2,0,3,T,Attchd,2,Y,F,4,2008,241607.0819
+11500,IR1,1Fam,1966,Clear Creek,1966,GasA,2825,2,0,2,T,Attchd,2,Y,F,3,2008,224097.9536
+11075,Reg,1Fam,1984,Clear Creek,1984,GasA,2712,2,0,3,T,Attchd,2,Y,F,2,2007,222834.1759
+12671,IR1,1Fam,1954,Clear Creek,1994,GasA,3710,3,0,4,T,Attchd,2,Y,F,7,2007,274471.4657
+20355,Reg,1Fam,1967,Clear Creek,1967,GasA,3695,1,0,2,T,Attchd,2,Y,F,6,2006,252194.1463
+13050,Reg,1Fam,1963,Clear Creek,1963,GasA,2000,1,0,1,T,Attchd,2,Y,F,4,2006,179536.686
+1700,Reg,Twnhs,1980,Clear Creek,1981,GasA,2130,2,1,2,F,Basment,1,Y,F,4,2006,121762.335
+12000,Reg,1Fam,1968,Clear Creek,1968,GasA,2776,2,0,3,T,Attchd,2,Y,F,7,2006,217181.163
+9900,Reg,2fmCon,1915,South & West of Iowa State University,1950,GasA,2604,1,0,3,F,NoGar,0,N,F,2,2010,80250.73715
+6001,IR1,1Fam,1940,South & West of Iowa State University,1950,GasA,1519,1,0,3,F,Detchd,1,Y,F,3,2010,112613.7616
+6048,Reg,2fmCon,1910,South & West of Iowa State University,1950,GasA,2536,2,0,2,T,Detchd,2,P,F,6,2010,173093.7966
+4853,Reg,1Fam,1924,South & West of Iowa State University,1999,GasA,2403,2,0,2,T,Detchd,1,Y,F,5,2010,193057.1577
+7890,Reg,1Fam,1939,South & West of Iowa State University,1950,GasA,1712,1,0,2,T,Detchd,2,Y,F,3,2010,153800.8979
+7200,Reg,Duplex,1967,South & West of Iowa State University,1967,GasA,2650,3,0,6,F,NoGar,0,Y,F,2,2010,108919.014
+9839,Reg,1Fam,1931,South & West of Iowa State University,1950,GasA,2560,1,0,3,T,NoGar,0,N,F,5,2010,110085.0712
+6300,Reg,1Fam,1938,South & West of Iowa State University,1950,GasA,2100,1,1,3,T,Basment,1,Y,F,7,2009,125308.4537
+5707,Reg,1Fam,1935,South & West of Iowa State University,1950,GasA,1825,1,1,3,T,Detchd,1,Y,F,3,2009,142848.454
+7290,Reg,1Fam,1921,South & West of Iowa State University,1950,GasA,2652,2,0,2,T,Attchd,1,Y,F,4,2008,177954.3372
+7804,Reg,Duplex,1930,South & West of Iowa State University,1950,GasA,2880,2,2,4,T,Detchd,2,Y,F,7,2008,201426.714
+4484,IR1,2fmCon,1942,South & West of Iowa State University,1979,GasA,1954,1,0,2,F,Detchd,1,Y,F,7,2007,131191.0649
+5400,Reg,1Fam,1958,South & West of Iowa State University,1958,GasA,1728,1,0,3,F,Attchd,1,Y,F,5,2007,120078.5425
+10890,Reg,Duplex,1923,South & West of Iowa State University,1950,Grav,3888,2,0,6,F,NoGar,0,Y,F,1,2007,126160.9317
+5220,IR1,1Fam,1936,South & West of Iowa State University,1950,GasA,1709,1,0,2,F,Detchd,1,P,F,1,2006,122583.9543
+5500,Reg,1Fam,2004,South & West of Iowa State University,2004,GasA,2146,2,0,2,F,Detchd,1,Y,F,5,2006,192076.1764
+10890,Reg,1Fam,1938,South & West of Iowa State University,1950,GasA,2609,2,0,3,F,Detchd,1,Y,F,7,2006,174343.5083
+6430,Reg,2fmCon,1945,South & West of Iowa State University,1950,GasA,2120,1,0,3,F,Attchd,1,Y,F,7,2006,113728.2606
+7000,Reg,1Fam,1926,South & West of Iowa State University,1997,GasA,2103,1,0,3,T,Detchd,1,Y,F,5,2006,164423.1791
+4899,Reg,1Fam,1920,South & West of Iowa State University,1950,GasA,2265,1,0,3,F,Detchd,1,Y,F,6,2006,139055.4241
+10164,Reg,1Fam,1939,South & West of Iowa State University,1950,GasA,2457,2,0,3,T,Detchd,1,Y,F,7,2006,177943.2952
+6191,Reg,1Fam,1941,South & West of Iowa State University,1950,GasA,2112,1,0,4,F,Detchd,1,Y,F,11,2006,132524.6382
+18600,Reg,1Fam,1938,Edwards,1990,GasA,2582,2,0,4,T,Attchd,1,Y,F,6,2010,168930.6802
+11479,Reg,1Fam,1950,Edwards,1987,GasA,1737,1,0,3,T,Attchd,1,Y,F,6,2010,122098.7169
+9350,Reg,1Fam,1947,Edwards,1979,GasA,2287,1,0,3,T,Detchd,1,Y,F,6,2010,146864.8313
+9525,Reg,1Fam,1954,Edwards,1998,GasA,2344,1,0,3,F,Attchd,1,Y,F,6,2010,141322.53
+17485,IR2,1Fam,2009,Edwards,2010,GasA,3016,1,0,1,T,Attchd,2,Y,F,1,2010,247132.9094
+11200,IR1,1Fam,1964,Edwards,1964,GasA,2548,2,0,3,F,Detchd,2,N,F,6,2010,174272.9184
+8777,Reg,1Fam,1945,Edwards,2007,GasA,640,1,0,2,F,Detchd,1,N,F,4,2010,78024.55099
+8842,Reg,1Fam,1954,Edwards,1954,GasA,1373,1,0,3,F,Detchd,1,Y,F,1,2010,88780.09891
+10044,IR1,1Fam,1968,Edwards,1968,GasA,2392,1,0,3,F,Attchd,1,Y,F,6,2010,136175.3472
+11792,Reg,1Fam,1948,Edwards,1950,GasA,1864,1,0,2,F,Detchd,2,P,F,6,2010,128969.4071
+6305,Reg,1Fam,1975,Edwards,1975,GasA,2104,1,0,3,T,Detchd,1,Y,F,6,2010,141074.4001
+6410,Reg,1Fam,1958,Edwards,1958,GasA,1920,1,0,3,F,NoGar,0,Y,F,5,2010,63848.57129
+10800,Reg,Duplex,1987,Edwards,1988,GasA,2400,3,0,3,F,NoGar,0,Y,F,3,2009,108617.4113
+10547,IR1,Duplex,1978,Edwards,1978,GasA,2304,2,0,2,F,Detchd,1,N,F,7,2009,136004.5466
+9780,Reg,1Fam,1934,Edwards,1950,GasA,1697,2,0,4,F,Detchd,1,N,F,3,2009,100100.41
+15635,IR1,1Fam,1954,Edwards,1954,GasA,1383,1,0,2,F,Attchd,2,Y,F,10,2009,113926.6037
+9571,Reg,1Fam,1956,Edwards,1956,GasA,2146,1,0,2,F,Attchd,1,Y,F,2,2009,121679.5121
+9350,Reg,1Fam,1946,Edwards,1950,GasA,2386,1,1,3,T,Detchd,1,Y,F,7,2009,149467.8994
+7440,Reg,1Fam,1954,Edwards,1954,GasW,2178,1,0,3,T,Detchd,1,P,F,9,2009,119871.0203
+4235,Reg,TwnhsE,1984,Edwards,1984,GasA,2098,2,0,2,F,Attchd,1,Y,F,2,2009,103792.4262
+10682,Reg,1Fam,1960,Edwards,1971,GasA,2163,1,0,3,F,2Types,1,Y,F,7,2009,101797.854
+3675,Reg,TwnhsE,2005,Edwards,2006,GasA,1619,1,0,2,F,Basment,2,Y,F,4,2009,78724.67678
+6410,Reg,1Fam,1959,Edwards,1959,GasA,1752,1,0,3,F,Detchd,1,Y,F,3,2009,106715.7
+11767,Reg,1Fam,1950,Edwards,1950,GasA,2446,1,0,3,F,Attchd,1,Y,F,6,2009,126827.1826
+10926,Reg,Duplex,1959,Edwards,1959,GasA,3356,2,0,6,F,NoGar,0,Y,F,8,2009,101753.4944
+11767,Reg,1Fam,1956,Edwards,1956,GasA,2710,1,0,2,T,Attchd,1,Y,F,5,2009,157089.7236
+8212,Reg,1Fam,1941,Edwards,1950,GasA,2018,1,0,3,T,Detchd,1,Y,F,9,2009,122398.1134
+5190,Reg,1Fam,1948,Edwards,1950,GasA,1649,1,0,2,T,Attchd,1,Y,F,1,2008,104675.5481
+19550,Reg,1Fam,1940,Edwards,2007,GasA,3098,1,0,2,T,NoGar,0,Y,F,1,2008,154574.6044
+9571,Reg,1Fam,1956,Edwards,1956,GasA,3018,1,0,3,T,Attchd,1,Y,F,7,2008,163735.6799
+9350,Reg,Duplex,1975,Edwards,1975,GasA,1728,1,0,2,F,NoGar,0,Y,F,4,2008,50877.64397
+9360,Reg,1Fam,1962,Edwards,2001,GasA,1890,1,1,3,F,Detchd,1,Y,F,11,2008,143537.6266
+9825,Reg,1Fam,1966,Edwards,1966,GasA,2184,1,0,3,F,Attchd,1,Y,F,4,2008,124710.4039
+12102,Reg,1Fam,1976,Edwards,1976,GasA,1489,1,0,3,F,BuiltIn,2,Y,F,4,2008,109662.2431
+6500,Reg,1Fam,1976,Edwards,1976,GasA,2254,1,1,3,T,Detchd,2,Y,F,5,2008,177742.833
+9638,IR1,1Fam,1977,Edwards,1977,GasA,2146,1,0,3,T,Attchd,2,Y,F,11,2008,161309.8924
+7200,Reg,1Fam,1976,Edwards,2001,GasA,2082,1,1,3,T,Attchd,2,Y,F,2,2008,174092.6109
+47007,IR1,1Fam,1959,Edwards,1996,GasA,3820,3,1,5,T,Attchd,2,Y,F,7,2008,285538.8904
+6012,Reg,Duplex,1955,Edwards,1955,GasA,1152,2,0,2,F,NoGar,0,N,F,6,2008,20183.99163
+6845,Reg,Duplex,1955,Edwards,1955,GasA,1152,2,0,2,F,NoGar,0,N,F,7,2008,20790.55533
+6931,Reg,2fmCon,1955,Edwards,1955,GasA,1568,1,0,2,F,NoGar,0,Y,F,5,2008,35862.369
+12180,Reg,1Fam,1938,Edwards,2007,GasA,1638,1,1,2,F,NoGar,0,N,F,1,2008,82439.7722
+8050,Reg,1Fam,1947,Edwards,1993,GasA,1137,1,1,4,F,NoGar,0,Y,F,4,2008,50109.33349
+9520,Reg,1Fam,1953,Edwards,1953,GasA,1841,1,0,2,F,Attchd,1,Y,F,5,2008,107761.507
+7692,Reg,1Fam,1954,Edwards,1954,GasA,1620,1,0,3,F,Basment,1,Y,F,11,2008,69738.6231
+5142,Reg,1Fam,1923,Edwards,2008,GasA,2241,1,1,3,F,Detchd,1,N,F,6,2008,144491.9242
+17541,IR1,1Fam,1948,Edwards,2005,GasA,1734,2,0,3,T,Detchd,2,Y,F,7,2007,175822.6283
+22692,IR1,1Fam,1953,Edwards,1953,GasA,2703,2,0,3,T,Detchd,2,P,F,3,2007,194912.5627
+17808,Reg,1Fam,1946,Edwards,1950,GasA,1726,1,0,2,F,Attchd,1,N,F,7,2007,100346.111
+10512,Reg,1Fam,1954,Edwards,1954,GasA,2614,1,1,3,F,Attchd,1,Y,F,5,2007,146478.2324
+11515,IR1,1Fam,1958,Edwards,1994,GasA,943,1,0,3,F,Detchd,1,N,F,8,2007,88070.10121
+3869,Reg,TwnhsE,1984,Edwards,1984,GasA,2076,2,0,2,F,Attchd,1,Y,F,7,2007,103938.0777
+9280,Reg,1Fam,1951,Edwards,1951,GasA,2684,1,0,4,F,Detchd,1,Y,F,4,2007,138203.0909
+11100,Reg,1Fam,1951,Edwards,1994,GasA,2560,1,0,4,T,Attchd,1,Y,F,7,2007,155387.4594
+7550,Reg,1Fam,1920,Edwards,1950,GasW,2313,2,0,4,F,Detchd,1,P,F,3,2007,115632.049
+9825,Reg,1Fam,1967,Edwards,1967,GasA,1872,1,0,2,T,Attchd,1,Y,F,8,2007,128690.967
+8308,Reg,1Fam,1963,Edwards,1963,GasA,2176,1,0,2,F,Detchd,2,P,F,6,2007,149490.24
+16287,Reg,1Fam,1925,Edwards,1950,GasA,2252,1,0,3,T,Detchd,2,N,F,7,2007,147760.9446
+8240,Reg,1Fam,1960,Edwards,1960,GasA,2358,1,0,2,F,Attchd,2,P,F,6,2007,148170.4284
+6285,Reg,1Fam,1976,Edwards,1976,GasA,2004,1,0,3,T,Detchd,2,Y,F,4,2007,157423.1947
+9555,IR1,Duplex,1979,Edwards,1979,GasA,2233,2,1,5,F,Attchd,2,Y,F,2,2007,144985.6254
+7023,Reg,1Fam,2005,Edwards,2006,GasA,2142,2,1,3,F,BuiltIn,2,Y,F,5,2007,175936.8933
+39290,IR1,1Fam,2008,Edwards,2009,GasA,10190,2,1,2,T,Attchd,3,Y,F,10,2007,583827.0998
+3675,Reg,TwnhsE,2005,Edwards,2005,GasA,1619,1,0,2,F,Basment,2,Y,F,5,2007,79320.81966
+6400,Reg,1Fam,1959,Edwards,2000,GasA,1920,1,0,2,F,Detchd,1,Y,F,12,2007,137728.165
+6882,Reg,Duplex,1955,Edwards,1955,GasA,1152,2,0,2,F,NoGar,0,N,F,9,2007,21427.91829
+8741,Reg,Duplex,1946,Edwards,1950,GasA,2390,2,0,4,F,NoGar,0,N,F,7,2007,59516.64849
+10042,Reg,1Fam,1920,Edwards,1995,GasA,1525,1,0,2,T,Detchd,1,Y,F,8,2007,123809.0231
+8172,Reg,1Fam,1955,Edwards,1955,GasA,1536,1,0,2,T,Detchd,1,Y,F,7,2007,113259.203
+8172,Reg,1Fam,1955,Edwards,1955,GasA,1728,1,0,3,F,Detchd,2,N,F,10,2007,118586.2151
+8250,Reg,1Fam,1935,Edwards,1950,GasA,1032,1,0,2,T,Detchd,1,Y,F,6,2006,86673.82641
+9375,Reg,1Fam,1954,Edwards,1954,GasA,2317,1,1,3,T,Attchd,2,Y,F,6,2006,162770.1253
+6488,Reg,1Fam,1942,Edwards,1950,GasA,1949,1,0,3,T,BuiltIn,1,Y,F,3,2006,100292.8989
+19950,Reg,1Fam,1928,Edwards,1950,GasA,2681,2,0,4,T,2Types,3,P,F,12,2006,167978.7361
+19800,Reg,1Fam,1935,Edwards,1990,GasA,5508,3,1,5,T,Detchd,2,Y,F,12,2006,337586.6206
+11679,IR1,1Fam,1962,Edwards,1962,GasA,3336,2,0,3,T,Attchd,2,Y,F,5,2006,217187.8788
+12048,Reg,1Fam,1952,Edwards,2002,GasA,1488,1,0,3,T,Attchd,2,Y,F,4,2006,139063.5239
+10519,Reg,1Fam,1955,Edwards,1999,GasA,2114,1,0,3,F,Attchd,1,Y,F,3,2006,134619.3076
+9525,Reg,1Fam,1953,Edwards,1953,GasA,2609,1,1,5,F,Attchd,1,Y,F,7,2006,134785.4825
+8777,Reg,1Fam,1910,Edwards,2000,GasA,2112,2,0,3,F,Attchd,2,Y,F,10,2006,157710.5119
+7840,IR1,Duplex,1975,Edwards,1975,GasA,1988,2,0,4,F,NoGar,0,Y,F,10,2006,66985.21536
+16133,Reg,1Fam,1969,Edwards,1969,GasA,2352,1,0,2,F,Attchd,1,Y,F,12,2006,144547.509
+7162,Reg,1Fam,2003,Edwards,2004,GasA,2520,2,1,3,T,BuiltIn,2,Y,F,5,2006,201289.984
+8050,Reg,1Fam,2002,Edwards,2002,GasA,1828,1,0,2,F,NoGar,0,N,F,4,2006,89171.53341
+11060,IR1,1Fam,2003,Edwards,2005,GasA,3464,2,1,3,T,BuiltIn,2,Y,F,2,2006,245636.7689
+3675,Reg,TwnhsE,2005,Edwards,2006,GasA,1619,1,0,2,F,Basment,2,Y,F,10,2006,80565.57275
+2522,Reg,Twnhs,2004,Edwards,2004,GasA,2679,2,0,3,F,Detchd,2,Y,F,5,2006,171310.394
+6956,Reg,1Fam,1948,Edwards,1950,GasA,1560,1,0,3,F,Attchd,1,Y,F,4,2006,87596.41354
+7822,Reg,1Fam,1915,Edwards,1950,GasA,2170,2,0,3,F,Detchd,2,N,F,5,2006,140544.9616
+8707,Reg,1Fam,1924,Edwards,1950,GasA,2762,1,1,4,F,Attchd,1,Y,F,5,2006,139032.9645
+16012,IR1,1Fam,1954,Edwards,1968,GasA,2436,2,0,3,T,2Types,2,Y,F,10,2006,160417.4559
+8248,Reg,1Fam,1922,Edwards,1950,GasA,2278,1,0,3,T,NoGar,0,N,F,9,2006,76099.23633
+8088,Reg,1Fam,1922,Edwards,1955,GasA,996,1,0,1,F,Detchd,1,N,F,2,2006,73586.02345
+11388,Reg,1Fam,1910,Edwards,1993,GasA,1889,1,0,3,F,Detchd,1,N,F,9,2006,116061.9296
+7360,Reg,1Fam,2010,College Creek,2010,GasA,2444,2,0,2,F,Attchd,2,Y,F,3,2010,209629.0539
+11105,Reg,1Fam,1996,College Creek,1996,GasA,1835,1,0,2,F,Attchd,2,Y,F,7,2010,164856.6435
+9337,IR1,1Fam,1997,College Creek,1998,GasA,2570,2,1,3,T,Attchd,2,Y,F,4,2010,225861.0175
+15240,IR1,1Fam,1977,College Creek,2004,GasA,2052,1,1,3,F,Attchd,1,Y,F,6,2010,164355.1147
+7480,Reg,1Fam,1972,College Creek,1972,GasA,1752,1,0,3,F,Detchd,2,Y,F,6,2010,145989.9069
+10389,Reg,1Fam,2003,College Creek,2003,GasA,3956,2,1,3,T,Attchd,3,Y,F,5,2010,304216.5324
+9375,Reg,1Fam,1997,College Creek,1997,GasA,3138,2,1,4,T,Attchd,2,Y,F,4,2010,241565.9506
+4435,Reg,TwnhsE,2003,College Creek,2003,GasA,1696,1,0,1,F,Attchd,2,Y,F,4,2010,121237.2191
+10933,Reg,1Fam,2009,College Creek,2009,GasA,3235,1,1,1,T,Attchd,3,Y,F,7,2009,276079.5827
+10816,IR1,1Fam,2008,College Creek,2008,GasA,3440,2,0,3,T,Attchd,3,Y,F,11,2009,278957.152
+9178,Reg,1Fam,2008,College Creek,2008,GasA,2936,2,0,3,T,Attchd,3,Y,F,6,2009,254279.0307
+11422,IR1,1Fam,2007,College Creek,2008,GasA,3676,2,0,3,T,Attchd,2,Y,F,4,2009,269836.9994
+6762,Reg,1Fam,2007,College Creek,2007,GasA,2572,2,0,2,T,Attchd,2,Y,F,5,2009,223599.5715
+10324,IR1,1Fam,2008,College Creek,2008,GasA,2508,2,0,2,F,Attchd,3,Y,F,3,2009,234330.7665
+11645,Reg,1Fam,2005,College Creek,2006,GasA,2996,2,0,3,T,Attchd,3,Y,F,3,2009,256737.2024
+11646,IR1,1Fam,2005,College Creek,2006,GasA,2126,2,1,3,T,Attchd,2,Y,F,7,2009,214352.8505
+9757,Reg,1Fam,1994,College Creek,1994,GasA,1980,1,0,3,F,Attchd,1,Y,F,10,2009,145422.0774
+14753,IR2,1Fam,1998,College Creek,1998,GasA,2926,2,0,3,F,Attchd,2,Y,F,12,2009,240428.4637
+8750,Reg,1Fam,1998,College Creek,1998,GasA,2700,2,1,3,T,Attchd,2,Y,F,4,2009,229371.3356
+10739,IR1,1Fam,2002,College Creek,2001,GasA,2875,2,0,3,F,Attchd,2,Y,F,4,2009,221836.6025
+11166,Reg,1Fam,2001,College Creek,2001,GasA,2984,2,0,3,T,Attchd,2,Y,F,7,2009,234698.1937
+16269,IR1,1Fam,1978,College Creek,1978,GasA,1814,1,0,3,F,Attchd,1,Y,F,7,2009,134904.4355
+6950,IR1,1Fam,1979,College Creek,1979,GasA,1828,1,0,2,F,Attchd,2,Y,F,10,2009,154433.8711
+11664,Reg,1Fam,2002,College Creek,2002,GasA,3180,2,0,3,F,Attchd,3,Y,F,9,2009,252407.3954
+12334,IR1,1Fam,2003,College Creek,2003,GasA,3252,2,1,4,T,BuiltIn,2,Y,F,6,2009,242472.4873
+8749,Reg,1Fam,2002,College Creek,2002,GasA,2565,2,1,3,F,Attchd,2,Y,F,11,2009,216453.2969
+11250,Reg,1Fam,2001,College Creek,2001,GasA,2814,2,1,3,F,Attchd,2,Y,F,5,2009,227417.4534
+15750,Reg,1Fam,1999,College Creek,2000,GasA,2975,2,0,2,T,Attchd,2,Y,F,6,2009,241812.8519
+12782,Reg,1Fam,2002,College Creek,2003,GasA,3650,2,0,3,T,Attchd,2,Y,F,6,2009,264511.6275
+8750,Reg,1Fam,1997,College Creek,1998,GasA,2834,2,0,3,T,Attchd,2,Y,F,8,2009,224930.44
+10200,Reg,1Fam,2007,College Creek,2007,GasA,3180,2,0,3,T,Attchd,3,Y,F,1,2009,264157.9847
+11069,Reg,1Fam,2007,College Creek,2007,GasA,2004,2,1,3,T,BuiltIn,2,Y,F,7,2009,195248.1067
+10616,IR1,1Fam,2007,College Creek,2007,GasA,1984,2,1,3,T,BuiltIn,2,Y,F,3,2008,196510.661
+9345,IR1,1Fam,2007,College Creek,2007,GasA,3230,2,0,3,T,Attchd,3,Y,F,5,2008,268665.687
+11778,Reg,1Fam,2008,College Creek,2008,GasA,4547,2,0,3,T,Attchd,3,Y,F,6,2008,323723.5453
+11778,Reg,1Fam,2008,College Creek,2008,GasA,3517,2,1,3,T,Attchd,3,Y,F,12,2008,291257.1592
+9750,Reg,1Fam,1994,College Creek,1994,GasA,1980,1,0,3,F,Detchd,2,Y,F,8,2008,171461.6577
+8696,IR1,1Fam,1997,College Creek,1998,GasA,2836,2,0,3,T,Attchd,2,Y,F,5,2008,227440.3643
+13142,IR1,1Fam,1997,College Creek,1997,GasA,2635,2,1,3,F,Attchd,2,Y,F,7,2008,221537.0789
+8998,IR1,1Fam,2000,College Creek,2000,GasA,2434,2,1,3,F,Attchd,2,Y,F,6,2008,212237.3583
+12192,IR1,1Fam,2000,College Creek,2001,GasA,2751,2,1,3,F,Attchd,2,Y,F,5,2008,227872.1772
+12250,IR1,1Fam,1978,College Creek,1978,GasA,2038,1,0,3,F,Attchd,2,Y,F,5,2008,160677.6424
+9216,IR1,1Fam,1975,College Creek,1975,GasA,2152,1,1,3,T,Detchd,2,Y,F,9,2008,189361.7603
+14330,IR1,1Fam,1975,College Creek,2001,GasA,2422,2,0,2,F,Attchd,2,Y,F,8,2008,206129.0129
+10400,Reg,1Fam,2001,College Creek,2001,GasA,3418,2,1,3,T,Attchd,2,Y,F,6,2008,262869.6839
+9720,IR1,1Fam,2001,College Creek,2002,GasA,3304,2,1,3,T,BuiltIn,3,Y,F,1,2008,266366.6488
+14860,IR2,1Fam,2002,College Creek,2003,GasA,3564,2,0,3,T,Attchd,3,Y,F,6,2008,298928.5576
+10905,IR2,1Fam,2003,College Creek,2003,GasA,3456,2,1,4,T,BuiltIn,2,Y,F,8,2008,266024.4148
+11690,IR1,1Fam,1999,College Creek,2000,GasA,2614,2,1,3,T,Attchd,2,Y,F,6,2008,231510.0222
+4426,Reg,TwnhsE,2004,College Creek,2004,GasA,1696,1,0,1,F,Attchd,2,Y,F,2,2008,122634.3557
+10126,Reg,Duplex,1997,College Creek,1998,GasA,3676,2,0,2,F,Attchd,3,Y,F,7,2008,251774.7818
+9750,Reg,1Fam,2004,College Creek,2004,GasA,2890,2,0,3,F,Attchd,2,Y,F,6,2008,221866.8437
+11058,Reg,1Fam,2007,College Creek,2007,GasA,3128,2,0,3,F,Attchd,3,Y,F,2,2008,252856.2242
+9627,Reg,1Fam,2007,College Creek,2007,GasA,2712,2,0,3,F,Attchd,2,Y,F,6,2008,216179.3435
+9178,Reg,1Fam,2007,College Creek,2007,GasA,3294,2,0,3,T,Attchd,3,Y,F,9,2007,269781.8869
+10481,IR1,1Fam,2006,College Creek,2007,GasA,4280,2,1,3,F,Attchd,3,Y,F,6,2007,313522.2526
+10235,IR1,1Fam,2007,College Creek,2007,GasA,3294,2,0,3,T,Attchd,3,Y,F,9,2007,272668.6697
+11750,IR1,1Fam,2005,College Creek,2006,GasA,3092,2,0,3,F,Attchd,3,Y,F,6,2007,253958.4317
+8760,Reg,1Fam,2006,College Creek,2006,GasA,2989,2,0,3,T,Attchd,2,Y,F,6,2007,237276.8298
+7242,Reg,1Fam,2005,College Creek,2006,GasA,2540,2,0,2,F,Attchd,2,Y,F,7,2007,212627.7006
+9316,Reg,1Fam,2005,College Creek,2006,GasA,2674,2,1,3,F,Attchd,2,Y,F,10,2007,224479.2797
+14217,IR2,1Fam,1994,College Creek,1994,GasA,2044,1,0,3,F,Detchd,2,Y,F,8,2007,195010.1757
+10021,IR1,1Fam,1997,College Creek,2006,GasA,1943,2,1,3,F,Attchd,2,Y,F,5,2007,194675.9894
+8428,IR2,1Fam,1994,College Creek,1994,GasA,1980,1,0,3,F,Detchd,1,Y,F,7,2007,169883.3189
+16561,IR2,1Fam,1996,College Creek,1996,GasA,2194,1,1,3,F,Attchd,1,Y,F,7,2007,188340.956
+10820,IR2,1Fam,1999,College Creek,1999,GasA,2861,2,1,3,T,Attchd,2,Y,F,3,2007,256441.3151
+12352,IR2,1Fam,1998,College Creek,1999,GasA,2606,2,1,3,T,Attchd,2,Y,F,3,2007,246574.768
+9543,IR1,1Fam,2001,College Creek,2001,GasA,2535,2,1,3,F,Attchd,2,Y,F,2,2007,217595.9857
+8826,Reg,1Fam,2000,College Creek,2000,GasA,2827,2,1,3,T,Attchd,2,Y,F,7,2007,237099.9754
+11800,IR1,1Fam,1974,College Creek,1974,GasA,1758,1,0,3,F,Attchd,2,Y,F,8,2007,146938.8111
+8660,IR1,1Fam,1976,College Creek,1976,GasA,2040,2,0,3,T,Detchd,2,Y,F,7,2007,188613.7227
+9720,Reg,1Fam,1977,College Creek,1977,GasA,2004,2,0,3,T,Detchd,2,Y,F,6,2007,186117.7748
+8982,IR1,1Fam,1977,College Creek,1977,GasA,2080,1,1,3,F,Detchd,2,Y,F,1,2007,177092.1896
+16300,IR1,1Fam,1977,College Creek,1977,GasA,1783,1,0,3,F,Attchd,1,Y,F,1,2007,133524.0146
+9675,Reg,1Fam,1975,College Creek,1975,GasA,1743,1,0,3,F,Attchd,2,Y,F,9,2007,143422.0513
+7200,Reg,1Fam,1972,College Creek,2000,GasA,1728,1,0,3,F,Detchd,2,Y,F,9,2007,158030.1276
+7200,Reg,1Fam,1972,College Creek,2006,GasA,1260,1,0,3,F,Detchd,2,Y,F,10,2007,141034.6907
+11354,Reg,1Fam,2000,College Creek,2000,GasA,3346,2,0,3,T,Attchd,2,Y,F,1,2007,249838.0853
+8749,Reg,1Fam,2003,College Creek,2003,GasA,2911,2,1,3,T,Attchd,2,Y,F,6,2007,242316.0933
+8158,Reg,1Fam,2002,College Creek,2002,GasA,2589,2,1,3,F,Attchd,2,Y,F,8,2007,217798.159
+11927,Reg,1Fam,1994,College Creek,1995,GasA,3148,2,0,3,T,Attchd,2,Y,F,6,2007,239052.302
+12728,Reg,1Fam,2001,College Creek,2001,GasA,3970,2,1,4,T,Attchd,2,Y,F,1,2007,282105.5281
+15295,IR3,1Fam,1996,College Creek,2002,GasA,2852,2,1,3,T,Attchd,2,Y,F,6,2007,174729.0352
+17227,IR2,1Fam,1999,College Creek,2000,GasA,2682,1,1,1,T,Attchd,2,Y,F,1,2007,250709.1097
+8145,IR1,1Fam,2007,College Creek,2007,GasA,2214,2,1,3,F,Attchd,2,Y,F,6,2007,207233.609
+8769,Reg,1Fam,2005,College Creek,2005,GasA,2359,2,0,2,F,Attchd,2,Y,F,10,2007,205847.5244
+8334,Reg,1Fam,2006,College Creek,2007,GasA,2660,2,0,3,T,Attchd,2,Y,F,7,2007,223744.4481
+8333,Reg,1Fam,2006,College Creek,2006,GasA,2229,2,1,3,T,Attchd,2,Y,F,5,2007,215311.1555
+9045,IR1,1Fam,2005,College Creek,2005,GasA,2304,2,1,3,F,Attchd,2,Y,F,6,2007,210352.2239
+11003,IR2,1Fam,2005,College Creek,2006,GasA,3184,2,1,3,F,BuiltIn,3,Y,F,7,2006,271096.2905
+7488,IR1,1Fam,2005,College Creek,2005,GasA,2416,2,0,2,F,Attchd,2,Y,F,2,2006,209506.9087
+13377,Reg,1Fam,2006,College Creek,2006,GasA,3682,2,0,3,T,Attchd,2,Y,F,7,2006,269733.0812
+11645,Reg,1Fam,2005,College Creek,2006,GasA,3160,2,1,2,F,Attchd,3,Y,F,8,2006,270697.8732
+10984,IR1,1Fam,2005,College Creek,2006,GasA,2754,2,1,3,F,Attchd,2,Y,F,5,2006,231207.9195
+9316,Reg,1Fam,2005,College Creek,2005,GasA,3228,2,0,3,T,Attchd,2,Y,F,3,2006,247261.6327
+9316,IR1,1Fam,2005,College Creek,2005,GasA,2380,2,1,3,F,Attchd,2,Y,F,6,2006,214170.3719
+13015,Reg,1Fam,1996,College Creek,1996,GasA,2200,1,1,3,F,Attchd,2,Y,F,6,2006,187841.2369
+12438,IR1,1Fam,1995,College Creek,1995,GasA,2280,2,1,3,T,Attchd,2,Y,F,8,2006,216265.9419
+8685,IR1,1Fam,1998,College Creek,1998,GasA,2850,2,0,3,F,Attchd,2,Y,F,5,2006,218930.6715
+9272,IR1,1Fam,1999,College Creek,1999,GasA,2591,2,1,3,F,Attchd,2,Y,F,6,2006,219301.2448
+13426,IR1,1Fam,1999,College Creek,2000,GasA,2730,2,1,3,T,Attchd,2,Y,F,9,2006,238624.9244
+8340,IR1,1Fam,1977,College Creek,1977,GasA,2063,1,1,3,F,Attchd,1,Y,F,12,2006,151514.836
+10385,IR1,1Fam,1978,College Creek,1978,GasA,2277,2,0,3,F,Detchd,3,Y,F,4,2006,209539.8638
+7200,Reg,1Fam,1972,College Creek,1972,GasA,1728,1,0,3,F,Detchd,1,Y,F,3,2006,127799.1753
+9930,IR1,1Fam,2002,College Creek,2002,GasA,2588,2,1,3,F,Attchd,2,Y,F,7,2006,221498.4905
+9468,IR2,1Fam,1999,College Creek,1999,GasA,2595,2,1,3,T,Attchd,2,Y,F,8,2006,245291.1609
+11088,Reg,1Fam,2002,College Creek,2002,GasA,2706,1,1,1,T,Attchd,2,Y,F,6,2006,232478.456
+8726,Reg,1Fam,2002,College Creek,2002,GasA,2781,2,1,4,F,BuiltIn,2,Y,F,9,2006,209064.8367
+10566,IR1,1Fam,1999,College Creek,1999,GasA,3304,2,1,3,T,Attchd,3,Y,F,7,2006,278881.283
+21533,IR2,1Fam,1996,College Creek,1997,GasA,3114,2,1,4,T,Attchd,2,Y,F,8,2006,267871.7633
+11250,IR1,1Fam,1998,College Creek,1998,GasA,2993,2,1,3,T,Attchd,3,Y,F,5,2006,265572.3318
+11250,Reg,1Fam,1995,College Creek,1996,GasA,2925,2,1,4,T,Attchd,2,Y,F,7,2006,235157.7908
+4435,Reg,TwnhsE,2003,College Creek,2003,GasA,1696,1,0,1,F,Attchd,2,Y,F,4,2006,123113.3788
+8810,Reg,1Fam,2003,College Creek,2003,GasA,2780,2,0,3,F,Attchd,2,Y,F,3,2006,216779.8978
+8581,IR1,1Fam,2006,College Creek,2006,GasA,2588,2,1,3,F,Attchd,2,Y,F,8,2006,223143.253
+8400,Reg,1Fam,2005,College Creek,2005,GasA,2395,2,1,3,F,Attchd,2,Y,F,3,2006,211783.8382
+8772,Reg,1Fam,2005,College Creek,2006,GasA,2672,2,0,3,F,Attchd,2,Y,F,9,2006,214310.1162
+10452,IR1,1Fam,1941,Crawford,1985,GasA,3661,1,1,4,T,Attchd,1,Y,F,7,2010,211510.0739
+15600,Reg,Duplex,1950,Crawford,1991,GasA,3209,2,1,5,F,Detchd,2,Y,F,3,2010,197741.8674
+19645,IR1,1Fam,1994,Crawford,2007,GasA,2075,2,1,3,F,BuiltIn,2,Y,F,6,2010,185657.3239
+3811,IR1,TwnhsE,2004,Crawford,2005,GasA,3240,2,0,2,T,Attchd,2,Y,F,5,2010,199964.386
+8574,Reg,1Fam,1916,Crawford,2000,GasA,2048,1,0,3,T,Detchd,2,Y,F,10,2009,163738.6778
+7155,Reg,1Fam,1918,Crawford,1990,GasA,1828,1,0,3,T,Detchd,1,Y,F,5,2009,130855.794
+13680,Reg,1Fam,1940,Crawford,1950,GasA,2407,1,1,2,T,Detchd,2,Y,F,2,2009,180968.0907
+14680,IR1,1Fam,1960,Crawford,1960,GasA,2546,1,0,2,F,Attchd,1,Y,F,6,2009,151887.1531
+8145,IR1,Duplex,1940,Crawford,1950,GasA,3400,2,1,5,T,Detchd,2,Y,F,7,2009,195192.8778
+9100,Reg,1Fam,1954,Crawford,1954,GasA,2224,1,0,2,T,Attchd,1,Y,F,10,2009,139499.6814
+13339,IR1,1Fam,1960,Crawford,1960,GasA,3122,2,0,3,T,Attchd,2,Y,F,5,2009,211968.691
+15600,Reg,1Fam,1949,Crawford,2005,GasW,2590,2,0,3,T,Attchd,1,Y,F,10,2009,178104.4297
+17500,Reg,1Fam,1954,Crawford,1954,GasA,3216,1,1,3,T,Basment,2,Y,F,1,2009,185823.4527
+13607,IR1,1Fam,1986,Crawford,1986,GasA,2554,2,1,3,T,BuiltIn,2,Y,F,4,2009,202082.2756
+17597,Reg,1Fam,1971,Crawford,2009,GasA,4168,2,0,3,T,Attchd,2,Y,F,7,2009,278781.9927
+3843,IR1,TwnhsE,2007,Crawford,2008,GasA,3244,2,0,2,T,Attchd,2,Y,F,6,2009,202521.6305
+8969,Reg,1Fam,1926,Crawford,1950,GasA,1960,1,0,2,T,Detchd,1,P,F,7,2008,124722.1151
+15564,Reg,1Fam,1914,Crawford,1995,GasA,1940,1,0,3,F,Detchd,2,Y,F,1,2008,150845.6529
+7609,Reg,1Fam,1925,Crawford,1997,GasA,2310,2,0,3,T,Detchd,1,P,F,6,2008,165734.3836
+9650,IR1,1Fam,1923,Crawford,1950,GasA,2387,1,0,4,T,Attchd,2,Y,F,6,2008,149156.2178
+11700,IR1,1Fam,1937,Crawford,1995,GasA,2880,2,0,4,T,Detchd,1,Y,F,7,2008,194385.849
+9260,IR1,1Fam,1938,Crawford,1950,GasA,2258,1,0,3,F,Detchd,1,Y,F,3,2008,129818.2896
+7801,IR1,1Fam,1951,Crawford,1951,GasA,2182,1,0,2,T,Attchd,1,Y,F,5,2008,137399.9061
+9670,IR1,1Fam,1935,Crawford,1950,GasA,2481,1,1,4,T,Detchd,2,Y,F,6,2008,172624.0098
+12392,Reg,1Fam,1950,Crawford,2000,GasA,2993,2,1,3,T,Attchd,2,Y,F,4,2008,228910.4326
+26073,IR1,1Fam,1956,Crawford,1956,GasA,3796,2,1,3,T,Attchd,2,Y,F,4,2008,256388.3423
+3843,IR1,TwnhsE,2007,Crawford,2008,GasA,3244,2,0,2,T,Attchd,2,Y,F,8,2008,203135.2625
+3811,IR1,TwnhsE,2004,Crawford,2005,GasA,3240,2,0,2,T,Attchd,2,Y,F,7,2008,201047.0579
+7223,Reg,1Fam,1926,Crawford,1950,GasA,2712,1,0,3,F,Detchd,1,Y,F,4,2007,143470.2416
+6821,Reg,1Fam,1921,Crawford,2005,GasA,1949,2,0,2,T,Detchd,1,P,F,8,2007,158720.5805
+4000,Reg,1Fam,1930,Crawford,1995,GasA,1629,1,0,2,T,Detchd,1,Y,F,6,2007,131369.2984
+6720,Reg,1Fam,1921,Crawford,1950,GasA,2021,1,0,3,T,Detchd,1,Y,F,4,2007,123522.4016
+7155,Reg,1Fam,1926,Crawford,1991,GasA,2147,1,0,3,T,Detchd,1,N,F,7,2007,141311.0592
+7230,Reg,1Fam,1927,Crawford,1992,GasA,2569,2,1,4,T,Detchd,2,Y,F,10,2007,202608.8803
+13108,IR2,1Fam,1951,Crawford,1951,GasA,1226,1,1,2,T,Attchd,2,Y,F,6,2007,145535.9632
+7810,IR1,1Fam,1930,Crawford,2003,GasA,2685,2,0,4,T,Detchd,1,Y,F,11,2007,186449.5218
+6221,IR1,2fmCon,1941,Crawford,1950,GasA,2083,2,0,3,F,Detchd,2,Y,F,10,2007,136122.4392
+25485,IR1,1Fam,1960,Crawford,1960,GasA,3120,1,1,3,T,Attchd,2,Y,F,5,2007,217259.3033
+21579,IR1,1Fam,1968,Crawford,1968,GasA,2976,2,0,3,T,Attchd,2,Y,F,9,2007,217256.3691
+17871,IR2,1Fam,1995,Crawford,1996,GasA,3360,2,0,4,F,Attchd,2,Y,F,6,2007,247256.7797
+20693,IR1,1Fam,1971,Crawford,1971,GasA,3392,2,0,3,T,Attchd,2,Y,F,2,2007,235390.8606
+18044,IR1,1Fam,1986,Crawford,1986,GasA,3005,2,1,2,T,Attchd,2,Y,T,8,2007,240617.8598
+5568,IR1,TwnhsE,2006,Crawford,2007,GasA,3198,2,0,2,T,Attchd,2,Y,F,10,2007,202323.9609
+9399,Reg,1Fam,1919,Crawford,1950,GasA,2454,1,1,4,T,Detchd,1,N,F,9,2006,142546.5201
+21780,Reg,1Fam,1920,Crawford,1950,GasA,2367,1,1,3,T,Detchd,1,P,F,9,2006,154560.8141
+12400,Reg,1Fam,1940,Crawford,1950,GasA,2618,1,1,2,T,Attchd,1,Y,F,2,2006,164650.2457
+8170,IR1,1Fam,1929,Crawford,1950,GasA,2693,2,0,4,T,Detchd,2,Y,F,2,2006,183351.1915
+12320,IR1,1Fam,1932,Crawford,1990,GasA,2246,1,1,3,T,2Types,3,Y,F,5,2006,175165.4163
+14210,IR1,1Fam,1930,Crawford,1959,GasA,2498,1,1,3,T,Attchd,2,Y,F,11,2006,178673.4239
+15600,Reg,1Fam,1950,Crawford,1963,GasA,3483,2,0,4,T,Attchd,1,Y,F,7,2006,203039.9751
+5748,IR1,TwnhsE,2005,Crawford,2006,GasA,3351,2,0,2,T,Attchd,2,Y,F,2,2006,208113.029
+3842,IR1,TwnhsE,2004,Crawford,2005,GasA,3240,2,0,2,T,Attchd,2,Y,F,12,2006,202366.5006
+3907,IR1,TwnhsE,1989,Bluestem,1989,GasA,2016,1,0,1,T,Attchd,2,Y,F,4,2010,147508.1332
+3907,IR1,TwnhsE,1989,Bluestem,1989,GasA,2382,2,0,2,T,Attchd,2,Y,F,3,2010,170787.3968
+1733,Reg,Twnhs,1980,Bluestem,1980,GasA,1548,1,0,2,T,Detchd,2,Y,F,5,2009,131270.5753
+1488,Reg,TwnhsE,1980,Bluestem,1992,GasA,1790,1,1,2,T,Attchd,2,Y,F,10,2009,139400.2184
+1612,Reg,Twnhs,1980,Bluestem,1980,GasA,1790,1,1,2,T,Attchd,2,Y,F,7,2009,144529.8757
+1879,Reg,Twnhs,1980,Bluestem,1980,GasA,1548,1,0,2,T,Detchd,2,Y,F,12,2008,132339.3287
+1782,Reg,Twnhs,1980,Bluestem,1980,GasA,1561,1,0,2,T,Detchd,2,Y,F,12,2007,133289.2975
+3907,IR1,TwnhsE,1988,Bluestem,1988,GasA,2024,1,0,1,F,Attchd,2,Y,F,3,2007,138346.9488
+8154,Reg,1Fam,1941,Iowa DOT and Rail Road,1950,GasA,1020,1,0,1,F,Detchd,1,N,F,4,2010,96128.96115
+9140,Reg,1Fam,1921,Iowa DOT and Rail Road,1975,GasA,1736,1,0,2,F,Detchd,1,Y,F,4,2010,133631.5553
+6876,Reg,1Fam,1927,Iowa DOT and Rail Road,1950,GasA,2650,2,0,4,F,Attchd,1,Y,F,8,2009,157520.6719
+5160,Reg,1Fam,1927,Iowa DOT and Rail Road,1950,GasA,2870,1,0,3,F,Detchd,1,Y,F,8,2009,164603.6313
+5160,Reg,1Fam,1923,Iowa DOT and Rail Road,1950,GasA,1750,1,0,1,F,NoGar,0,N,F,7,2009,72928.42491
+10320,Reg,2fmCon,1915,Iowa DOT and Rail Road,1965,GasA,2101,1,1,3,F,Detchd,1,Y,F,2,2009,131204.0101
+8660,Reg,1Fam,1900,Iowa DOT and Rail Road,1993,GasA,2928,2,0,5,F,Detchd,2,Y,F,12,2009,203403.0151
+6291,IR1,1Fam,1930,Iowa DOT and Rail Road,1950,GasA,1536,1,0,1,F,Detchd,2,N,F,7,2008,136377.0908
+10266,Reg,1Fam,1952,Iowa DOT and Rail Road,1952,GasA,2304,1,1,4,F,Detchd,1,Y,F,5,2008,154897.1681
+6876,Reg,1Fam,1938,Iowa DOT and Rail Road,1958,GasA,3241,2,0,4,T,Detchd,2,Y,F,11,2008,224300.0799
+10320,Reg,1Fam,1915,Iowa DOT and Rail Road,1978,GasA,2188,2,0,2,F,Detchd,2,Y,F,4,2008,186437.8892
+7200,Reg,1Fam,1925,Iowa DOT and Rail Road,1992,GasA,2080,1,0,2,F,Detchd,2,Y,F,7,2008,174405.0435
+7006,Reg,1Fam,1925,Iowa DOT and Rail Road,1950,GasA,2004,2,0,3,T,Detchd,1,Y,F,8,2008,153392.977
+10320,Reg,1Fam,1912,Iowa DOT and Rail Road,1991,GasA,1210,1,0,1,F,Detchd,2,N,F,8,2008,136674.4712
+10320,Reg,2fmCon,1915,Iowa DOT and Rail Road,1950,GasA,1880,2,0,3,F,NoGar,0,N,F,5,2008,64913.74189
+7000,Reg,1Fam,1926,Iowa DOT and Rail Road,1998,GasA,1813,1,0,2,F,Detchd,1,P,F,7,2008,143288.897
+6000,Reg,1Fam,1940,Iowa DOT and Rail Road,2006,GasA,1810,1,0,3,F,Detchd,1,Y,F,7,2008,146986.6209
+8155,Reg,1Fam,1930,Iowa DOT and Rail Road,1950,GasA,1980,1,0,4,F,NoGar,0,Y,F,7,2008,75942.65139
+6000,Reg,1Fam,1967,Iowa DOT and Rail Road,1967,GasA,2280,1,1,3,T,Attchd,1,Y,F,7,2008,169040.6455
+7392,Reg,1Fam,1930,Iowa DOT and Rail Road,1995,GasA,1432,1,0,2,F,Detchd,1,Y,F,5,2008,130860.9778
+9000,Reg,1Fam,1958,Iowa DOT and Rail Road,1958,GasA,3106,2,0,4,F,Attchd,1,Y,F,1,2008,187262.3943
+13200,Reg,1Fam,1963,Iowa DOT and Rail Road,1963,GasA,3035,3,0,5,T,Attchd,2,Y,F,4,2007,227671.3511
+9780,Reg,1Fam,1950,Iowa DOT and Rail Road,2005,GasA,2928,1,1,4,T,Detchd,1,Y,F,4,2007,212837.8431
+10320,Reg,1Fam,1915,Iowa DOT and Rail Road,1950,GasA,3318,1,1,3,T,Detchd,2,N,F,5,2007,218100.5308
+4330,Reg,2fmCon,1958,Iowa DOT and Rail Road,1958,GasA,2123,2,0,3,F,Detchd,2,Y,F,2,2007,156734.6398
+10320,Reg,1Fam,1910,Iowa DOT and Rail Road,1950,GasA,2255,2,0,3,F,Detchd,1,N,F,9,2007,147466.9875
+7000,Reg,1Fam,1940,Iowa DOT and Rail Road,1950,GasA,1935,1,0,3,F,Detchd,2,Y,F,5,2007,148645.6167
+7288,Reg,1Fam,1925,Iowa DOT and Rail Road,2003,GasA,2537,2,0,3,F,NoGar,0,N,F,9,2007,133234.1844
+3672,Reg,1Fam,1922,Iowa DOT and Rail Road,1950,GasA,1632,1,0,2,F,Detchd,1,N,F,9,2007,111456.2979
+11067,Reg,1Fam,1939,Iowa DOT and Rail Road,1950,GasA,845,1,0,1,F,Detchd,1,N,F,3,2007,91630.2077
+10320,Reg,1Fam,1924,Iowa DOT and Rail Road,1950,GasA,2026,2,0,3,F,Detchd,2,Y,F,10,2006,165772.0149
+7518,Reg,1Fam,1910,Iowa DOT and Rail Road,2004,GasA,1726,1,0,3,F,Detchd,1,N,F,7,2006,132773.6343
+9000,Reg,1Fam,1919,Iowa DOT and Rail Road,1950,GasA,1429,1,0,2,F,NoGar,0,N,F,9,2006,57323.32195
+7200,Reg,1Fam,1930,Iowa DOT and Rail Road,1950,GasA,1968,1,0,3,F,Detchd,1,N,F,3,2006,123926.4835
+7288,Reg,1Fam,1942,Iowa DOT and Rail Road,1950,GasA,1952,1,0,2,F,Detchd,1,N,F,8,2006,131445.691
+7000,Reg,1Fam,1926,Iowa DOT and Rail Road,1950,GasA,2146,1,0,3,F,Detchd,2,Y,F,5,2006,155197.6418
+8534,Reg,1Fam,1925,Iowa DOT and Rail Road,1950,GasA,1104,1,0,2,F,NoGar,0,N,F,6,2006,44400.11833
+7030,Reg,1Fam,1925,Iowa DOT and Rail Road,1950,GasA,1282,1,0,2,F,Detchd,1,N,F,3,2006,99607.80485
+9060,Reg,1Fam,1957,Iowa DOT and Rail Road,1957,GasA,2605,2,0,4,F,Detchd,1,Y,F,4,2006,173966.476
+11050,Reg,1Fam,1998,Mitchell,1999,GasA,2965,2,1,3,T,Attchd,3,Y,F,5,2010,269945.5595
+9620,Reg,1Fam,1977,Mitchell,1977,GasA,2528,2,0,3,T,Attchd,2,Y,F,5,2010,208757.2353
+12760,IR1,Duplex,1976,Mitchell,1976,GasA,4006,3,0,5,F,2Types,2,Y,F,3,2010,219667.8462
+15300,Reg,1Fam,1965,Mitchell,1977,GasA,2332,1,0,2,T,Attchd,2,Y,F,6,2010,193881.371
+10114,Reg,1Fam,2004,Mitchell,2005,GasA,2860,2,0,3,F,Attchd,2,Y,F,3,2010,229448.2863
+11875,Reg,1Fam,1999,Mitchell,1999,GasA,2688,2,0,3,T,Attchd,2,Y,F,6,2010,230367.9365
+6953,Reg,1Fam,1971,Mitchell,2004,GasA,1738,1,0,3,F,Detchd,1,Y,F,6,2010,148801.6742
+12887,Reg,1Fam,1984,Mitchell,1984,GasA,1666,1,0,2,F,Attchd,2,Y,F,4,2010,160750.9047
+7700,Reg,Duplex,1985,Mitchell,1986,GasA,3648,4,2,4,F,Attchd,2,Y,F,2,2010,267497.6607
+10475,Reg,1Fam,1991,Mitchell,1991,GasA,1898,1,1,3,F,Detchd,2,Y,F,3,2010,184848.4163
+10544,IR1,1Fam,1969,Mitchell,1969,GasA,2343,2,0,5,F,Attchd,1,Y,F,4,2010,159138.172
+9892,Reg,1Fam,1994,Mitchell,1995,GasA,3482,2,1,3,T,Attchd,2,Y,F,2,2010,269480.9386
+12961,Reg,1Fam,1993,Mitchell,1994,GasA,2949,2,1,3,T,Attchd,2,Y,F,3,2010,248643.3583
+10125,Reg,1Fam,2000,Mitchell,2001,GasA,3159,2,1,3,T,BuiltIn,3,Y,F,5,2009,266912.277
+9750,Reg,1Fam,1977,Mitchell,1977,GasA,1828,1,0,2,T,Attchd,1,Y,F,4,2009,153263.5211
+9360,Reg,1Fam,1977,Mitchell,1977,GasA,2244,1,1,2,T,Attchd,2,Y,F,11,2009,199701.147
+11070,Reg,1Fam,1991,Mitchell,1991,GasA,3177,2,0,2,F,Detchd,2,Y,F,4,2009,247989.8312
+12518,IR1,1Fam,1968,Mitchell,1968,GasA,2016,1,0,3,F,Attchd,1,Y,F,4,2009,143969.2482
+13383,IR1,1Fam,1969,Mitchell,2000,GasA,2592,2,0,3,T,Attchd,2,Y,F,3,2009,224343.8189
+7689,IR1,1Fam,1972,Mitchell,1972,GasA,1592,1,0,2,F,Detchd,1,Y,F,7,2009,138291.2453
+7706,Reg,1Fam,1993,Mitchell,1996,GasA,1475,1,0,2,F,Attchd,1,Y,F,8,2009,138265.9311
+7669,Reg,1Fam,1992,Mitchell,1993,GasA,1711,1,0,2,T,Detchd,2,Y,F,6,2009,182460.2972
+10429,Reg,1Fam,1992,Mitchell,1992,GasA,1911,1,1,3,F,Detchd,2,Y,F,7,2009,186729.7008
+10457,IR1,1Fam,1969,Mitchell,1969,GasA,2416,1,1,4,T,Attchd,2,Y,F,4,2009,193563.3162
+23730,IR2,1Fam,1996,Mitchell,1997,GasA,3872,3,0,3,F,Attchd,3,Y,F,9,2008,326655.0506
+11050,Reg,1Fam,1996,Mitchell,1997,GasA,2730,2,1,3,T,Attchd,3,Y,F,9,2008,260135.6354
+10260,Reg,Duplex,1976,Mitchell,1976,GasA,1872,2,2,4,F,Attchd,2,Y,F,11,2008,163652.6459
+9990,Reg,1Fam,1991,Mitchell,1991,GasA,3369,2,0,3,T,Attchd,2,Y,F,7,2008,253746.2575
+8940,IR1,Duplex,1997,Mitchell,1998,GasA,2688,2,0,2,F,Attchd,4,Y,F,11,2008,240243.1213
+9278,Reg,1Fam,2007,Mitchell,2008,GasA,2184,1,0,2,F,NoGar,0,Y,F,2,2008,134734.6268
+4500,Reg,TwnhsE,1997,Mitchell,1997,GasA,2378,2,0,2,F,Attchd,2,Y,F,4,2008,164456.6839
+14137,Reg,1Fam,1964,Mitchell,1964,GasA,2400,1,0,3,F,2Types,3,Y,F,11,2008,171482.4892
+17979,IR1,1Fam,1968,Mitchell,1968,GasA,2273,1,0,3,F,Attchd,1,Y,F,2,2008,158533.7697
+6490,Reg,1Fam,1983,Mitchell,1983,GasA,1632,1,0,2,F,Attchd,1,Y,F,4,2008,136888.4506
+6600,Reg,1Fam,1982,Mitchell,2005,GasA,1690,1,0,3,F,Attchd,1,Y,F,7,2008,143089.5688
+12395,Reg,1Fam,1984,Mitchell,1984,GasA,1753,1,0,3,F,Attchd,2,Y,F,4,2008,159580.7936
+12150,IR1,1Fam,1979,Mitchell,1979,GasA,2300,2,0,2,T,BuiltIn,2,Y,F,1,2007,198593.9231
+10000,Reg,1Fam,2002,Mitchell,2002,GasA,2833,2,0,3,T,Attchd,3,Y,F,12,2007,257560.3337
+12864,IR1,1Fam,2002,Mitchell,2002,GasA,2818,1,1,1,T,Attchd,2,Y,F,7,2007,249451.149
+9928,IR1,1Fam,1991,Mitchell,1992,GasA,2932,2,0,3,T,Attchd,2,Y,F,5,2007,238396.0746
+8750,IR1,1Fam,1975,Mitchell,1975,GasA,1770,1,0,3,F,Attchd,1,Y,F,3,2007,136406.3416
+8410,IR1,1Fam,1974,Mitchell,1974,GasA,1996,1,0,2,T,Attchd,2,Y,F,4,2007,179409.5028
+43500,Reg,1Fam,1953,Mitchell,1953,GasA,2034,1,0,2,F,2Types,4,N,T,6,2007,184550.7154
+9129,Reg,1Fam,1977,Mitchell,1977,GasA,1931,1,0,1,T,Attchd,2,Y,F,7,2007,182418.7561
+15957,IR1,1Fam,1977,Mitchell,1977,GasA,2600,2,0,3,T,Attchd,2,Y,F,9,2007,219734.9704
+33983,IR1,1Fam,1977,Mitchell,1994,GasA,2836,1,1,3,T,Attchd,2,P,F,5,2007,240709.8139
+8286,IR1,1Fam,1977,Mitchell,1977,GasA,2148,1,1,3,T,Attchd,2,Y,F,6,2007,192359.3448
+6723,Reg,1Fam,1971,Mitchell,1971,GasA,1592,1,0,2,F,NoGar,0,Y,F,9,2007,86983.74638
+27697,Reg,1Fam,1961,Mitchell,1961,GasA,3004,1,0,3,F,Attchd,1,Y,F,11,2007,189952.9094
+11000,IR2,1Fam,1976,Mitchell,2003,GasA,2268,1,1,3,F,Attchd,2,Y,F,6,2007,214799.3728
+11625,IR1,1Fam,1983,Mitchell,1983,GasA,1632,1,0,2,F,Attchd,1,Y,F,5,2007,142932.1077
+10447,Reg,1Fam,1984,Mitchell,1984,GasA,1751,1,0,3,F,Attchd,1,Y,F,12,2007,140627.5449
+23580,IR1,1Fam,1979,Mitchell,1979,GasA,3250,2,0,3,T,Attchd,2,Y,F,9,2006,253469.2014
+8385,Reg,Duplex,1978,Mitchell,1978,GasA,3328,2,0,4,F,2Types,2,Y,F,10,2006,181867.0663
+9116,Reg,1Fam,2001,Mitchell,2001,GasA,2982,2,0,3,F,Attchd,2,Y,F,5,2006,233683.63
+11080,Reg,1Fam,1975,Mitchell,1975,GasA,2338,2,0,3,F,Attchd,2,Y,F,5,2006,192191.8987
+7020,Reg,Duplex,1997,Mitchell,1997,GasA,2656,2,0,2,F,Attchd,4,Y,F,11,2006,235989.7102
+10172,IR1,1Fam,1968,Mitchell,2003,GasA,1738,1,0,3,F,Attchd,1,Y,F,10,2006,147188.7322
+11836,IR1,Duplex,1970,Mitchell,1970,GasA,3304,2,0,4,F,2Types,3,Y,F,3,2006,198572.8332
+13384,Reg,1Fam,1969,Mitchell,1979,GasA,2464,1,0,3,T,Attchd,1,Y,F,5,2006,177485.3569
+20000,Reg,1Fam,1960,Mitchell,1996,GasA,2448,1,0,4,T,Detchd,2,Y,F,9,2006,206926.7915
+10441,Reg,1Fam,1992,Mitchell,1992,GasA,1882,1,0,3,F,NoGar,0,Y,F,7,2006,109179.429
+9627,Reg,1Fam,1993,Mitchell,1994,GasA,2996,2,1,3,T,Attchd,3,Y,F,11,2006,269590.8946
+11896,IR1,1Fam,2008,Timberland,2008,GasA,2682,2,0,3,T,Attchd,3,Y,F,5,2010,256419.7585
+9803,Reg,1Fam,2009,Timberland,2010,GasA,2428,2,0,2,F,Attchd,2,Y,F,1,2010,219529.7981
+9802,Reg,1Fam,2006,Timberland,2007,GasA,1828,2,1,3,F,BuiltIn,2,Y,F,4,2010,185322.3441
+13438,IR1,1Fam,2008,Timberland,2008,GasA,4226,2,0,3,T,Attchd,3,Y,F,7,2009,322531.0146
+14463,IR1,1Fam,2008,Timberland,2008,GasA,3282,2,0,3,F,Attchd,3,Y,F,1,2009,273093.3189
+9839,IR1,1Fam,1980,Timberland,2006,GasA,2949,2,1,3,T,BuiltIn,2,Y,F,2,2009,239446.6675
+14419,IR1,1Fam,1987,Timberland,1989,GasA,3124,2,1,3,T,Attchd,2,Y,F,7,2009,256614.7971
+9157,IR1,1Fam,2003,Timberland,2003,GasA,2926,2,1,3,F,Attchd,2,Y,F,2,2009,243307.3543
+12633,IR1,1Fam,2007,Timberland,2007,GasA,3956,2,0,2,T,Attchd,3,Y,F,5,2009,315407.5497
+4084,IR1,TwnhsE,1986,Timberland,1986,GasA,2778,2,0,2,T,Attchd,2,Y,F,7,2008,186844.8778
+11563,IR1,1Fam,2006,Timberland,2007,GasA,3055,2,0,3,F,Attchd,3,Y,F,4,2008,261630.538
+12852,IR1,1Fam,2007,Timberland,2007,GasA,2700,2,1,3,T,Attchd,2,Y,F,1,2008,249290.1784
+9802,Reg,1Fam,2006,Timberland,2007,GasA,1794,2,1,3,F,BuiltIn,2,Y,F,4,2008,184839.8974
+12018,IR1,1Fam,2008,Timberland,2008,GasA,2408,2,1,3,F,Attchd,3,Y,F,10,2008,246262.4026
+12890,IR1,1Fam,1989,Timberland,1989,GasA,2990,2,0,3,T,Attchd,2,Y,F,7,2008,240761.5634
+18265,Reg,1Fam,1986,Timberland,1986,GasA,2512,2,0,3,T,Attchd,2,Y,F,3,2008,219911.7416
+11202,IR1,1Fam,2003,Timberland,2003,GasA,2872,2,0,3,T,Attchd,2,Y,F,6,2008,243208.4563
+7915,IR1,1Fam,1999,Timberland,2000,GasA,3341,2,0,3,F,Attchd,2,Y,F,12,2008,248884.6545
+11449,IR1,1Fam,2007,Timberland,2007,GasA,3612,2,0,3,T,Attchd,2,Y,F,1,2008,276360.4249
+11447,IR1,1Fam,2005,Timberland,2006,GasA,3928,2,1,3,T,Attchd,3,Y,F,6,2008,317919.6843
+4054,IR1,TwnhsE,1987,Timberland,1987,GasA,3002,2,0,2,T,Attchd,2,Y,F,10,2007,197479.7492
+19958,Reg,1Fam,1958,Timberland,1995,GasA,2864,2,1,4,T,Attchd,2,Y,F,7,2007,239431.1995
+8368,IR1,1Fam,2006,Timberland,2007,GasA,3378,2,0,3,F,Attchd,2,Y,F,4,2007,254877.686
+8298,IR1,1Fam,2006,Timberland,2007,GasA,3110,2,0,2,T,Attchd,2,Y,F,9,2007,259645.5162
+10331,Reg,1Fam,1985,Timberland,1985,GasA,2505,2,0,3,F,Attchd,2,Y,F,7,2007,204458.5637
+6718,IR1,1Fam,2001,Timberland,2001,GasA,2579,2,0,2,F,Attchd,2,Y,F,1,2007,222186.3204
+11305,Reg,1Fam,2002,Timberland,2002,GasA,3844,2,0,2,T,Attchd,3,Y,F,4,2007,305486.2494
+7777,IR1,1Fam,1996,Timberland,1996,GasA,2982,2,0,3,T,Attchd,2,Y,F,11,2007,242172.1303
+11800,IR1,1Fam,2003,Timberland,2004,GasA,3608,3,1,5,T,BuiltIn,2,Y,F,7,2007,275830.48
+12633,IR1,1Fam,2006,Timberland,2007,GasA,3648,2,0,3,T,Attchd,3,Y,F,9,2007,298143.8157
+50102,IR1,1Fam,1958,Timberland,1958,GasA,3282,1,0,2,T,Attchd,2,Y,F,3,2006,250525.1569
+8098,IR1,1Fam,2000,Timberland,2000,GasA,2784,2,0,2,F,Attchd,2,Y,F,10,2006,232146.6445
+13618,Reg,1Fam,2005,Timberland,2006,GasA,3688,2,0,3,T,Attchd,3,Y,F,11,2006,298242.1448
+11577,Reg,1Fam,2005,Timberland,2006,GasA,3676,2,0,3,T,Attchd,3,Y,F,9,2006,296287.1384
+2394,Reg,Twnhs,1973,Meadow Village,1973,GasA,1890,1,0,2,T,Attchd,1,Y,F,5,2010,115528.7416
+1476,Reg,Twnhs,1970,Meadow Village,1970,GasA,1638,1,1,3,F,NoGar,0,Y,F,3,2010,55023.18861
+1900,Reg,TwnhsE,1970,Meadow Village,1970,GasA,1638,1,1,3,F,NoGar,0,Y,F,6,2010,45274.21057
+1890,Reg,TwnhsE,1972,Meadow Village,1972,GasA,1638,1,1,3,F,Attchd,1,Y,F,6,2010,88387.04198
+4224,Reg,TwnhsE,1975,Meadow Village,1975,GasA,2080,1,0,3,F,Attchd,2,Y,F,6,2008,119651.4621
+2665,Reg,TwnhsE,1976,Meadow Village,1976,GasA,2025,2,0,4,T,Attchd,1,Y,F,5,2008,116503.9131
+1974,Reg,Twnhs,1973,Meadow Village,2006,GasA,1514,1,0,2,F,BuiltIn,1,Y,F,6,2008,91775.99759
+1596,Reg,Twnhs,1973,Meadow Village,1973,GasA,1450,1,0,1,T,BuiltIn,1,Y,F,7,2008,90910.57055
+1477,Reg,Twnhs,1970,Meadow Village,2007,GasA,1638,2,1,3,F,NoGar,0,Y,F,3,2008,84776.04857
+1504,Reg,Twnhs,1972,Meadow Village,1972,GasA,1638,1,1,3,F,Attchd,1,Y,F,5,2007,99712.10418
+1533,Reg,Twnhs,1970,Meadow Village,1970,GasA,1522,1,0,2,F,BuiltIn,1,Y,F,7,2007,76870.77556
+1495,Reg,TwnhsE,1970,Meadow Village,1970,GasA,1638,1,1,3,F,NoGar,0,Y,F,5,2007,46349.27627
+1890,Reg,Twnhs,1976,Meadow Village,1976,GasA,1638,1,1,3,F,Attchd,1,Y,F,4,2007,102325.0649
+2665,Reg,TwnhsE,1977,Meadow Village,1977,GasA,1568,1,1,3,T,BuiltIn,1,Y,F,5,2006,88798.04625
+1470,Reg,Twnhs,1970,Meadow Village,1970,GasA,1260,1,0,1,F,NoGar,0,Y,F,4,2006,41896.46504
+1484,Reg,TwnhsE,1972,Meadow Village,1972,GasA,1638,1,1,3,F,Attchd,1,Y,F,5,2006,89930.50621
+1533,Reg,Twnhs,1970,Meadow Village,1970,GasA,1638,1,1,3,F,CarPort,1,Y,F,12,2006,76254.2638
+1526,Reg,Twnhs,1970,Meadow Village,1970,GasA,1638,1,1,3,F,NoGar,0,Y,F,6,2006,57148.30525
+1936,Reg,Twnhs,1970,Meadow Village,1970,GasA,1638,1,1,3,F,NoGar,0,Y,F,6,2006,57411.27012
+1894,Reg,TwnhsE,1970,Meadow Village,1970,GasA,1638,1,1,3,F,CarPort,1,Y,F,4,2006,65669.62252
+15676,IR1,1Fam,1980,Veenker,1980,GasA,4028,2,0,2,T,Attchd,3,Y,F,4,2009,303840.7666
+14694,IR1,1Fam,1977,Veenker,2008,GasA,3388,2,0,2,T,Attchd,2,Y,F,6,2009,268961.4675
+15417,Reg,1Fam,1981,Veenker,1981,GasA,3480,1,1,2,F,Attchd,2,Y,F,6,2009,247081.6681
+9600,Reg,1Fam,1976,Veenker,1976,GasA,2891,2,1,4,T,Attchd,2,Y,F,1,2009,228186.9803
+19508,Reg,1Fam,1974,Veenker,1974,GasA,2860,2,0,3,T,Attchd,2,Y,F,7,2008,228224.611
+11064,IR2,TwnhsE,1995,Veenker,1995,GasA,2469,1,1,1,T,Attchd,2,Y,F,8,2008,201373.7952
+24572,IR1,1Fam,1977,Veenker,1977,GasA,3938,2,2,3,T,Attchd,3,Y,F,6,2008,319410.9789
+16280,Reg,1Fam,1976,Veenker,2007,GasA,3097,3,0,3,T,Attchd,2,Y,F,5,2008,263459.1409
+19522,IR1,1Fam,1990,Veenker,1990,GasA,3726,2,1,3,T,Attchd,2,Y,F,2,2007,286615.8218
+9466,IR2,TwnhsE,1994,Veenker,1995,GasA,2988,1,1,1,T,Attchd,2,Y,F,5,2007,222089.7578
+12000,Reg,1Fam,1980,Veenker,1980,GasA,4364,2,1,3,T,Attchd,2,Y,F,3,2007,300216.3794
+17778,IR1,1Fam,1981,Veenker,1981,GasA,4958,2,0,2,T,Attchd,2,Y,F,3,2007,326852.0354
+14330,IR1,1Fam,1974,Veenker,1974,GasA,4394,2,0,3,T,Attchd,2,Y,T,1,2006,289666.4264

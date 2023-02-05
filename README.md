@@ -3,8 +3,7 @@
 ## Overview of the Project
 
 The aim of the project is to create a machine learning model that can predict the prices of houses in Ames City, Iowa, USA. 
-Tableau will use the machine learning model predicted values to display trends and results for the sellers, where they can simultaneously filter for multiple search criteria by entering all, 
-or some of the variables in the dataset as an input.
+Tableau will use the machine learning model predicted values to display trends and results for the sellers, where the sellers can visualize how the predicted sale price can be affected by various variables.
 
 ## Why Was This Topic Choosen?
 

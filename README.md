@@ -3,7 +3,7 @@
 ## Overview of the Project
 
 The aim of the project is to create a machine learning model that can predict the prices of houses in Ames City, Iowa, USA. 
-An interactive website for the sellers will be created, where they can simultaneously filter for multiple search criteria by entering all, 
+Tableau will use the machine learning model predicted values to display trends and results for the sellers, where they can simultaneously filter for multiple search criteria by entering all, 
 or some of the variables in the dataset as an input.
 
 ## Why Was This Topic Choosen?
@@ -71,10 +71,6 @@ The script to create all 7 tables and insert data to all 5 reference tables has 
 - Training and Executing Machine Learning Model
 	* Machine Learning
 	* OneHotEncoder, RareLabelEncoder, RandomForestRegressor, joblib, MultipleLinearRegression
-- Presentation of Data Visualization
-	* HTML, Javascript, CSS
-- Calling a Model
-	* Flask
 	
 ## Description of Data Exploration
 The original dataset, as mentioned in the ‘Data Description’ consisted of 81 columns and 1460 rows. By the end of the data wrangling only 18 columns and 1150 rows remained. This section aims to provide the reasoning that led to various categories of data being removed, or transformed.

@@ -187,6 +187,44 @@ Furthermore, with the results of each model stacked on top of the actual values 
 
 ![model_accuracy](https://user-images.githubusercontent.com/111096246/215362780-8321c2b5-1b68-487c-8598-639c6c4057db.PNG)
 
+### Results of the Analysis
+
+Three questions were proposed at the beginning:
+1. Which is the best time of the year to sell a home?
+2. Which neighborhood has the highest selling prices?
+3. Does the age of the house affect the sale price?
+
+To answer these questions, two separate datasets were used to aid in visualizing the answers to the aforementioned questions. The first dataset consisted of the “clean” data, with the actual prices, and the second dataset consisted of the values obtained from the machine learning model’s output. 
+
+![Best Time of the Year to Sell](https://user-images.githubusercontent.com/111096246/217127448-69431d03-7ec4-4184-8641-324d52a5ede0.PNG)
+
+By taking note of the first image, hosting the clean data, one can observe how there are consistent peaks during summer time every year. It can concluded that the months of June and July are most popular for house selling, except in 2010 when May had more sales. 
+
+![Best Time of the Year to Sell](https://user-images.githubusercontent.com/111096246/217127538-0955c115-2526-4588-b626-cc887c474031.PNG)
+
+The second image, which presents the predicted values data, one has to inspect how dense the lines are for each month. The denser the line, the more sales are conducted in that month. As can be observed from the second image, May through to July are the densest of lines out of all the months.
+
+By comparing the results from both sets of graphs, it can concluded that the predicted values matched those of the actual dataset and painted the same image together. Although we now know when is the best time to sell, another key component to selling a house is figuring out where to sell.
+
+![Higher Selling Prices per Neighborhood](https://user-images.githubusercontent.com/111096246/217127593-0379044a-6820-4d61-b0a5-38964b173880.PNG)
+
+The first image, with the clean dataset,  one has to note which of the neighborhoods, essentially, reaches the highest point. This can lead to pointing out that Northridge is the neighborhood with the highest selling homes. Northridge Heights is the second highest selling neighborhood, and one observation to make is how much more populated the Northridge Heights neighborhood is for selling homes.
+
+![Higher Selling Prices per Neighborhood](https://user-images.githubusercontent.com/111096246/217127611-5bf89a01-47ae-49ed-ad52-23a96d8bedee.PNG)
+
+The Second image, with the predicted values, tells a different story. Disregarding the outlier in Crawford, Northridge Heights is actually the neighborhood with the highest selling homes. Many other neighborhoods have predicted sale prices similar to those of Northridge Heights, yet do not reach the maximum sale prices that Northridge Heights was able to obtain.
+
+Although both graphs do not agree on which is the neighborhood with the highest selling price, they both do nod at Northridge Heights as being an up and coming neighborhood with future development leading to success. After figuring out when and where are the best times, and places, to sell a home, another pivotal question remains: How does the age of the house affect the final sale price?
+
+![Year_Built_Sale_price](https://user-images.githubusercontent.com/111096246/217127662-aa622c36-b89c-4604-923c-4867f0d160c3.PNG)
+
+The clean data graph shows an upward trend of prices as the years go on. In other words, the younger the house is, the higher the sale price. This is a straightforward graph that does not need further inspecting.
+
+![Year_Built_Sale_price](https://user-images.githubusercontent.com/111096246/217127681-4fc142d8-9041-4f67-a871-c54170bafb49.PNG)
+
+The graph with the predicted values shows the same thing as the actual data. Although the trend line shares the same direction, the trend line is ever so slightly steeper than the clean data’s trend line. This signifies that the price hike, eventually, will be much more noticeable in the predicted data’s graph than the clean data’s.
+
+In conclusion, it has been identified that the best time of the year to sell a home in Ames City, USA, is during June and July. The best neighborhood was not identified, as both graphs pointed to two different neighborhoods. One designated Northridge as the highest selling neighborhood, yet the other graph favored with Northridge Heights. It may be disheartening that the two graphs did not agree with one another, yet the clean data’s graph showed that Northridge Heights had a higher number of sales, indicating further growth in the area. Lastly, it has been identified that the age of the house does have a relationship with the sale price of a home. The younger the house is, or the newer the build, the higher the sale price.
 
 ## Project Status
 
@@ -216,5 +254,16 @@ For the second deliverable the requirements change from the administrative side 
 - Updating the README.md with updates from work completed and breakdowns of the data exploration and analysis on model & visualization.
 - Generate a draft version of the HTML page.
 
-![segment_two](https://user-images.githubusercontent.com/111096246/215358724-13aaa75e-1bc8-4fec-979f-cde5aada12dd.PNG)
-Work is still underway to meet the requirements for Segment Two. This page will be updated once the second set of deliverables have been submitted.
+![segment2](https://user-images.githubusercontent.com/111096246/217127238-7156ba07-d50f-4c34-87ac-a8465e7d2bff.PNG)
+
+### Segment Three – ‘Put It All Together’
+
+For the third deliverable the work done so far culminates with the results and the proceeding analysis. Segment Three, ‘Put It All Together’ consists of the following tasks:
+- Running Test Data in Model
+- Build Visualization From the Model’s Output
+- Verify Database Creation
+- Updating the README.md
+- Conducting Self Assessments
+- Presenting the Project
+
+![segment3](https://user-images.githubusercontent.com/111096246/217127338-0ce2147f-4624-4381-99f5-2a760c11dafa.PNG)

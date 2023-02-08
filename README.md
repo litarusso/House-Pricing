@@ -212,7 +212,7 @@ The first image, with the clean dataset,  one has to note which of the neighborh
 
 ![Higher Selling Prices per Neighborhood](https://user-images.githubusercontent.com/111096246/217127611-5bf89a01-47ae-49ed-ad52-23a96d8bedee.PNG)
 
-The Second image, with the predicted values, tells a different story. Disregarding the outlier in Crawford, Northridge Heights is actually the neighborhood with the highest selling homes. Many other neighborhoods have predicted sale prices similar to those of Northridge Heights, yet do not reach the maximum sale prices that Northridge Heights was able to obtain.
+The Second image, with the predicted values, tells a different story. Disregarding the outlier in Edwards, Northridge Heights is actually the neighborhood with the highest selling homes. Many other neighborhoods have predicted sale prices similar to those of Northridge Heights, yet do not reach the maximum sale prices that Northridge Heights was able to obtain.
 
 Although both graphs do not agree on which is the neighborhood with the highest selling price, they both do nod at Northridge Heights as being an up and coming neighborhood with future development leading to success. After figuring out when and where are the best times, and places, to sell a home, another pivotal question remains: How does the age of the house affect the final sale price?
 
